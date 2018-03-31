@@ -230,6 +230,13 @@ class IPAConverter():
                 return w
         return w
 
+    def convert_all(self, w):
+        w = self.convert_vowels(w)
+        w = self.convert_cons(w)
+        w = self.convert_finals(w)
+        w = self.convert_combinations(w)
+        return w
+
     def transcribe(self):
         for line in self.text:
             words = re.search(self.search_pron, line)
@@ -246,34 +253,22 @@ class IPAConverter():
                 if w != '-':
                     if '(' not in w:
                         w = self.convert_tone(w)
-                        w = self.convert_vowels(w)
-                        w = self.convert_cons(w)
-                        w = self.convert_finals(w)
-                        w = self.convert_combinations(w)
+                        w = self.convert_all(w)
                         self.result += w + ' '
                     else:
                         brackets = self.bracket_words(w)
                         if len(brackets) == 2 and brackets[0] == brackets[1]:
                             w = brackets[0]
                             w = self.convert_tone(w)
-                            w = self.convert_vowels(w)
-                            w = self.convert_cons(w)
-                            w = self.convert_finals(w)
-                            w = self.convert_combinations(w)
+                            w = self.convert_all(w)
                             self.result += w + ' '
                         else:
                             word1 = self.convert_tone(brackets[0])
-                            word1 = self.convert_vowels(word1)
-                            word1 = self.convert_cons(word1)
-                            word1 = self.convert_finals(word1)
-                            word1 = self.convert_combinations(word1)
+                            word1 = self.convert_all(word1)
                             result = word1 + '('
                             for word in brackets[1:]:
                                 word = self.convert_tone(word)
-                                word = self.convert_vowels(word)
-                                word = self.convert_cons(word)
-                                word = self.convert_finals(word)
-                                word = self.convert_combinations(word)
+                                word = self.convert_all(word)
                                 result += word + ','
                             result += ')'
                             result = result.replace(',)', ')')

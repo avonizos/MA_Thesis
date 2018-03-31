@@ -15,15 +15,15 @@ class Converter:
             'Accept-Encoding': 'none',
             'Accept-Language': 'en-US,en;q=0.8',
             'Connection': 'keep-alive'}
-        with codecs.open('shijing.txt', 'r', 'utf-8') as f:
+        with codecs.open('../txt/shijing_original/characters_trad.txt', 'r', 'utf-8') as f:
             self.source = f.readlines()
-        self.out = codecs.open('cantonese.txt', 'w', 'utf-8')
+        self.out = codecs.open('cantonese.txt', 'a', 'utf-8')
         self.text = ''
 
     def read_source(self):
-        counter = 0
+        counter = 2574
         sleep_c = 0
-        for line in self.source:
+        for line in self.source[2574:]:
             if sleep_c % 100 == 0:
                 sleep(20)
             print counter
