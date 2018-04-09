@@ -4,7 +4,7 @@ import codecs
 import re
 
 class Editor():
-    f = codecs.open('cantonese.txt', 'r', 'utf-8')
+    f = codecs.open('hokkien.txt', 'r', 'utf-8')
     search_all = re.compile(u'(.*?)\t(.*?)')
     search_nums = re.compile(u'([0-9]+)-([0-9]+)')
 

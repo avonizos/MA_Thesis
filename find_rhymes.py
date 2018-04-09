@@ -15,8 +15,8 @@ import re
 
 # EDIT RHYMINGS!
 
-f = codecs.open('csv/shijing_original/cantonese_ipa.csv', 'r', 'utf-8')
-out = codecs.open('csv/rhymes/rhymes_cantonese_ipa.csv', 'w', 'utf-8')
+f = codecs.open('csv/shijing_original/shijing_ipa.csv', 'r', 'utf-8')
+out = codecs.open('csv/rhymes/test.csv', 'w', 'utf-8')
 #out = codecs.open('nothing.txt', 'w', 'utf-8')
 
 class Rhymes():
@@ -27,7 +27,7 @@ class Rhymes():
     parsed_final_tone = []
     cur_rhymes = 0
     chars = ''
-    vowels = u'aɐeəiouãẽĩɔ̃ũɑɛyɿʅɤøœ' # Mandarin + Fuzhou ɔøœ + Cantonese ɐ
+    vowels = u'aɐeəiɨɔouãẽĩɔ̃ũɑɛyɿʅɤøœ' # Mandarin + Fuzhou ɔøœ + Cantonese ɐ
     parse = re.compile(u'(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)$')
     search_pron = re.compile(u'([^ ]+)$')
     search_tone = re.compile(u'([0-9]+)')
@@ -135,8 +135,8 @@ class Rhymes():
             if char in self.vowels:
                 seq += char
         if seq == '':
-            if u'ŋ̩' in s:
-                seq = u'ŋ̩'
+            if u'ŋ̍' in s:
+                seq = u'ŋ̍'
             if u'm̩' in s:
                 seq = u'm̩'
         return seq
@@ -162,21 +162,22 @@ class Rhymes():
         poem_words = []
 
         num = 0
-        # nums = [102, 104, 106, 108, 110, 112, 252, 258, 264, 443, 862, 902, 1014, 1624, 2054, 3230, 3471, 3499, 4406, 5116, 5604, 5605, 6227, 6662, 7002]
+        # nums = [0, 3, 25, 29, 30, 31]
 
         #nums = []
         for line in f:
             #if line[-3] != '-':
-            # if num not in nums:
+             #if num not in nums:
                 self.text.append(line)
             #else:
-            #    nums.append(num)
-            #    self.no_rhyme += 1
+                #nums.append(num)
+                #self.no_rhyme += 1
             #num += 1
 
-        # print nums
+        #print nums
 
         for line in self.text:
+            #if num_line not in nums:
             if line[-3] != '-':
                 find_parts = re.search(self.parse, line)
                 if find_parts is not None:
@@ -239,3 +240,4 @@ print "Overall density: %.5f percent" % ( (all / float(26597571)) * 100)
 print "Amount of max stanza density: %d, %.2f percent" % (r.max_stanza_density, (r.max_stanza_density/float(1141)) * 100)
 
 print "No ending characters: %d, %.5f" % (r.no_rhyme, (r.no_rhyme/float(7294)))
+

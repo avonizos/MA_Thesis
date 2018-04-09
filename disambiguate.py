@@ -4,10 +4,10 @@ import codecs
 import re
 
 class Disambiguator():
-    f1 = codecs.open('txt/ipa ambiguous/cantonese_ipa.txt', 'r', 'utf-8')
+    f1 = codecs.open('txt/ipa ambiguous/hakka_ipa.txt', 'r', 'utf-8')
     f2 = codecs.open('txt/shijing_original/mandarin/mandarin_ipa.txt', 'r', 'utf-8')
     f3 = codecs.open('csv/rhymes/rhymes_mandarin_ipa.csv', 'r', 'utf-8')
-    f4 = codecs.open('txt/ipa disambiguated/cantonese_disambiguated.txt', 'w', 'utf-8')
+    f4 = codecs.open('txt/ipa disambiguated/hakka_disambiguated.txt', 'w', 'utf-8')
     search_last = re.compile(u'([^ ]+)$')
     search_nums = re.compile(u'([0-9]+)-([0-9]+)')
     search_rhymes = re.compile(u'(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t')
