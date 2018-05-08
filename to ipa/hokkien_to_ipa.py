@@ -8,7 +8,7 @@ import codecs
 import re
 
 class IPAConverter():
-    out = codecs.open('../txt/hokkien_ipa_1.txt', 'w', 'utf-8')
+    out = codecs.open('../txt/ipa ambiguous/hokkien_ipa.txt', 'w', 'utf-8')
     text = []
     result = ''
     search_pron = re.compile(u'([^ ]+)? ?([^ ]+)? ?'
@@ -336,4 +336,4 @@ class IPAConverter():
 c = IPAConverter()
 c.load()
 c.transcribe()
-#print c.result
+print c.result
