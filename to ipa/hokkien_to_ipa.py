@@ -67,11 +67,13 @@ class IPAConverter():
         u'tsi': u'tɕ',
         u'si': u'ɕ',
         u'ji': u'ʑ',
+        u'zi': u'ʑ',
         u'tshe': u'tɕʰ',
         u'tsʰe': u'tɕʰ',
         u'tse': u'tɕ',
         u'se': u'ɕ',
         u'je': u'ʑ',
+        u'ze': u'ʑ',
     }
     ipa_i_combinations = {
         u'tshi': u'tɕʰi',
@@ -79,11 +81,13 @@ class IPAConverter():
         u'tsi': u'tɕi',
         u'si': u'ɕi',
         u'ji': u'ʑi',
+        u'zi': u'ʑi',
         u'tshe': u'tɕʰe',
         u'tsʰe': u'tɕʰe',
         u'tse': u'tɕe',
         u'se': u'ɕe',
         u'je': u'ʑe',
+        u'ze': u'ʑe',
     }
     ipa_3_cons = {
         u'tsh': u'tsʰ',
