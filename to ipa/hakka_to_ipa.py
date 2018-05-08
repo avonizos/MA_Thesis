@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+# Author: Olga Sozinova
+# Python program for converting the Taiwanese Hakka
+# version of Shijing from romanisation system into IPA
+
 import codecs
 import re
 
@@ -117,9 +121,6 @@ class IPAConverter():
     def convert_all(self, w):
         w = self.convert_final(w)
         w = self.convert_initial(w)
-        # w = self.convert_cons(w)
-        # w = self.convert_finals(w)
-        # w = self.convert_combinations(w)
         return w
 
     def transcribe(self):
@@ -137,22 +138,18 @@ class IPAConverter():
             for w in line_words:
                 if w != '-':
                     if '(' not in w:
-                        # w = self.convert_tone(w)
                         w = self.convert_all(w)
                         self.result += w + ' '
                     else:
                         brackets = self.bracket_words(w)
                         if len(brackets) == 2 and brackets[0] == brackets[1]:
                             w = brackets[0]
-                            # w = self.convert_tone(w)
                             w = self.convert_all(w)
                             self.result += w + ' '
                         else:
-                            # word1 = self.convert_tone(brackets[0])
                             word1 = self.convert_all(brackets[0])
                             result = word1 + '('
                             for word in brackets[1:]:
-                                # word = self.convert_tone(word)
                                 word = self.convert_all(word)
                                 result += word + ','
                             result += ')'
