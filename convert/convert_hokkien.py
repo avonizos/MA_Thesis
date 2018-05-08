@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+# Author: Olga Sozinova
+# Python program for obtaining the Taiwanese Hokkien dialect's IPA transcriptions
+# from the online dictionary for the Shijing text
+
 import codecs
 import urllib
 import urllib2
@@ -15,9 +19,9 @@ class Converter:
             'Accept-Encoding': 'none',
             'Accept-Language': 'en-US,en;q=0.8',
             'Connection': 'keep-alive'}
-        with codecs.open('../txt/shijing_trad.txt', 'r', 'utf-8') as f:
+        with codecs.open('../txt/shijing_original/characters_trad.txt', 'r', 'utf-8') as f:
             self.source = f.readlines()
-        self.out = codecs.open('../txt/hokkien_trad.txt', 'w', 'utf-8')
+        self.out = codecs.open('../txt/shijing_original/hokkien_1.txt', 'w', 'utf-8')
         self.text = ''
 
     def read_source(self):
@@ -45,6 +49,7 @@ class Converter:
         link = "http://twblg.dict.edu.tw/holodict_new/result_page.jsp?n_no=0&curpage=1&sample=" +\
                 query_text +\
                 "&radiobutton=0&querytarget=1&limit=20&pagenum=1&rowcount=2"
+        print link
 
         req = urllib2.Request(link, headers=self.hdr)
         try:
@@ -54,7 +59,6 @@ class Converter:
            response = urllib2.urlopen(req)
         raw_data = response.read()
         response.close()
-        #print raw_data
 
         sound = re.findall(u'tlsound">[\r\n\t]*(.*)[\r\n\t]*</', raw_data)
         if sound is not None:
