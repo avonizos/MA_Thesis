@@ -206,10 +206,10 @@ class IPAConverter():
         for tone in self.eighth:
             if tone in w and '(' not in w:
                 w = w.replace(tone, self.eighth[tone])
-                w += u'5ʔ'
+                w += u'5'
                 return w
         if w[-1] in self.fourth:
-            w += u'2ʔ'
+            w += u'2'
             return w
         return w + u'55'
 
