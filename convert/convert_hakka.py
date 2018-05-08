@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+# Author: Olga Sozinova
+# Python program for obtaining the Taiwanese Hakka, Sixian dialect's IPA transcriptions
+# from the online dictionary for the Shijing text
+
 import codecs
 import urllib
 import urllib2
@@ -153,7 +157,6 @@ class Converter:
                                     result += ')'
                                     result = result.replace(',)', ')')
 
-
                             for el in find_si:
                                 new_el = self.sup_convert(el[3:])
                                 find_words = re.search(u'^(.*?[0-9]+)(.*?[0-9]+)$', new_el)
@@ -164,8 +167,9 @@ class Converter:
                     if e.code == 404:
                         pass
 
-        print result
         result = result.decode('utf-8')
+        result = result.replace(u'⃞', u'')
+        print result
         self.out.write(result + ' ')
 
 c = Converter()
