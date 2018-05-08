@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
 
+# Author: Olga Sozinova
+# Python program for converting the Taiwanese Hokkien
+# version of Shijing from romanisation system into IPA
+
 import codecs
 import re
 
 class IPAConverter():
-    out = codecs.open('../txt/hokkien_ipa.txt', 'w', 'utf-8')
+    out = codecs.open('../txt/hokkien_ipa_1.txt', 'w', 'utf-8')
     text = []
     result = ''
     search_pron = re.compile(u'([^ ]+)? ?([^ ]+)? ?'
@@ -18,8 +22,9 @@ class IPAConverter():
         u'í': u'i',
         u'ó': u'o',
         u'ú': u'u',
-        u'ń': u'n',
-        u'ḿ': u'ḿ'
+        u'ń': u'n̩',
+        u'ḿ': u'm̩',
+        u'ŋ̍' : u'ŋ̍'
     }
     third = {
         u'à': u'a',
@@ -27,7 +32,7 @@ class IPAConverter():
         u'ì': u'i',
         u'ò': u'o',
         u'ù': u'u',
-        u'ǹ': u'n'
+        u'ǹ': u'n̩'
     }
     fourth = u'ptkh'  # 3ʔ (32)
     fifth = {
@@ -36,8 +41,8 @@ class IPAConverter():
         u'î': u'i',
         u'ô': u'o',
         u'û': u'u',
-        u'm̂': u'm',
-        u'n̂': u'n'
+        u'm̂': u'm̩',
+        u'n̂': u'n̩'
     }
     seventh = {
         u'ā': u'a',
@@ -45,8 +50,8 @@ class IPAConverter():
         u'ī': u'i',
         u'ō': u'o',
         u'ū': u'u',
-        u'm̄': u'm',
-        u'n̄': u'n'
+        u'm̄': u'm̩',
+        u'n̄': u'n̩'
     }
     eighth = {
         u'a̍': u'a',
@@ -54,19 +59,31 @@ class IPAConverter():
         u'i̍': u'i',
         u'o̍': u'o',
         u'u̍': u'u',
-        u'm̍': u'm'
+        u'm̍': u'm̩'
     }
     ipa_combinations = {
         u'tshi': u'tɕʰ',
         u'tsʰi': u'tɕʰ',
         u'tsi': u'tɕ',
         u'si': u'ɕ',
+        u'ji': u'ʑ',
+        u'tshe': u'tɕʰ',
+        u'tsʰe': u'tɕʰ',
+        u'tse': u'tɕ',
+        u'se': u'ɕ',
+        u'je': u'ʑ',
     }
     ipa_i_combinations = {
         u'tshi': u'tɕʰi',
         u'tsʰi': u'tɕʰi',
         u'tsi': u'tɕi',
         u'si': u'ɕi',
+        u'ji': u'ʑi',
+        u'tshe': u'tɕʰe',
+        u'tsʰe': u'tɕʰe',
+        u'tse': u'tɕe',
+        u'se': u'ɕe',
+        u'je': u'ʑe',
     }
     ipa_3_cons = {
         u'tsh': u'tsʰ',
@@ -78,7 +95,7 @@ class IPAConverter():
         u'kh': u'kʰ'
     }
     ipa_1_cons = {
-        u'j': u'dz'
+        u'j': u'z'
     }
     ipa_finals = {
         u'p': u'p̚',
@@ -119,7 +136,7 @@ class IPAConverter():
     }
 
     def load(self):
-        f = codecs.open('../txt/hokkien.txt', 'r', 'utf-8')
+        f = codecs.open('../txt/shijing_original/dialects/hokkien.txt', 'r', 'utf-8')
         for line in f:
             self.text.append(line)
 
@@ -139,6 +156,17 @@ class IPAConverter():
             else:
                 for comb in self.ipa_i_combinations:
                     w = w.replace(comb, self.ipa_i_combinations[comb])
+        if vowels in u'':
+            if u'ng' in w:
+                w = w.replace(u'ng', u'ŋ̍')
+            if u'n̩g' in w:
+                w = w.replace(u'n̩g', u'ŋ̍')
+            if u'ŋ' in w:
+                w = w.replace(u'ŋ', u'ŋ̍')
+            if u'm' in w:
+                w = w.replace(u'm', u'm̩')
+            if u'n' in w:
+                w = w.replace(u'n', u'n̩')
         return w
 
     def bracket_words(self, word):
@@ -159,7 +187,7 @@ class IPAConverter():
         for tone in self.third:
             if tone in w and '(' not in w:
                 w = w.replace(tone, self.third[tone])
-                w += u'31'
+                w += u'21'
                 return w
         for tone in self.fifth:
             if tone in w and '(' not in w:
@@ -177,7 +205,7 @@ class IPAConverter():
                 w += u'5ʔ'
                 return w
         if w[-1] in self.fourth:
-            w += u'3ʔ'
+            w += u'2ʔ'
             return w
         return w + u'55'
 
@@ -206,16 +234,22 @@ class IPAConverter():
 
     def convert_finals(self, w):
         for final in self.ipa_finals:
-            if w[-3] == final:
-                w = w.replace(w[-3], self.ipa_finals[final])
-                return w
+            num_pos = re.search(u'[0-9]+', w)
+            if num_pos is not None:
+                num = num_pos.group(0)
+                position = w.find(num[0])
+                if w[position-1] == final:
+                    n = 0
+                    new_w = u''
+                    while n < position-1:
+                        new_w += w[n]
+                        n += 1
+                    new_w += self.ipa_finals[w[position-1]]
+                    new_w += w[position:]
+                    return new_w
         return w
 
     def convert_cons(self, w):
-        #for cons in self.ipa_4_cons:
-        #    if cons in w:
-        #        w = w.replace(cons, self.ipa_4_cons[cons])
-        #        return w
         for cons in self.ipa_3_cons:
             if cons in w:
                 w = w.replace(cons, self.ipa_3_cons[cons])
@@ -228,6 +262,18 @@ class IPAConverter():
             if cons in w:
                 w = w.replace(cons, self.ipa_1_cons[cons])
                 return w
+
+        num_pos = re.search(u'[0-9]+', w)
+        if num_pos is not None:
+            num = num_pos.group(0)
+            position = w.find(num[0])
+            if w[position-1] not in u'mngŋ':
+                  if w[0] == u'b':
+                    w = w.replace(w[0], u'ᵐb')
+                    return w
+                  if w[0] == u'g':
+                    w = w.replace(w[0], u'ᵑɡ')
+                    return w
         return w
 
     def convert_all(self, w):
@@ -252,7 +298,14 @@ class IPAConverter():
             for w in line_words:
                 if w != '-':
                     if '(' not in w:
-                        w = self.convert_tone(w)
+                        if w.startswith(u'-'):
+                            w = w.replace(u'--', u'')
+                            num_pos = re.search(u'[0-9]+', w)
+                            if num_pos is not None:
+                                num = num_pos.group(0)
+                                w = w.replace(num, u'')
+                        else:
+                            w = self.convert_tone(w)
                         w = self.convert_all(w)
                         self.result += w + ' '
                     else:
@@ -280,8 +333,7 @@ class IPAConverter():
         self.out.write(self.result)
 
 
-
 c = IPAConverter()
 c.load()
 c.transcribe()
-print c.result
+#print c.result
