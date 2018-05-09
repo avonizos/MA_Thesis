@@ -117,6 +117,7 @@ class IPAConverter():
         u'iunn': u'iũ',
         u'iong': u'iɔŋ',
         u'uann': u'uã',
+        u'onnh': u'ɔ̃ʔ'
     }
     ipa_3_vowels = {
         u'ann': u'ã',
@@ -130,6 +131,7 @@ class IPAConverter():
     ipa_2_vowels = {
         u'io': u'iə',
         u'oh': u'əʔ',
+        u'ah': u'aʔ',
         u'ok': u'ɔk',
         u'op': u'ɔp',
         u'om': u'ɔm',
