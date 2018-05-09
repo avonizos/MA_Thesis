@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+# Author: Olga Sozinova
+# Python program for obtaining the Cantonese dialect's IPA transcriptions
+# from the online dictionary for the Shijing text
+
 import codecs
 import urllib
 import urllib2
@@ -17,13 +21,13 @@ class Converter:
             'Connection': 'keep-alive'}
         with codecs.open('../txt/shijing_original/characters_trad.txt', 'r', 'utf-8') as f:
             self.source = f.readlines()
-        self.out = codecs.open('cantonese.txt', 'a', 'utf-8')
+        self.out = codecs.open('../txt/shijing_original/dialects/cantonese_1.txt', 'w', 'utf-8')
         self.text = ''
 
     def read_source(self):
-        counter = 2574
+        counter = 0
         sleep_c = 0
-        for line in self.source[2574:]:
+        for line in self.source:
             if sleep_c % 100 == 0:
                 sleep(20)
             print counter
@@ -71,7 +75,6 @@ class Converter:
                     result = sound[0]
 
         print result
-
         self.out.write(result + ' ')
 
 c = Converter()
