@@ -9,6 +9,8 @@ import urllib
 import urllib2
 import re
 from time import sleep
+import time
+
 
 class Converter:
     def __init__(self):
@@ -25,6 +27,8 @@ class Converter:
         self.text = ''
 
     def read_source(self):
+        start_time = time.time()
+
         counter = 0
         sleep_c = 0
         for line in self.source:
@@ -40,6 +44,9 @@ class Converter:
             self.out.write('\n')
             counter += 1
             sleep_c += 1
+
+            print("CURRENT --- %s seconds ---" % (time.time() - start_time))
+
 
     def make_request(self, line):
         result = '-'

@@ -1,3 +1,4 @@
+Part	Poem	Stanza	Word1	Word2	IPA1	IPA2	Type	Rhyming	Lines
 book-of-poetry/odes-of-zhou-and-the-south/zhs	Guan Ju	2	鸠	逑	tɕiou55	tɕʰiou35	inexact	encircling	1-4
 book-of-poetry/odes-of-zhou-and-the-south/zhs	Guan Ju	3	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	6-8
 book-of-poetry/odes-of-zhou-and-the-south/zhs	Guan Ju	3	得	侧	tɤ35	tsʰɤ51	inexact	encircling	9-12
@@ -27,6 +28,7 @@ book-of-poetry/odes-of-shao-and-the-south/zhs	Cai Fan	2	沚	之	tʂʅ214	tʂʅ55
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cai Fan	2	沚	事	tʂʅ214	ʂʅ51	inexact	crossed	173-175
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cai Fan	2	之	事	tʂʅ55	ʂʅ51	inexact	paired	174-175
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cai Fan	3	中	宫	tʂuŋ55	kuŋ55	tonal exact	crossed	177-179
+book-of-poetry/odes-of-shao-and-the-south/zhs	Cao Chong	2	阜	忡	tʂuŋ55	tʂʰuŋ55	tonal exact	crossed	185-187
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cao Chong	2	止	止	tʂʅ214	tʂʅ214	tonal inexact	paired	188-189
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cao Chong	3	蕨	说	tɕyɛ35	yɛ51	inexact	-	192-197
 book-of-poetry/odes-of-shao-and-the-south/zhs	Cao Chong	3	止	止	tʂʅ214	tʂʅ214	tonal inexact	paired	195-196
@@ -52,8 +54,8 @@ book-of-poetry/odes-of-bei/zhs	Bo Zhou	2	流	游	liou35	iou35	tonal inexact	-	33
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	2	忧	酒	iou55	tɕiou214	inexact	paired	340-341
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	2	忧	游	iou55	iou35	inexact	crossed	340-342
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	2	酒	游	tɕiou214	iou35	inexact	paired	341-342
-book-of-poetry/odes-of-bei/zhs	Bo Zhou	3	茹	诉	ru35	su51	inexact	encircling	344-347
-book-of-poetry/odes-of-bei/zhs	Bo Zhou	3	茹	怒	ru35	nu51	inexact	-	344-348
+book-of-poetry/odes-of-bei/zhs	Bo Zhou	3	茹	诉	ɻu35	su51	inexact	encircling	344-347
+book-of-poetry/odes-of-bei/zhs	Bo Zhou	3	茹	怒	ɻu35	nu51	inexact	-	344-348
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	3	诉	怒	su51	nu51	tonal inexact	paired	347-348
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	4	也	也	iɛ214	iɛ214	tonal inexact	crossed	350-352
 book-of-poetry/odes-of-bei/zhs	Bo Zhou	4	也	也	iɛ214	iɛ214	tonal inexact	-	350-354
@@ -172,7 +174,7 @@ book-of-poetry/odes-of-yong/zhs	Sang Zhong	3	矣	矣	i214	i214	tonal inexact	-	7
 book-of-poetry/odes-of-yong/zhs	Sang Zhong	3	矣	矣	i214	i214	tonal inexact	encircling	766-769
 book-of-poetry/odes-of-yong/zhs	Sang Zhong	3	中	宫	tʂuŋ55	kuŋ55	tonal exact	paired	767-768
 book-of-poetry/odes-of-yong/zhs	Chun Zhi Ben Ben	2	强	良	tɕiɑŋ51	liɑŋ35	exact	paired	778-779
-book-of-poetry/odes-of-yong/zhs	Ding Zhi Fang Zhong	2	日	室	rʅ51	ʂʅ51	tonal inexact	paired	787-788
+book-of-poetry/odes-of-yong/zhs	Ding Zhi Fang Zhong	2	日	室	ɻʅ51	ʂʅ51	tonal inexact	paired	787-788
 book-of-poetry/odes-of-yong/zhs	Ding Zhi Fang Zhong	2	栗	漆	li51	tɕʰi55	inexact	paired	789-790
 book-of-poetry/odes-of-yong/zhs	Ding Zhi Fang Zhong	3	矣	京	i214	tɕiŋ55	inexact	crossed	793-795
 book-of-poetry/odes-of-yong/zhs	Ding Zhi Fang Zhong	3	矣	吉	i214	tɕi35	inexact	-	793-797
@@ -274,7 +276,7 @@ book-of-poetry/odes-of-wei/zhs	Wan Lan	2	觿	兮	ɕi55	ɕi55	tonal inexact	cross
 book-of-poetry/odes-of-wei/zhs	Wan Lan	2	觿	兮	ɕi55	ɕi55	tonal inexact	encircling	1021-1024
 book-of-poetry/odes-of-wei/zhs	Wan Lan	2	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1023-1024
 book-of-poetry/odes-of-wei/zhs	He Guang	2	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	1032-1034
-book-of-poetry/odes-of-wei/zhs	Bo Xi	3	沐	容	mu51	ruŋ35	inexact	paired	1045-1046
+book-of-poetry/odes-of-wei/zhs	Bo Xi	3	沐	容	mu51	ɻuŋ35	inexact	paired	1045-1046
 book-of-poetry/odes-of-wei/zhs	You Hu	3	厉	矣	li51	i214	inexact	paired	1060-1061
 book-of-poetry/odes-of-wei/zhs	Mu Gua	2	也	也	iɛ214	iɛ214	tonal inexact	paired	1069-1070
 book-of-poetry/odes-of-wei/zhs	Mu Gua	3	也	也	iɛ214	iɛ214	tonal inexact	paired	1073-1074
@@ -341,9 +343,9 @@ book-of-poetry/odes-of-zheng/zhs	Jiang Zhong Zi	2	言	也	iɛn35	iɛ214	inexact	
 book-of-poetry/odes-of-zheng/zhs	Jiang Zhong Zi	3	也	言	iɛ214	iɛn35	inexact	paired	1272-1273
 book-of-poetry/odes-of-zheng/zhs	Jiang Zhong Zi	3	也	也	iɛ214	iɛ214	tonal inexact	crossed	1272-1274
 book-of-poetry/odes-of-zheng/zhs	Jiang Zhong Zi	3	言	也	iɛn35	iɛ214	inexact	paired	1273-1274
-book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	人	rən35	rən35	tonal exact	paired	1284-1285
-book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	仁	rən35	rən35	tonal exact	encircling	1284-1287
-book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	仁	rən35	rən35	tonal exact	crossed	1285-1287
+book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	人	ɻən35	ɻən35	tonal exact	paired	1284-1285
+book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	仁	ɻən35	ɻən35	tonal exact	encircling	1284-1287
+book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	2	人	仁	ɻən35	ɻən35	tonal exact	crossed	1285-1287
 book-of-poetry/odes-of-zheng/zhs	Shu Yu Tian	3	酒	酒	tɕiou214	tɕiou214	tonal inexact	paired	1289-1290
 book-of-poetry/odes-of-zheng/zhs	Da Shu Yu Tian	2	组	舞	tsu214	u214	tonal inexact	paired	1300-1301
 book-of-poetry/odes-of-zheng/zhs	Da Shu Yu Tian	2	组	虎	tsu214	xu214	tonal inexact	-	1300-1304
@@ -369,7 +371,7 @@ book-of-poetry/odes-of-zheng/zhs	Nu Yue Ji Ming	3	老	好	lɑu214	xɑu214	tonal 
 book-of-poetry/odes-of-zheng/zhs	You Nu Tong Chi	2	翔	姜	ɕiɑŋ35	tɕiɑŋ55	exact	crossed	1380-1382
 book-of-poetry/odes-of-zheng/zhs	Tuo XI	2	女	女	ny214	ny214	tonal inexact	crossed	1399-1401
 book-of-poetry/odes-of-zheng/zhs	Jiao Tong	2	兮	兮	ɕi55	ɕi55	tonal inexact	crossed	1407-1409
-book-of-poetry/odes-of-zheng/zhs	Qian Chang	2	溱	人	tʂən55	rən35	exact	crossed	1415-1417
+book-of-poetry/odes-of-zheng/zhs	Qian Chang	2	溱	人	tʂən55	ɻən35	exact	crossed	1415-1417
 book-of-poetry/odes-of-zheng/zhs	Feng	2	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1425-1426
 book-of-poetry/odes-of-zheng/zhs	Feng	3	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1428-1429
 book-of-poetry/odes-of-zheng/zhs	Feng	4	衣	兮	i55	ɕi55	tonal inexact	paired	1431-1432
@@ -391,8 +393,8 @@ book-of-poetry/odes-of-qi/zhs	Xuan	2	兮	兮	ɕi55	ɕi55	tonal inexact	paired	15
 book-of-poetry/odes-of-qi/zhs	Xuan	3	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1547-1548
 book-of-poetry/odes-of-qi/zhs	Xuan	3	兮	兮	ɕi55	ɕi55	tonal inexact	crossed	1547-1549
 book-of-poetry/odes-of-qi/zhs	Xuan	3	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1548-1549
-book-of-poetry/odes-of-qi/zhs	Zhu	2	而	而	ər35	ər35	tonal exact	paired	1555-1556
-book-of-poetry/odes-of-qi/zhs	Zhu	3	而	而	ər35	ər35	tonal exact	paired	1558-1559
+book-of-poetry/odes-of-qi/zhs	Zhu	2	而	而	əɻ35	əɻ35	tonal exact	paired	1555-1556
+book-of-poetry/odes-of-qi/zhs	Zhu	3	而	而	əɻ35	əɻ35	tonal exact	paired	1558-1559
 book-of-poetry/odes-of-qi/zhs	Dong Fang Zhi Ri	2	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1565-1566
 book-of-poetry/odes-of-qi/zhs	Dong Fang Zhi Ri	2	兮	兮	ɕi55	ɕi55	tonal inexact	crossed	1565-1567
 book-of-poetry/odes-of-qi/zhs	Dong Fang Zhi Ri	2	兮	兮	ɕi55	ɕi55	tonal inexact	paired	1566-1567
@@ -498,7 +500,7 @@ book-of-poetry/odes-of-tang/zhs	Jiao Liao	2	且	且	tɕʰiɛ214	tɕʰiɛ214	tona
 book-of-poetry/odes-of-tang/zhs	Chou Mou	2	夕	兮	ɕi55	ɕi55	tonal inexact	crossed	1882-1884
 book-of-poetry/odes-of-tang/zhs	Chou Mou	3	夕	兮	ɕi55	ɕi55	tonal inexact	crossed	1888-1890
 book-of-poetry/odes-of-tang/zhs	Di Du	2	湑	踽	ɕy214	tɕy214	tonal inexact	paired	1899-1900
-book-of-poetry/odes-of-tang/zhs	Di Du	2	人	人	rən35	rən35	tonal exact	crossed	1901-1903
+book-of-poetry/odes-of-tang/zhs	Di Du	2	人	人	ɻən35	ɻən35	tonal exact	crossed	1901-1903
 book-of-poetry/odes-of-tang/zhs	Di Du	2	焉	焉	iɛn55	iɛn55	tonal exact	crossed	1904-1906
 book-of-poetry/odes-of-tang/zhs	Bao Yu	2	盬	黍	ku214	ʂu214	tonal inexact	paired	1926-1927
 book-of-poetry/odes-of-tang/zhs	Bao Yu	2	盬	怙	ku214	xu51	inexact	crossed	1926-1928
@@ -513,11 +515,11 @@ book-of-poetry/odes-of-tang/zhs	Cai Ling	2	巅	言	tiɛn55	iɛn35	exact	paired	1
 book-of-poetry/odes-of-tang/zhs	Cai Ling	2	巅	言	tiɛn55	iɛn35	exact	-	1984-1989
 book-of-poetry/odes-of-tang/zhs	Cai Ling	2	言	言	iɛn35	iɛn35	tonal exact	-	1985-1989
 book-of-poetry/odes-of-tang/zhs	Cai Ling	2	言	焉	iɛn35	iɛn55	exact	-	1985-1990
-book-of-poetry/odes-of-tang/zhs	Cai Ling	2	旃	然	tʂan55	ran35	exact	paired	1987-1988
+book-of-poetry/odes-of-tang/zhs	Cai Ling	2	旃	然	tʂan55	ɻan35	exact	paired	1987-1988
 book-of-poetry/odes-of-tang/zhs	Cai Ling	2	言	焉	iɛn35	iɛn55	exact	paired	1989-1990
 book-of-poetry/odes-of-tang/zhs	Cai Ling	3	言	言	iɛn35	iɛn35	tonal exact	-	1993-1997
 book-of-poetry/odes-of-tang/zhs	Cai Ling	3	言	焉	iɛn35	iɛn55	exact	-	1993-1998
-book-of-poetry/odes-of-tang/zhs	Cai Ling	3	旃	然	tʂan55	ran35	exact	paired	1995-1996
+book-of-poetry/odes-of-tang/zhs	Cai Ling	3	旃	然	tʂan55	ɻan35	exact	paired	1995-1996
 book-of-poetry/odes-of-tang/zhs	Cai Ling	3	言	焉	iɛn35	iɛn55	exact	paired	1997-1998
 book-of-poetry/odes-of-qin/zhs	Che Lin	3	瑟	乐	sɤ51	lɤ51	tonal inexact	paired	2014-2015
 book-of-poetry/odes-of-qin/zhs	Si Tie	2	手	狩	ʂou214	ʂou51	inexact	crossed	2024-2026
@@ -540,15 +542,15 @@ book-of-poetry/odes-of-qin/zhs	Jian Jia	3	之	坻	tʂʅ55	tʂʰʅ35	inexact	pair
 book-of-poetry/odes-of-qin/zhs	Huang Niao	2	棘	息	tɕi35	ɕi55	inexact	crossed	2102-2104
 book-of-poetry/odes-of-qin/zhs	Huang Niao	2	棘	息	tɕi35	ɕi55	inexact	encircling	2102-2105
 book-of-poetry/odes-of-qin/zhs	Huang Niao	2	息	息	ɕi55	ɕi55	tonal inexact	paired	2104-2105
-book-of-poetry/odes-of-qin/zhs	Huang Niao	2	栗	人	ʂən55	rən35	exact	crossed	2108-2110
+book-of-poetry/odes-of-qin/zhs	Huang Niao	2	栗	人	ʂən55	ɻən35	exact	crossed	2108-2110
 book-of-poetry/odes-of-qin/zhs	Huang Niao	2	栗	身	ʂən55	ʂən55	tonal exact	-	2108-2112
-book-of-poetry/odes-of-qin/zhs	Huang Niao	2	人	身	rən35	ʂən55	exact	crossed	2110-2112
+book-of-poetry/odes-of-qin/zhs	Huang Niao	2	人	身	ɻən35	ʂən55	exact	crossed	2110-2112
 book-of-poetry/odes-of-qin/zhs	Huang Niao	3	桑	防	sɑŋ55	fɑŋ35	exact	-	2114-2118
 book-of-poetry/odes-of-qin/zhs	Huang Niao	3	行	行	ɕiŋ35	ɕiŋ35	tonal exact	paired	2116-2117
 book-of-poetry/odes-of-qin/zhs	Huang Niao	3	行	栗	ɕiŋ35	li51	inexact	-	2116-2120
 book-of-poetry/odes-of-qin/zhs	Huang Niao	3	行	栗	ɕiŋ35	li51	inexact	encircling	2117-2120
 book-of-poetry/odes-of-qin/zhs	Huang Niao	3	栗	兮	li51	ɕi55	inexact	encircling	2120-2123
-book-of-poetry/odes-of-qin/zhs	Huang Niao	3	人	身	rən35	ʂən55	exact	crossed	2122-2124
+book-of-poetry/odes-of-qin/zhs	Huang Niao	3	人	身	ɻən35	ʂən55	exact	crossed	2122-2124
 book-of-poetry/odes-of-qin/zhs	Chen Feng	3	驳	多	puo35	tuo55	inexact	-	2144-2148
 book-of-poetry/odes-of-qin/zhs	Chen Feng	3	乐	何	lɤ51	xɤ35	inexact	paired	2146-2147
 book-of-poetry/odes-of-qin/zhs	Wu Yi	2	袍	矛	pʰɑu35	mɑu35	tonal inexact	crossed	2156-2158
@@ -660,10 +662,10 @@ book-of-poetry/decade-of-lu-ming/zhs	Si Mu	3	盬	处	ku214	tʂʰu214	tonal inexa
 book-of-poetry/decade-of-lu-ming/zhs	Si Mu	4	盬	父	ku214	fu51	inexact	paired	2656-2657
 book-of-poetry/decade-of-lu-ming/zhs	Si Mu	5	盬	母	ku214	mu214	tonal inexact	paired	2661-2662
 book-of-poetry/decade-of-lu-ming/zhs	Huang Huang Zhe Hua	2	隰	及	ɕi35	tɕi35	tonal inexact	crossed	2669-2671
-book-of-poetry/decade-of-lu-ming/zhs	Huang Huang Zhe Hua	5	若	度	ruo51	tuo35	inexact	crossed	2681-2683
+book-of-poetry/decade-of-lu-ming/zhs	Huang Huang Zhe Hua	5	若	度	ɻuo51	tuo35	inexact	crossed	2681-2683
 book-of-poetry/decade-of-lu-ming/zhs	Chang Di	3	矣	矣	i214	i214	tonal inexact	paired	2694-2695
 book-of-poetry/decade-of-lu-ming/zhs	Chang Di	4	难	叹	nan51	tʰan51	tonal exact	crossed	2697-2699
-book-of-poetry/decade-of-lu-ming/zhs	Chang Di	5	务	戎	u51	ruŋ35	inexact	crossed	2701-2703
+book-of-poetry/decade-of-lu-ming/zhs	Chang Di	5	务	戎	u51	ɻuŋ35	inexact	crossed	2701-2703
 book-of-poetry/decade-of-lu-ming/zhs	Chang Di	6	宁	弟	niŋ35	ti51	inexact	paired	2705-2706
 book-of-poetry/decade-of-lu-ming/zhs	Chang Di	7	饫	具	y51	tɕy51	tonal inexact	paired	2709-2710
 book-of-poetry/decade-of-lu-ming/zhs	Chang Di	8	琴	翕	tɕʰin35	ɕi55	inexact	paired	2713-2714
@@ -722,15 +724,15 @@ book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	螽	忡	tʂuŋ55	tʂʰuŋ55	tonal
 book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	螽	仲	tʂuŋ55	tʂuŋ51	exact	-	2873-2878
 book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	子	子	tsɿ214	tsɿ214	tonal inexact	crossed	2874-2876
 book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	忡	仲	tʂʰuŋ55	tʂuŋ51	exact	encircling	2875-2878
-book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	忡	戎	tʂʰuŋ55	ruŋ35	exact	-	2875-2879
-book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	仲	戎	tʂuŋ51	ruŋ35	exact	paired	2878-2879
-book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	实	日	ʂʅ35	rʅ51	inexact	crossed	2889-2891
+book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	忡	戎	tʂʰuŋ55	ɻuŋ35	exact	-	2875-2879
+book-of-poetry/decade-of-lu-ming/zhs	Chu Che	6	仲	戎	tʂuŋ51	ɻuŋ35	exact	paired	2878-2879
+book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	实	日	ʂʅ35	ɻʅ51	inexact	crossed	2889-2891
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	实	止	ʂʅ35	tʂʅ214	inexact	encircling	2889-2892
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	实	止	ʂʅ35	tʂʅ214	inexact	-	2889-2893
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	实	止	ʂʅ35	tʂʅ214	inexact	-	2889-2894
-book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	rʅ51	tʂʅ214	inexact	paired	2891-2892
-book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	rʅ51	tʂʅ214	inexact	crossed	2891-2893
-book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	rʅ51	tʂʅ214	inexact	encircling	2891-2894
+book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	ɻʅ51	tʂʅ214	inexact	paired	2891-2892
+book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	ɻʅ51	tʂʅ214	inexact	crossed	2891-2893
+book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	日	止	ɻʅ51	tʂʅ214	inexact	encircling	2891-2894
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	止	止	tʂʅ214	tʂʅ214	tonal inexact	paired	2892-2893
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	止	止	tʂʅ214	tʂʅ214	tonal inexact	crossed	2892-2894
 book-of-poetry/decade-of-lu-ming/zhs	Di Du	2	止	止	tʂʅ214	tʂʅ214	tonal inexact	paired	2893-2894
@@ -816,7 +818,7 @@ book-of-poetry/decade-of-tong-gong/zhs	Ji Ri	4	有	友	iou214	iou214	tonal inexa
 book-of-poetry/decade-of-tong-gong/zhs	Ji Ri	4	有	右	iou214	iou51	inexact	encircling	3195-3198
 book-of-poetry/decade-of-tong-gong/zhs	Ji Ri	4	俟	子	sɿ51	tsɿ214	inexact	encircling	3196-3199
 book-of-poetry/decade-of-tong-gong/zhs	Ji Ri	4	友	右	iou214	iou51	inexact	paired	3197-3198
-book-of-poetry/decade-of-tong-gong/zhs	Hong Yan	2	征	人	tʂəŋ55	rən35	inexact	crossed	3208-3210
+book-of-poetry/decade-of-tong-gong/zhs	Hong Yan	2	征	人	tʂəŋ55	ɻən35	inexact	crossed	3208-3210
 book-of-poetry/decade-of-tong-gong/zhs	Ting Liao	2	央	将	iɑŋ55	tɕiɑŋ55	tonal exact	encircling	3225-3228
 book-of-poetry/decade-of-tong-gong/zhs	Ting Liao	3	晣	止	tʂʅ51	tʂʅ214	inexact	paired	3231-3232
 book-of-poetry/decade-of-tong-gong/zhs	Mian Shui	2	隼	母	sun214	mu214	tonal inexact	-	3241-3246
@@ -954,16 +956,16 @@ book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	3	食	食	ʂʅ35	ʂʅ35	tonal
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	3	常	臧	tʂʰɑŋ35	tsɑŋ55	exact	crossed	3610-3612
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	令	陵	liŋ51	liŋ35	exact	-	3614-3618
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	腾	崩	tʰəŋ35	pəŋ55	exact	paired	3615-3616
-book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	腾	人	tʰəŋ35	rən35	tonal inexact	-	3615-3619
+book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	腾	人	tʰəŋ35	ɻən35	tonal inexact	-	3615-3619
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	腾	惩	tʰəŋ35	tʂʰəŋ35	tonal exact	-	3615-3620
-book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	崩	人	pəŋ55	rən35	inexact	encircling	3616-3619
+book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	崩	人	pəŋ55	ɻən35	inexact	encircling	3616-3619
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	崩	惩	pəŋ55	tʂʰəŋ35	exact	-	3616-3620
-book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	人	惩	rən35	tʂʰəŋ35	tonal inexact	paired	3619-3620
+book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	4	人	惩	ɻən35	tʂʰəŋ35	tonal inexact	paired	3619-3620
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	5	徒	夫	tʰu35	fu55	inexact	crossed	3622-3624
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	5	夫	处	fu55	tʂʰu214	inexact	-	3624-3628
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	5	史	氏	ʂʅ214	ʂʅ51	inexact	crossed	3625-3627
 book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	8	孽	天	niɛ51	tʰiɛn55	inexact	paired	3649-3650
-book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	8	憎	人	tsəŋ55	rən35	inexact	paired	3651-3652
+book-of-poetry/decade-of-qi-fu/zhs	Shi Yue Zi Jiao	8	憎	人	tsəŋ55	ɻən35	inexact	paired	3651-3652
 book-of-poetry/decade-of-qi-fu/zhs	Yu Wu Zheng	2	威	罪	uei55	tsuei51	inexact	crossed	3665-3667
 book-of-poetry/decade-of-qi-fu/zhs	Yu Wu Zheng	2	威	罪	uei55	tsuei51	inexact	-	3665-3669
 book-of-poetry/decade-of-qi-fu/zhs	Yu Wu Zheng	2	图	辜	tʰu35	ku55	inexact	crossed	3666-3668
@@ -995,7 +997,7 @@ book-of-poetry/decade-of-xiao-min/zhs	Xiao Min	5	经	听	tɕiŋ55	tʰiŋ55	tonal
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Min	5	争	成	tʂəŋ55	tʂʰəŋ35	exact	crossed	3743-3745
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Min	6	否	谋	fou214	mou35	inexact	crossed	3747-3749
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Min	6	艾	败	ai51	pai51	tonal inexact	crossed	3750-3752
-book-of-poetry/decade-of-xiao-min/zhs	Xiao Wan	2	人	人	rən35	rən35	tonal exact	crossed	3763-3765
+book-of-poetry/decade-of-xiao-min/zhs	Xiao Wan	2	人	人	ɻən35	ɻən35	tonal exact	crossed	3763-3765
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Wan	4	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	3773-3775
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Wan	4	之	之	tʂʅ55	tʂʅ55	tonal inexact	-	3773-3777
 book-of-poetry/decade-of-xiao-min/zhs	Xiao Wan	4	子	子	tsɿ214	tsɿ214	tonal inexact	crossed	3774-3776
@@ -1047,17 +1049,17 @@ book-of-poetry/decade-of-xiao-min/zhs	Qiao Yan	6	矣	矣	i214	i214	tonal inexact
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	3	祸	我	xuo51	uo214	inexact	crossed	3915-3917
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	陈	声	tʂʰən35	ʂəŋ55	inexact	paired	3921-3922
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	陈	身	tʂʰən35	ʂən55	exact	crossed	3921-3923
-book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	陈	人	tʂʰən35	rən35	tonal exact	encircling	3921-3924
+book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	陈	人	tʂʰən35	ɻən35	tonal exact	encircling	3921-3924
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	声	身	ʂəŋ55	ʂən55	tonal inexact	paired	3922-3923
-book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	声	人	ʂəŋ55	rən35	inexact	crossed	3922-3924
-book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	身	人	ʂən55	rən35	exact	paired	3923-3924
+book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	声	人	ʂəŋ55	ɻən35	inexact	crossed	3922-3924
+book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	4	身	人	ʂən55	ɻən35	exact	paired	3923-3924
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	6	舍	车	ʂɤ51	tʂʰɤ55	inexact	crossed	3933-3935
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	7	也	也	iɛ214	iɛ214	tonal inexact	crossed	3939-3941
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	7	也	也	iɛ214	iɛ214	tonal inexact	-	3939-3943
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	7	也	也	iɛ214	iɛ214	tonal inexact	crossed	3941-3943
 book-of-poetry/decade-of-xiao-min/zhs	He Ren Si	8	篪	知	tʂʰʅ35	tʂʅ55	inexact	crossed	3945-3947
 book-of-poetry/decade-of-xiao-min/zhs	Xiang Bo	5	言	迁	iɛn35	tɕʰiɛn55	exact	crossed	3969-3971
-book-of-poetry/decade-of-xiao-min/zhs	Xiang Bo	6	人	人	rən35	rən35	tonal exact	paired	3975-3976
+book-of-poetry/decade-of-xiao-min/zhs	Xiang Bo	6	人	人	ɻən35	ɻən35	tonal exact	paired	3975-3976
 book-of-poetry/decade-of-xiao-min/zhs	Xiang Bo	7	谋	受	mou35	ʂou51	inexact	-	3978-3983
 book-of-poetry/decade-of-xiao-min/zhs	Gu Feng	2	雨	惧	y214	tɕy51	inexact	paired	3992-3993
 book-of-poetry/decade-of-xiao-min/zhs	Gu Feng	2	雨	乐	y214	tɕy51	inexact	encircling	3992-3995
@@ -1084,7 +1086,7 @@ book-of-poetry/decade-of-xiao-min/zhs	Da Dong	2	矢	视	ʂʅ214	ʂʅ51	inexact	c
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	2	矢	之	ʂʅ214	tʂʅ55	inexact	encircling	4044-4047
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	2	视	之	ʂʅ51	tʂʅ55	inexact	paired	4046-4047
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	4	薪	薪	ɕin55	ɕin55	tonal exact	encircling	4058-4061
-book-of-poetry/decade-of-xiao-min/zhs	Da Dong	4	人	人	rən35	rən35	tonal exact	encircling	4060-4063
+book-of-poetry/decade-of-xiao-min/zhs	Da Dong	4	人	人	ɻən35	ɻən35	tonal exact	encircling	4060-4063
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	4	也	也	iɛ214	iɛ214	tonal inexact	crossed	4062-4064
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	5	子	子	tsɿ214	tsɿ214	tonal inexact	crossed	4067-4069
 book-of-poetry/decade-of-xiao-min/zhs	Da Dong	5	子	子	tsɿ214	tsɿ214	tonal inexact	-	4067-4071
@@ -1164,7 +1166,7 @@ book-of-poetry/decade-of-bei-shan/zhs	Xin Nan Shan	6	考	刀	kʰɑu214	tɑu55	in
 book-of-poetry/decade-of-bei-shan/zhs	Xin Nan Shan	6	考	毛	kʰɑu214	mɑu35	inexact	crossed	4337-4339
 book-of-poetry/decade-of-bei-shan/zhs	Xin Nan Shan	6	刀	毛	tɑu55	mɑu35	inexact	paired	4338-4339
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	2	千	年	tɕʰiɛn55	niɛn35	exact	encircling	4348-4351
-book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	2	陈	人	tʂʰən35	rən35	tonal exact	paired	4349-4350
+book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	2	陈	人	tʂʰən35	ɻən35	tonal exact	paired	4349-4350
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	2	止	士	tʂʅ214	ʂʅ51	inexact	paired	4355-4356
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	3	方	臧	fɑŋ55	tsɑŋ55	tonal exact	paired	4359-4360
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	3	鼓	祖	ku214	tsu214	tonal inexact	paired	4362-4363
@@ -1175,7 +1177,7 @@ book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	4	亩	亩	mu214	mu214	tonal inexac
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	4	右	有	iou51	iou214	inexact	encircling	4371-4374
 book-of-poetry/decade-of-bei-shan/zhs	Fu Tian	4	亩	怒	mu214	nu35	inexact	crossed	4373-4375
 book-of-poetry/decade-of-bei-shan/zhs	Da Tian	2	亩	谷	mu214	ku214	tonal inexact	paired	4391-4392
-book-of-poetry/decade-of-bei-shan/zhs	Da Tian	2	硕	若	ʂuo51	ruo51	tonal inexact	paired	4393-4394
+book-of-poetry/decade-of-bei-shan/zhs	Da Tian	2	硕	若	ʂuo51	ɻuo51	tonal inexact	paired	4393-4394
 book-of-poetry/decade-of-bei-shan/zhs	Da Tian	4	祁	穧	tɕʰi35	tɕi51	inexact	-	4404-4408
 book-of-poetry/decade-of-bei-shan/zhs	Da Tian	4	祁	秉	tɕʰi35	piŋ214	inexact	-	4404-4409
 book-of-poetry/decade-of-bei-shan/zhs	Da Tian	4	穧	秉	tɕi51	piŋ214	inexact	paired	4408-4409
@@ -1198,8 +1200,8 @@ book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	3	矣	矣	i214	i214	to
 book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	3	矣	矣	i214	i214	tonal inexact	crossed	4448-4450
 book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	3	矣	矣	i214	i214	tonal inexact	paired	4449-4450
 book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	4	骆	骆	luo51	luo51	tonal inexact	paired	4454-4455
-book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	4	骆	若	luo51	ruo51	tonal inexact	crossed	4454-4456
-book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	4	骆	若	luo51	ruo51	tonal inexact	paired	4455-4456
+book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	4	骆	若	luo51	ɻuo51	tonal inexact	crossed	4454-4456
+book-of-poetry/decade-of-bei-shan/zhs	Chang Chang Zhe Hua	4	骆	若	luo51	ɻuo51	tonal inexact	paired	4455-4456
 book-of-poetry/decade-of-sang-hu/zhs	Sang Hu	2	羽	胥	y214	ɕy55	inexact	paired	4464-4465
 book-of-poetry/decade-of-sang-hu/zhs	Sang Hu	3	领	屏	liŋ214	pʰiŋ35	exact	crossed	4468-4470
 book-of-poetry/decade-of-sang-hu/zhs	Sang Hu	4	难	那	nan35	na51	inexact	paired	4473-4474
@@ -1259,7 +1261,7 @@ book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	3	矣	矣	i214	i214	tonal inexact
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	3	矣	矣	i214	i214	tonal inexact	crossed	4700-4702
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	3	矣	矣	i214	i214	tonal inexact	paired	4701-4702
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	4	裕	愈	y51	y51	tonal inexact	crossed	4704-4706
-book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	5	方	让	fɑŋ55	rɑŋ51	exact	paired	4708-4709
+book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	5	方	让	fɑŋ55	ɻɑŋ51	exact	paired	4708-4709
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	6	饫	取	y51	tɕʰy214	inexact	paired	4713-4714
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	7	附	属	fu51	ʂu214	inexact	crossed	4716-4718
 book-of-poetry/decade-of-sang-hu/zhs	Jiao Gong	8	消	骄	ɕiɑu55	tɕiɑu55	tonal inexact	crossed	4720-4722
@@ -1281,7 +1283,7 @@ book-of-poetry/decade-of-du-ren-shi/zhs	Shu Miao	5	之	师	tʂʅ55	ʂʅ55	tonal 
 book-of-poetry/decade-of-du-ren-shi/zhs	Shu Miao	5	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	4804-4806
 book-of-poetry/decade-of-du-ren-shi/zhs	Shu Miao	5	师	之	ʂʅ55	tʂʅ55	tonal inexact	paired	4805-4806
 book-of-poetry/decade-of-du-ren-shi/zhs	Bai Hua	2	兮	兮	ɕi55	ɕi55	tonal inexact	crossed	4828-4830
-book-of-poetry/decade-of-du-ren-shi/zhs	Bai Hua	5	煁	人	tʂʰən35	rən35	tonal exact	paired	4840-4841
+book-of-poetry/decade-of-du-ren-shi/zhs	Bai Hua	5	煁	人	tʂʰən35	ɻən35	tonal exact	paired	4840-4841
 book-of-poetry/decade-of-du-ren-shi/zhs	Bai Hua	7	林	心	lin35	ɕin55	exact	crossed	4848-4850
 book-of-poetry/decade-of-du-ren-shi/zhs	Mian Man	2	何	车	xɤ35	tʂʰɤ55	inexact	encircling	4862-4865
 book-of-poetry/decade-of-du-ren-shi/zhs	Mian Man	2	之	之	tʂʅ55	tʂʅ55	tonal inexact	paired	4863-4864
@@ -1331,7 +1333,7 @@ book-of-poetry/decade-of-wen-wang/zhs	Da Ming	5	涘	子	sɿ51	tsɿ214	inexact	cr
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	6	祥	梁	ɕiɑŋ35	liɑŋ35	tonal exact	crossed	5031-5033
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	7	王	王	uɑŋ35	uɑŋ35	tonal exact	-	5036-5040
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	7	京	行	tɕiŋ55	ɕiŋ35	exact	crossed	5037-5039
-book-of-poetry/decade-of-wen-wang/zhs	Da Ming	7	莘	尔	ʂən55	ər214	inexact	encircling	5038-5041
+book-of-poetry/decade-of-wen-wang/zhs	Da Ming	7	莘	尔	ʂən55	əɻ214	inexact	encircling	5038-5041
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	8	林	兴	lin35	ɕiŋ55	inexact	crossed	5044-5046
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	8	林	心	lin35	ɕin55	exact	-	5044-5048
 book-of-poetry/decade-of-wen-wang/zhs	Da Ming	8	兴	心	ɕiŋ55	ɕin55	tonal inexact	crossed	5046-5048
@@ -1437,7 +1439,7 @@ book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	7	芑	秠	tɕʰi214	pʰi55	inex
 book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	7	芑	芑	tɕʰi214	tɕʰi214	tonal inexact	encircling	5407-5410
 book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	7	秠	芑	pʰi55	tɕʰi214	inexact	crossed	5408-5410
 book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	7	亩	负	mu214	fu51	inexact	crossed	5409-5411
-book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	8	蹂	叟	rou35	sou214	inexact	paired	5415-5416
+book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	8	蹂	叟	ɻou35	sou214	inexact	paired	5415-5416
 book-of-poetry/decade-of-sheng-min/zhs	Sheng Min	8	惟	岁	uei35	suei51	inexact	-	5418-5422
 book-of-poetry/decade-of-sheng-min/zhs	Xing Wei	2	体	泥	tʰi214	ni35	inexact	paired	5433-5434
 book-of-poetry/decade-of-sheng-min/zhs	Xing Wei	2	体	弟	tʰi214	ti51	inexact	crossed	5433-5435
@@ -1510,7 +1512,7 @@ book-of-poetry/decade-of-sheng-min/zhs	Juan A	7	璋	纲	tʂɑŋ55	kɑŋ55	tonal 
 book-of-poetry/decade-of-sheng-min/zhs	Juan A	8	止	士	tʂʅ214	ʂʅ51	inexact	paired	5656-5657
 book-of-poetry/decade-of-sheng-min/zhs	Juan A	8	止	使	tʂʅ214	ʂʅ214	tonal inexact	crossed	5656-5658
 book-of-poetry/decade-of-sheng-min/zhs	Juan A	8	士	使	ʂʅ51	ʂʅ214	inexact	paired	5657-5658
-book-of-poetry/decade-of-sheng-min/zhs	Juan A	9	人	人	rən35	rən35	tonal exact	crossed	5663-5665
+book-of-poetry/decade-of-sheng-min/zhs	Juan A	9	人	人	ɻən35	ɻən35	tonal exact	crossed	5663-5665
 book-of-poetry/decade-of-sheng-min/zhs	Juan A	10	矣	萋	i214	tɕʰi55	inexact	crossed	5668-5670
 book-of-poetry/decade-of-sheng-min/zhs	Min Lu	2	康	方	kʰɑŋ55	fɑŋ55	tonal exact	crossed	5679-5681
 book-of-poetry/decade-of-sheng-min/zhs	Min Lu	3	休	逑	ɕiou55	tɕʰiou35	inexact	crossed	5689-5691
@@ -1520,9 +1522,9 @@ book-of-poetry/decade-of-sheng-min/zhs	Min Lu	3	忧	休	iou55	ɕiou55	tonal inex
 book-of-poetry/decade-of-sheng-min/zhs	Min Lu	4	息	极	ɕi55	tɕi35	inexact	-	5699-5703
 book-of-poetry/decade-of-sheng-min/zhs	Min Lu	4	极	仪	tɕi35	i35	tonal inexact	encircling	5703-5706
 book-of-poetry/decade-of-sheng-min/zhs	Min Lu	4	慝	德	tʰɤ51	tɤ35	inexact	crossed	5705-5707
-book-of-poetry/decade-of-sheng-min/zhs	Ban	2	瘅	然	tan55	ran35	exact	paired	5729-5730
+book-of-poetry/decade-of-sheng-min/zhs	Ban	2	瘅	然	tan55	ɻan35	exact	paired	5729-5730
 book-of-poetry/decade-of-sheng-min/zhs	Ban	2	瘅	亶	tan55	tan214	exact	-	5729-5733
-book-of-poetry/decade-of-sheng-min/zhs	Ban	2	然	亶	ran35	tan214	exact	encircling	5730-5733
+book-of-poetry/decade-of-sheng-min/zhs	Ban	2	然	亶	ɻan35	tan214	exact	encircling	5730-5733
 book-of-poetry/decade-of-sheng-min/zhs	Ban	2	远	远	yɛn214	yɛn214	tonal exact	encircling	5731-5734
 book-of-poetry/decade-of-sheng-min/zhs	Ban	3	宪	泄	ɕiɛn51	ɕiɛ51	tonal inexact	crossed	5737-5739
 book-of-poetry/decade-of-sheng-min/zhs	Ban	3	矣	矣	i51	i214	inexact	paired	5740-5741
@@ -1600,10 +1602,10 @@ book-of-poetry/decade-of-dang/zhs	Yi	8	思	思	sɿ55	sɿ55	tonal inexact	paired	
 book-of-poetry/decade-of-dang/zhs	Yi	8	思	思	sɿ55	sɿ55	tonal inexact	crossed	5917-5919
 book-of-poetry/decade-of-dang/zhs	Yi	8	思	思	sɿ55	sɿ55	tonal inexact	paired	5918-5919
 book-of-poetry/decade-of-dang/zhs	Yi	9	仪	李	i35	li214	inexact	-	5923-5927
-book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	rən35	rən35	tonal exact	crossed	5932-5934
-book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	rən35	rən35	tonal exact	-	5932-5937
+book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	ɻən35	ɻən35	tonal exact	crossed	5932-5934
+book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	ɻən35	ɻən35	tonal exact	-	5932-5937
 book-of-poetry/decade-of-dang/zhs	Yi	10	基	行	tɕi55	ɕiŋ35	inexact	encircling	5933-5936
-book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	rən35	rən35	tonal exact	encircling	5934-5937
+book-of-poetry/decade-of-dang/zhs	Yi	10	人	人	ɻən35	ɻən35	tonal exact	encircling	5934-5937
 book-of-poetry/decade-of-dang/zhs	Yi	10	言	僭	iɛn35	tɕiɛn51	exact	encircling	5935-5938
 book-of-poetry/decade-of-dang/zhs	Yi	10	行	心	ɕiŋ35	ɕin55	inexact	encircling	5936-5939
 book-of-poetry/decade-of-dang/zhs	Yi	11	之	事	tʂʅ55	ʂʅ51	inexact	paired	5942-5943
@@ -1612,7 +1614,7 @@ book-of-poetry/decade-of-dang/zhs	Yi	11	之	知	tʂʅ55	tʂʅ55	tonal inexact	-	
 book-of-poetry/decade-of-dang/zhs	Yi	11	事	之	ʂʅ51	tʂʅ55	inexact	paired	5943-5944
 book-of-poetry/decade-of-dang/zhs	Yi	11	事	知	ʂʅ51	tʂʅ55	inexact	encircling	5943-5946
 book-of-poetry/decade-of-dang/zhs	Yi	11	之	知	tʂʅ55	tʂʅ55	tonal inexact	crossed	5944-5946
-book-of-poetry/decade-of-dang/zhs	Yi	11	耳	成	ər214	tʂʰəŋ35	inexact	-	5945-5949
+book-of-poetry/decade-of-dang/zhs	Yi	11	耳	成	əɻ214	tʂʰəŋ35	inexact	-	5945-5949
 book-of-poetry/decade-of-dang/zhs	Yi	12	藐	教	miɑu214	tɕiɑu51	inexact	paired	5955-5956
 book-of-poetry/decade-of-dang/zhs	Sang Rou	2	刘	忧	liou35	iou55	inexact	crossed	5972-5974
 book-of-poetry/decade-of-dang/zhs	Sang Rou	2	民	兮	min35	ɕi55	inexact	crossed	5973-5975
@@ -1641,7 +1643,7 @@ book-of-poetry/decade-of-dang/zhs	Sang Rou	10	鹿	谷	lu51	ku214	inexact	-	6035-
 book-of-poetry/decade-of-dang/zhs	Sang Rou	10	谷	谷	ku214	ku214	tonal inexact	crossed	6037-6039
 book-of-poetry/decade-of-dang/zhs	Sang Rou	11	里	喜	li214	ɕi214	tonal inexact	crossed	6041-6043
 book-of-poetry/decade-of-dang/zhs	Sang Rou	11	里	忌	li214	tɕi51	inexact	-	6041-6045
-book-of-poetry/decade-of-dang/zhs	Sang Rou	11	人	能	rən35	nəŋ35	tonal inexact	crossed	6042-6044
+book-of-poetry/decade-of-dang/zhs	Sang Rou	11	人	能	ɻən35	nəŋ35	tonal inexact	crossed	6042-6044
 book-of-poetry/decade-of-dang/zhs	Sang Rou	11	喜	忌	ɕi214	tɕi51	inexact	crossed	6043-6045
 book-of-poetry/decade-of-dang/zhs	Sang Rou	12	迪	心	ti35	ɕin55	inexact	paired	6047-6048
 book-of-poetry/decade-of-dang/zhs	Sang Rou	12	复	毒	fu51	tu35	inexact	crossed	6049-6051
@@ -1652,8 +1654,8 @@ book-of-poetry/decade-of-dang/zhs	Sang Rou	14	类	悖	lei51	pei51	tonal inexact	
 book-of-poetry/decade-of-dang/zhs	Sang Rou	14	对	醉	tuei51	tsuei51	tonal inexact	paired	6060-6061
 book-of-poetry/decade-of-dang/zhs	Sang Rou	15	作	获	tsuo51	xuo51	tonal inexact	crossed	6065-6067
 book-of-poetry/decade-of-dang/zhs	Sang Rou	16	利	力	li51	li51	tonal inexact	encircling	6072-6075
-book-of-poetry/decade-of-dang/zhs	Yun Han	2	人	臻	rən35	tʂən55	exact	crossed	6085-6087
-book-of-poetry/decade-of-dang/zhs	Yun Han	2	人	牲	rən35	ʂəŋ55	inexact	-	6085-6089
+book-of-poetry/decade-of-dang/zhs	Yun Han	2	人	臻	ɻən35	tʂən55	exact	crossed	6085-6087
+book-of-poetry/decade-of-dang/zhs	Yun Han	2	人	牲	ɻən35	ʂəŋ55	inexact	-	6085-6089
 book-of-poetry/decade-of-dang/zhs	Yun Han	2	臻	牲	tʂən55	ʂəŋ55	tonal inexact	crossed	6087-6089
 book-of-poetry/decade-of-dang/zhs	Yun Han	3	虫	宫	tʂʰuŋ35	kuŋ55	exact	crossed	6093-6095
 book-of-poetry/decade-of-dang/zhs	Yun Han	3	虫	宗	tʂʰuŋ35	tsuŋ55	exact	-	6093-6097
@@ -1682,7 +1684,7 @@ book-of-poetry/decade-of-dang/zhs	Yun Han	7	夙	怒	su51	nu51	tonal inexact	-	61
 book-of-poetry/decade-of-dang/zhs	Yun Han	8	氏	正	ʂʅ51	tʂʅ214	inexact	encircling	6146-6149
 book-of-poetry/decade-of-dang/zhs	Song Gao	2	神	申	ʂən35	ʂən55	exact	paired	6164-6165
 book-of-poetry/decade-of-dang/zhs	Song Gao	3	事	式	ʂʅ51	ʂʅ51	tonal inexact	crossed	6171-6173
-book-of-poetry/decade-of-dang/zhs	Song Gao	4	人	人	rən35	rən35	tonal exact	-	6180-6185
+book-of-poetry/decade-of-dang/zhs	Song Gao	4	人	人	ɻən35	ɻən35	tonal exact	-	6180-6185
 book-of-poetry/decade-of-dang/zhs	Song Gao	4	庸	御	yŋ55	y51	inexact	encircling	6181-6184
 book-of-poetry/decade-of-dang/zhs	Song Gao	5	城	成	tʂʰəŋ35	tʂʰəŋ35	tonal exact	paired	6188-6189
 book-of-poetry/decade-of-dang/zhs	Song Gao	5	伯	濯	puo35	tʂuo35	tonal inexact	crossed	6191-6193
@@ -1694,11 +1696,11 @@ book-of-poetry/decade-of-dang/zhs	Zheng Min	3	翼	力	i51	li51	tonal inexact	cro
 book-of-poetry/decade-of-dang/zhs	Zheng Min	4	辟	命	pi51	miŋ51	tonal inexact	encircling	6243-6246
 book-of-poetry/decade-of-dang/zhs	Zheng Min	4	考	保	kʰɑu214	pɑu214	tonal inexact	paired	6244-6245
 book-of-poetry/decade-of-dang/zhs	Zheng Min	5	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	6251-6253
-book-of-poetry/decade-of-dang/zhs	Zheng Min	5	身	人	ʂən55	rən35	exact	crossed	6255-6257
+book-of-poetry/decade-of-dang/zhs	Zheng Min	5	身	人	ʂən55	ɻən35	exact	crossed	6255-6257
 book-of-poetry/decade-of-dang/zhs	Zheng Min	6	之	之	tʂʅ55	tʂʅ55	tonal inexact	paired	6259-6260
-book-of-poetry/decade-of-dang/zhs	Zheng Min	6	甫	茹	fu214	ru35	inexact	paired	6261-6262
+book-of-poetry/decade-of-dang/zhs	Zheng Min	6	甫	茹	fu214	ɻu35	inexact	paired	6261-6262
 book-of-poetry/decade-of-dang/zhs	Zheng Min	6	甫	吐	fu214	tʰu214	tonal inexact	crossed	6261-6263
-book-of-poetry/decade-of-dang/zhs	Zheng Min	6	茹	吐	ru35	tʰu214	inexact	paired	6262-6263
+book-of-poetry/decade-of-dang/zhs	Zheng Min	6	茹	吐	ɻu35	tʰu214	inexact	paired	6262-6263
 book-of-poetry/decade-of-dang/zhs	Zheng Min	7	之	之	tʂʅ55	tʂʅ55	tonal inexact	paired	6268-6269
 book-of-poetry/decade-of-dang/zhs	Zheng Min	7	之	之	tʂʅ55	tʂʅ55	tonal inexact	crossed	6268-6270
 book-of-poetry/decade-of-dang/zhs	Zheng Min	7	之	之	tʂʅ55	tʂʅ55	tonal inexact	encircling	6268-6271
@@ -1754,8 +1756,8 @@ book-of-poetry/decade-of-dang/zhs	Jiang Han	6	田	年	tʰiɛn35	niɛn35	tonal ex
 book-of-poetry/decade-of-dang/zhs	Jiang Han	6	命	命	miŋ51	miŋ51	tonal exact	paired	6398-6399
 book-of-poetry/decade-of-dang/zhs	Chang Wu	2	士	师	ʂʅ51	ʂʅ55	inexact	encircling	6411-6414
 book-of-poetry/decade-of-dang/zhs	Chang Wu	2	祖	父	tsu214	fu51	inexact	paired	6412-6413
-book-of-poetry/decade-of-dang/zhs	Chang Wu	2	祖	戎	tsu214	ruŋ35	inexact	encircling	6412-6415
-book-of-poetry/decade-of-dang/zhs	Chang Wu	2	父	戎	fu51	ruŋ35	inexact	crossed	6413-6415
+book-of-poetry/decade-of-dang/zhs	Chang Wu	2	祖	戎	tsu214	ɻuŋ35	inexact	encircling	6412-6415
+book-of-poetry/decade-of-dang/zhs	Chang Wu	2	父	戎	fu51	ɻuŋ35	inexact	crossed	6413-6415
 book-of-poetry/decade-of-dang/zhs	Chang Wu	3	父	浦	fu51	pʰu214	inexact	encircling	6419-6422
 book-of-poetry/decade-of-dang/zhs	Chang Wu	3	父	土	fu51	tʰu214	inexact	-	6419-6423
 book-of-poetry/decade-of-dang/zhs	Chang Wu	3	父	处	fu51	tʂʰu214	inexact	-	6419-6424
@@ -1905,8 +1907,8 @@ book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	7	同	从	tʰuŋ35	tsʰuŋ55	exact	
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	7	同	功	tʰuŋ35	kuŋ55	exact	crossed	7110-7112
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	7	从	功	tsʰuŋ55	kuŋ55	tonal exact	paired	7111-7112
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	8	貊	诺	muo51	nuo51	tonal inexact	encircling	7116-7119
-book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	8	貊	若	muo51	ruo51	tonal inexact	-	7116-7120
-book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	8	诺	若	nuo51	ruo51	tonal inexact	paired	7119-7120
+book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	8	貊	若	muo51	ɻuo51	tonal inexact	-	7116-7120
+book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	8	诺	若	nuo51	ɻuo51	tonal inexact	paired	7119-7120
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	9	鲁	母	lu214	mu214	tonal inexact	-	7122-7126
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	9	许	宇	ɕy214	y214	tonal inexact	paired	7123-7124
 book-of-poetry/praise-odes-of-lu/zhs	Bi Gong	9	士	祉	ʂʅ51	tʂʅ214	inexact	crossed	7127-7129

@@ -21,7 +21,7 @@ class Converter:
             'Connection': 'keep-alive'}
         with codecs.open('../txt/shijing_original/characters.txt', 'r', 'utf-8') as f:
             self.source = f.readlines()
-        self.out = codecs.open('../txt/shijing_original/fuzhou.txt', 'w', 'utf-8')
+        self.out = codecs.open('../txt/shijing_original/fuzhou_1.txt', 'w', 'utf-8')
         self.text = ''
 
     def read_source(self):
@@ -75,6 +75,8 @@ class Converter:
             if len(ipa_pronounce) == 1:
                 if ipa_pronounce is not None and len(ipa_pronounce) != 0:
                     result_ipa = ipa_pronounce[0].decode("unicode_escape") + ipa_tone[0]
+        if u'ʦ' in result_ipa:
+            result_ipa = result_ipa.replace(u'ʦ', u'ts')
         print result_ipa
         self.out.write(result_ipa + ' ')
 

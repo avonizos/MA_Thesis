@@ -36,9 +36,9 @@ puo35 u55 uo214 sɿ55
 puo35 xuan214 uo214 i55
 xai51 xuan214 xai51 fou214
 kuei55 niŋ35 fu51 mu214
-tsʰai214 tsʰai214 tɕyɛn51 ər214
+tsʰai214 tsʰai214 tɕyɛn51 əɻ214
 pu51 iŋ35 tɕʰiŋ214 kʰuɑŋ55
-tɕiɛ55 uo214 xuai35 rən35
+tɕiɛ55 uo214 xuai35 ɻən35
 tʂʅ51 pi214 tʂou55 ɕiŋ35
 tʂʅ51 pi214 tsʰuei55 uei35
 uo214 ma214 xuei55 tʰuei35
@@ -66,15 +66,15 @@ lɤ51 tʂʅ214 tɕyn55 tsɿ
 fu35 ly214 tʂʰəŋ35 tʂʅ55
 tʂuŋ55 sɿ55 y214
 ʂən55 ʂən55 ɕi55
-i35 ər214 tsɿ214 sun55
+i35 əɻ214 tsɿ214 sun55
 tʂən55 tʂən55 ɕi55
 tʂuŋ55 sɿ55 y214
 xuŋ55 xuŋ55 ɕi55
-i35 ər214 tsɿ214 sun55
+i35 əɻ214 tsɿ214 sun55
 ʂəŋ35 ʂəŋ35 ɕi55
 tʂuŋ55 sɿ55 y214
 i55 i55 ɕi55
-i35 ər214 tsɿ214 sun55
+i35 əɻ214 tsɿ214 sun55
 tʂɤ35 tʂɤ35 ɕi55
 tʰɑu35 tʂʅ55 iɑu55 iɑu55
 tʂuo35 tʂuo35 tɕʰi35 xua35
@@ -83,11 +83,11 @@ i35 tɕʰi35 tɕia55 ʂʅ51
 tʰɑu35 tʂʅ55 iɑu55 iɑu55
 iou214 fən35 tɕʰi35 ʂʅ35
 tʂʅ55 tsɿ214 y35 kuei55
-i35 tɕʰi35 ʂʅ51 tɕia55 
+i35 tɕʰi35 ʂʅ51 tɕia55
 tʰɑu35 tʂʅ55 iɑu55 iɑu55
 tɕʰi35 iɛ51 tʂən55 tʂən55
 tʂʅ55 tsɿ214 y35 kuei55
-i35 tɕʰi35 tɕia55 rən35
+i35 tɕʰi35 tɕia55 ɻən35
 su51 su51 tʰu51 tɕiɛ55
 tʂuo35 tʂʅ55 tʂəŋ55 tʂəŋ55
 tɕiou55 tɕiou55 u214 fu55
@@ -136,18 +136,18 @@ xan51 tʂʅ55 kuɑŋ214 i214
 pu51 kʰɤ214 yŋ214 sɿ55
 tɕiɑŋ55 tʂʅ55 yŋ214 i214
 pu51 kʰɤ214 fɑŋ55 sɿ55
-tsun55 pi214 ru214 fən35
+tsun55 pi214 ɻu214 fən35
 fa35 tɕʰi35 tʰiɑu35 mei35
 uei51 tɕiɛn51 tɕyn55 tsɿ214
-ni51 ru35 tʂou55 tɕi55
-tsun55 pi214 ru214 fən35
+ni51 ɻu35 tʂou55 tɕi55
+tsun55 pi214 ɻu214 fən35
 fa35 tɕʰi35 tʰiɑu35 i51
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 pu51 uo214 ɕia35 tɕʰi51
 fɑŋ35 y35 tʂʰəŋ55 uei214
-uɑŋ35 ʂʅ51 ru35 xuei214
-suei55 tsɤ35 ru35 xuei214
-fu51 mu214 kʰuŋ214 ər214
+uɑŋ35 ʂʅ51 ɻu35 xuei214
+suei55 tsɤ35 ɻu35 xuei214
+fu51 mu214 kʰuŋ214 əɻ214
 lin35 tʂʅ55 tʂʅ214
 tʂən51 tʂən51 kuŋ55 tsɿ214
 y35 tɕiɛ55 lin35 ɕi55
@@ -182,7 +182,7 @@ su51 iɛ51 tsai51 kuŋ55
 pei51 tʂʅ55 tɕʰi35 tɕʰi35
 puo35 iɛn35 xai35 kuei55
 iɑu55 iɑu55 tsʰɑu214 tʂʰuŋ35
-tʰi51 tʰi51 fu51 tʂuŋ55 
+tʰi51 tʰi51 fu51 tʂuŋ55
 uei51 tɕiɛn51 tɕyn55 tsɿ214
 iou55 ɕin55 tʂʰuŋ55 tʂʰuŋ55
 i51 tɕi51 tɕiɛn51 tʂʅ214
@@ -212,7 +212,7 @@ y35 i214 ɕiɑŋ55 tʂʅ55
 uei35 tɕʰi35 tɕi35 fu214
 y35 i214 tiɛn51 tʂʅ55
 tsuŋ55 ʂʅ51 iou214 ɕia51
-ʂei35tɕʰi35 ʂʅ55 tʂʅ55
+ʂei35 tɕʰi35 ʂʅ55 tʂʅ55
 iou214 tɕʰi35 tɕi51 ny214
 pi51 fei51 kan55 tʰɑŋ35
 u51 tɕiɛn214 u51 fa35
@@ -232,9 +232,9 @@ xɤ35 i214 tʂʰuan55 uo214 u55
 xɤ35 i214 su51 uo214 y51
 suei55 su51 uo214 y51
 ʂʅ51 tɕia55 pu51 tsu35
-ʂei35.uei51 ʂu214 u35 ia35
+ʂei35 uei51 ʂu214 u35 ia35
 xɤ35 i214 tʂʰuan55 uo214 yŋ55
-ʂei35.uei51 ny214 u35 tɕia55
+ʂei35 uei51 ny214 u35 tɕia55
 xɤ35 i214 su51 uo214 suŋ51
 suei55 su51 uo214 suŋ51
 i51 pu51 ny214 tsʰuŋ35
@@ -312,8 +312,8 @@ tɕi35 ʂʅ51 iou51 tʂʅ55
 lin35 iou214 pʰu214 su51
 iɛ214 iou214 sɿ214 lu51
 pai35 mɑu35 tʂʰun35 ʂu51
-iou214 ny214 ru35 y51
-ʂu55 ər35 tʰuo55 tʰuo55 ɕi55
+iou214 ny214 ɻu35 y51
+ʂu55 əɻ35 tʰuo55 tʰuo55 ɕi55
 u35 kan214 uo214 ʂuei51 ɕi55
 u35 ʂʅ214 mɑŋ35 iɛ214 fei51
 xɤ35 pi214 nuŋ35 i214
@@ -321,7 +321,7 @@ tʰɑŋ35 ti51 tʂʅ55 xua35
 xɤ35 pu51 su51 yŋ55
 uɑŋ35 tɕi55 tʂʅ55 tʂʰɤ55
 xɤ35 pi214 nuŋ35 i214
-xua35 ru35 tʰɑu35 li214
+xua35 ɻu35 tʰɑu35 li214
 pʰiŋ35 uɑŋ35 tʂʅ55 sun55
 tɕʰi35 xou35 tʂʅ55 tsɿ214
 tɕʰi35 tiɑu51 uei35 xɤ35
@@ -337,11 +337,11 @@ y35 tɕiɛ55 xu55 tsou55 y35
 fan51 pi214 pai214 tʂou55
 i51 fan51 tɕʰi35 liou35
 kəŋ214 kəŋ214 pu51 mei51
-ru35 iou214 in214 iou55
+ɻu35 iou214 in214 iou55
 uei55 uo214 u35 tɕiou214
 i214 ɑu35 i214 iou35
 uo214 ɕin55 fei214 tɕiɛn51
-pu51 kʰɤ214 i214 ru35
+pu51 kʰɤ214 i214 ɻu35
 i51 iou214 ɕyŋ55 ti51
 pu51 kʰɤ214 i214 tɕy51
 puo35 iɛn35 uɑŋ51 su51
@@ -358,10 +358,10 @@ kou51 min214 tɕi51 tuo55
 ʂou51 u214 pu51 ʂɑu214
 tɕiŋ51 iɛn35 sɿ55 tʂʅ55
 u51 pi51 iou214 piɑu55
-rʅ51 tɕi55 yɛ51 tʂu55
-xu35 tiɛ35 ər35 uei55
+ɻʅ51 tɕi55 yɛ51 tʂu55
+xu35 tiɛ35 əɻ35 uei55
 ɕin55 tʂʅ55 iou55 i214
-ru35 fei214 xuan214 i55
+ɻu35 fei214 xuan214 i55
 tɕiŋ51 iɛn35 sɿ55 tʂʅ55
 pu51 nəŋ35 fən51 fei55
 ly51 ɕi55 i55 ɕi55
@@ -374,18 +374,18 @@ ly51 ɕi55 xuɑŋ35 tʂʰɑŋ35
 xɤ35 uei35 tɕʰi35 uɑŋ35
 ly51 ɕi55 sɿ55 ɕi55
 ny214 suo214 tʂʅ51 ɕi55
-uo214 sɿ55 ku214 rən35
+uo214 sɿ55 ku214 ɻən35
 pi214 u35 iou35 ɕi55
 ɕi55 ɕi55 ɕi51 ɕi55
 tɕʰi55 tɕʰi35 i214 fəŋ55
-uo214 sɿ55 ku214 rən35
+uo214 sɿ55 ku214 ɻən35
 ʂʅ35 xuo51 uo214 ɕin55
 iɛn55 iɛn55 y35 fei55
 tʂʰa55 tʂʰʅ35 tɕʰi35 y214
 tʂʅ55 tsɿ214 y35 kuei55
 yɛn214 suŋ51 y35 iɛ214
 tʂan55 uɑŋ51 fu35 tɕi35
-tɕʰi51 tʰi51 ru35 y214
+tɕʰi51 tʰi51 ɻu35 y214
 iɛn55 iɛn55 y35 fei55
 ɕiɛ35 tʂʅ55 xɑŋ35 tʂʅ55
 tʂʅ55 tsɿ214 y35 kuei55
@@ -398,31 +398,31 @@ tʂʅ55 tsɿ214 y35 kuei55
 yɛn214 suŋ51 y35 nan35
 tʂan55 uɑŋ51 fu35 tɕi35
 ʂʅ35 lɑu35 uo214 ɕin55
-tʂuŋ51 ʂʅ51 rən51 tʂʅ214
+tʂuŋ51 ʂʅ51 ɻən51 tʂʅ214
 tɕʰi35 ɕin55 sai55 yɛn55
 tʂuŋ55 un55 tɕʰiɛ214 xuei51
 ʂu55 ʂən51 tɕʰi35 ʂən55
 ɕiɛn55 tɕyn55 tʂʅ55 sɿ55
-i214 ɕy51 kua214 rən35
-rʅ51 tɕy55 yɛ51 tʂu55
+i214 ɕy51 kua214 ɻən35
+ɻʅ51 tɕy55 yɛ51 tʂu55
 tʂɑu51 lin35 ɕia51 tʰu214
-nai214 ru35 tʂʅ55 rən35 ɕi55
+nai214 ɻu35 tʂʅ55 ɻən35 ɕi55
 ʂʅ51 pu51 ku214 tʂʰu214
 xu35 nəŋ35 iou214 tiŋ51
 niŋ35 pu51 uo214 ku51
-rʅ51 tɕy55 yɛ51 tʂu55
+ɻʅ51 tɕy55 yɛ51 tʂu55
 ɕia51 tʰu214 ʂʅ51 mɑu51
-nai214 ru35 tʂʅ55 rən35 ɕi55
+nai214 ɻu35 tʂʅ55 ɻən35 ɕi55
 ʂʅ51 pu51 ɕiɑŋ55 xɑu51
 xu35 nəŋ35 iou214 tiŋ51
 niŋ35 pu51 uo214 pɑu51
-rʅ51 tɕy55 yɛ51 tʂu55
+ɻʅ51 tɕy55 yɛ51 tʂu55
 tʂʰu55 tsɿ51 tuŋ55 fɑŋ55
-nai214 ru35 tʂʅ55 rən35 ɕi55
+nai214 ɻu35 tʂʅ55 ɻən35 ɕi55
 tɤ35 in55 u35 liɑŋ35
 xu35 nəŋ35 iou214 tiŋ51
 pi214 iɛ214 kʰɤ214 uɑŋ51
-rʅ51 tɕy55 yɛ51 tʂu55
+ɻʅ51 tɕy55 yɛ51 tʂu55
 tuŋ55 fɑŋ55 tsɿ51 tʂʰu55
 fu51 ɕi55 mu214 ɕi55
 tʂʰu51 uo214 pu51 tsʰu51
@@ -433,11 +433,11 @@ ku51 uo214 tsɤ35 ɕiɑu51
 ɕyɛ51 lɑŋ51 ɕiɑu51 ɑu35
 tʂuŋ55 ɕin55 ʂʅ51 tɑu51
 tʂuŋ55 fəŋ55 tɕʰiɛ214 mai35
-xuei51 ran35 kʰən214 lai35
+xuei51 ɻan35 kʰən214 lai35
 muo51 uɑŋ51 muo51 lai35
 iou55 iou55 uo214 sɿ55
 tʂuŋ55 fəŋ55 tɕʰiɛ214 i51
-pu51 rʅ51 iou214 i51
+pu51 ɻʅ51 iou214 i51
 u51 iɛn35 pu51 mei51
 yɛn51 iɛn35 tsɤ35 tʰi51
 i51 i51 tɕʰi35 in55
@@ -471,14 +471,14 @@ mu214 ʂʅ51 tɕʰy35 lɑu35
 kʰai214 fəŋ55 tsɿ51 nan35
 tʂʰuei55 pi214 tɕi35 ɕin55
 mu214 ʂʅ51 ʂəŋ51 tɕʰiɑŋ51
-uo214 u35 liŋ51 rən35
+uo214 u35 liŋ51 ɻən35
 yɛn35 iou214 xan35 tɕʰyɛn35
 tsai51 tɕyn51 tʂʅ55 ɕia51
-iou214 tsɿ214 tɕʰi55 rən35
+iou214 tsɿ214 tɕʰi55 ɻən35
 mu214 ʂʅ51 lɑu35 kʰu214
 ɕiɛn51 xuan214 xuɑŋ35 niɑu214
 tsai51 xɑu214 tɕʰi35 in55
-iou214 tsɿ214 tɕʰi55 rən35
+iou214 tsɿ214 tɕʰi55 ɻən35
 muo51 uei51 mu214 ɕin55
 ɕyŋ35 tʂʅ51 y35 fei55
 i51 i51 tɕʰi35 y214
@@ -488,11 +488,11 @@ tsɿ51 i35 i55 tsu214
 ɕia51 ʂɑŋ51 tɕʰi35 in55
 tʂan214 i214 tɕyn55 tsɿ214
 ʂʅ35 lɑu35 uo214 ɕin55
-tʂan55 pi214 rʅ51 yɛ51
+tʂan55 pi214 ɻʅ51 yɛ51
 iou55 iou55 uo214 sɿ55
 tɑu51 tʂʅ55 yn35 yɛn214
 xɤ35 yn35 nəŋ35 lai35
-pai214 ər214 tɕyn55 tsɿ214
+pai214 əɻ214 tɕyn55 tsɿ214
 pu51 tʂʅ55 tɤ35 ɕiŋ35
 pu51 tʂʅ51 pu51 tɕʰiou35
 xɤ35 yŋ51 pu51 tsɑŋ55
@@ -502,15 +502,15 @@ tɕi51 iou214 ʂən55 ʂɤ51
 tɕiɛn55 tsɤ35 tɕiɛ55
 iou214 mi35 tɕi51 iŋ35
 iou214 iɑu214 tʂʅ51 miŋ35
-tɕi51 iŋ35 pu51 ru35 kuei214
+tɕi51 iŋ35 pu51 ɻu35 kuei214
 tʂʅ51 miŋ35 tɕʰiou35 tɕʰi214 mu214
 yŋ55 yŋ55 miŋ35 iɛn51
-ɕy51 rʅ51 ʂʅ214 tan51
-ʂʅ51 ru35 kuei55 tɕʰi55
+ɕy51 ɻʅ51 ʂʅ214 tan51
+ʂʅ51 ɻu35 kuei55 tɕʰi55
 tai51 piŋ55 uei51 pʰan51
 tʂɑu55 tʂɑu55 tʂou55 tsɿ214
-rən35 ʂɤ51 ɑŋ35 fou214
-rən35 ʂɤ51 ɑŋ35 fou214
+ɻən35 ʂɤ51 ɑŋ35 fou214
+ɻən35 ʂɤ51 ɑŋ35 fou214
 ɑŋ35 ɕy55 uo214 iou214
 ɕi35 ɕi35 ku214 fəŋ55
 i214 in55 i214 y214
@@ -519,18 +519,18 @@ pu51 i35 iou214 nu51
 tsʰai214 fəŋ55 tsʰai214 fei55
 u35 i214 ɕia35 tʰi214
 tɤ35 in55 muo51 uei35
-tɕi35 ər214 tʰuŋ35 sɿ214
+tɕi35 əɻ214 tʰuŋ35 sɿ214
 ɕiŋ35 tɑu51 tʂʰʅ35 tʂʰʅ35
 tʂuŋ55 ɕin55 iou214 uei35
-pu51 yɛn214 i55 ər214
+pu51 yɛn214 i55 əɻ214
 puo35 suŋ51 uo214 tɕi55
-ʂei35.uei51 tʰu35 kʰu214
-tɕʰi35 kan55 ru35 tɕi35
-iɛn51 ər214 ɕin55 xun55
-ru35 ɕyŋ55 ru35 ti51
+ʂei35 uei51 tʰu35 kʰu214
+tɕʰi35 kan55 ɻu35 tɕi35
+iɛn51 əɻ214 ɕin55 xun55
+ɻu35 ɕyŋ55 ɻu35 ti51
 tɕiŋ55 i214 uei51 tʂuo35
 ʂʅ35 ʂʅ35 tɕʰi35 tʂʅ214
-iɛn51 ər214 ɕin55 xun55
+iɛn51 əɻ214 ɕin55 xun55
 pu51 uo214 ɕiɛ51 i214
 u35 ʂʅ51 uo214 liɑŋ35
 u35 fa55 uo214 kou214
@@ -549,12 +549,12 @@ fan214 i214 uo214 uei35 tʂʰou35
 tɕi51 tsu214 uo214 tɤ35
 ku214 yŋ51 pu51 ʂou51
 ɕi55 y51 kʰuŋ214 y51 tɕy35
-tɕi35 ər214 tiɛn55 fu51
+tɕi35 əɻ214 tiɛn55 fu51
 tɕi51 ʂəŋ55 tɕi51 y51
 pi214 y35 y35 tu35
 uo214 iou214 tʂʅ214 ɕy51
 i51 i214 y51 tuŋ55
-iɛn51 ər214 ɕin55 xun55
+iɛn51 əɻ214 ɕin55 xun55
 i214 uo214 y51 tɕʰyŋ35
 iou214 kuɑŋ55 iou214 kʰuei35
 tɕi51 i35 uo214 i51
@@ -571,41 +571,41 @@ xu35 uei35 xu55 ni35 tʂuŋ55
 mɑu35 tɕʰiou55 tʂʅ55 kɤ35 ɕi55
 xɤ35 tan51 tʂʅ55 tɕiɛ35 ɕi55
 ʂu55 ɕi55 puo35 ɕi55
-xɤ35 tuo55 rʅ51 iɛ214
+xɤ35 tuo55 ɻʅ51 iɛ214
 xɤ35 tɕʰi35 tʂʰu214 iɛ214
 pi51 iou214 y35 iɛ214
 xɤ35 tɕʰi35 tɕiou214 iɛ214
 pi51 iou214 i214 iɛ214
-xu35 tɕʰiou35 məŋ55 ruŋ35
+xu35 tɕʰiou35 məŋ55 ɻuŋ35
 fei214 tʂʰɤ55 pu51 tuŋ55
 ʂu55 ɕi55 puo35 ɕi55
 mi35 suo214 y35 tʰuŋ35
 suo214 ɕi55 uei214 ɕi55
 liou35 li35 tʂʅ55 tsɿ214
 ʂu55 ɕi55 puo35 ɕi55
-ɕiou51 ru35 tʂʰuŋ55 ər214
+ɕiou51 ɻu35 tʂʰuŋ55 əɻ214
 tɕiɛn214 ɕi55 tɕiɛn214 ɕi55
 fɑŋ55 tɕiɑŋ55 uan51 u214
-rʅ51 tʂʅ55 fɑŋ55 tʂuŋ55
+ɻʅ51 tʂʅ55 fɑŋ55 tʂuŋ55
 tsai51 tɕʰiɛn35 ʂɑŋ51 tʂʰu214
-ʂuo51 rən35 y214 y214
+ʂuo51 ɻən35 y214 y214
 kuŋ55 tʰiŋ35 uan51 u214
-iou214 li51 ru35 xu214
-tʂʅ35 pʰei51 ru35 tɕyɛ35
+iou214 li51 ɻu35 xu214
+tʂʅ35 pʰei51 ɻu35 tɕyɛ35
 tsuo214 ʂou214 tʂʅ35 yɛ51
 iou51 ʂou214 piŋ214 ti35
-xɤ51 ru35 uo51 tʂɤ214
+xɤ51 ɻu35 uo51 tʂɤ214
 kuŋ55 iɛn35 ɕi55 tɕyɛ35
 ʂan55 iou214 tʂən55
 ɕi35 iou214 liŋ35
-yn35 ʂei35tʂʅ55 sɿ55
-ɕi55 fɑŋ55 mei214 rən35
-pi214 mei214 rən35 ɕi55
-ɕi55 fɑŋ55 tʂʅ55 rən35 ɕi55
+yn35 ʂei35 tʂʅ55 sɿ55
+ɕi55 fɑŋ55 mei214 ɻən35
+pi214 mei214 ɻən35 ɕi55
+ɕi55 fɑŋ55 tʂʅ55 ɻən35 ɕi55
 pi51 pi214 tɕʰyɛn35 ʂuei214
 i51 liou35 y35 tɕʰi35
 iou214 xuai35 y35 uei51
-mi35 rʅ51 pu51 sɿ55
+mi35 ɻʅ51 pu51 sɿ55
 luan35 pi214 tʂu55 tɕi55
 liɑu35 y35 tʂʅ55 mou35
 tʂʰu55 su51 y35 tɕi214
@@ -635,39 +635,39 @@ tʰiɛn55 ʂʅ35 uei35 tʂʅ55
 uei51 tʂʅ55 xɤ35 tsai55
 uɑŋ35 ʂʅ51 ʂʅ51 uo214
 tʂəŋ51 ʂʅ51 i55 pʰi35 i51 uo214
-uo214 ru51 tsɿ51 uai51
-ʂʅ51 rən35 tɕiɑu55 piɛn51 tʂɤ35 uo214
+uo214 ɻu51 tsɿ51 uai51
+ʂʅ51 ɻən35 tɕiɑu55 piɛn51 tʂɤ35 uo214
 i214 iɛn55 tsai55
 tʰiɛn55 ʂʅ35 uei35 tʂʅ55
 uei51 tʂʅ55 xɤ35 tsai55
 uɑŋ35 ʂʅ51 tun55 uo214
 tʂəŋ51 ʂʅ51 i55 pʰi35 i51 uo214
-uo214 ru51 tsɿ51 uai51
-ʂʅ51 rən35 tɕiɑu55 piɛn51 tsʰuei55 uo214
+uo214 ɻu51 tsɿ51 uai51
+ʂʅ51 ɻən35 tɕiɑu55 piɛn51 tsʰuei55 uo214
 i214 iɛn55 tsai55
 tʰiɛn55 ʂʅ35 uei35 tʂʅ55
 uei51 tʂʅ55 xɤ35 tsai55
 pei214 fəŋ55 tɕʰi35 liɑŋ35
 y214 ɕyɛ214 tɕʰi35 pʰɑŋ55
-xuei51 ər35 xɑu214 uo214
+xuei51 əɻ35 xɑu214 uo214
 ɕiɛ35 ʂou214 tʰuŋ35 ɕiŋ35
 tɕʰi35 ɕy55 tɕʰi35 ɕiɛ35
 tɕi51 tɕi35 tʂʅ214 tɕʰiɛ214
 pei214 fəŋ55 tɕʰi35 tɕiɛ55
 y214 ɕyɛ214 tɕʰi35 fei55
-xuei51 ər35 xɑu214 uo214
+xuei51 əɻ35 xɑu214 uo214
 ɕiɛ35 ʂou214 tʰuŋ35 kuei55
 tɕʰi35 ɕy55 tɕʰi35 ɕiɛ35
 tɕi51 tɕi35 tʂʅ214 tɕʰiɛ214
 muo51 tʂʰʅ51 fei214 xu35
 muo51 xei55 fei214 u55
-xuei51 ər35 xɑu214 uo214
+xuei51 əɻ35 xɑu214 uo214
 ɕiɛ35 ʂou214 tʰuŋ35 tʂʰɤ55
 tɕʰi35 ɕy55 tɕʰi35 ɕiɛ35
 tɕi51 tɕi35 tʂʅ214 tɕʰiɛ214
 tɕiŋ51 ny214 tɕʰi35 ʂu55
 sɿ51 uo214 y35 tʂʰəŋ35 y35
-ai51 ər35 pu51 tɕiɛn51
+ai51 əɻ35 pu51 tɕiɛn51
 sɑu55 ʂou214 tʂʰʅ35 tʂʰu35
 tɕiŋ51 ny214 tɕʰi35 luan35
 i35 uo214 tʰuŋ35 kuan214
@@ -676,7 +676,7 @@ tʰuŋ35 kuan214 iou214 uei214
 tsɿ35 mu51 kuei55 tʰi35
 ɕyn35 mei214 tɕʰiɛ214 i51
 fei214 ny214 tʂʅ55 uei51 mei214
-mei214 rən35 tʂʅ55 i35
+mei214 ɻən35 tʂʅ55 i35
 ɕin55 tʰai35 iou214 tsʰɿ214
 xɤ35 ʂuei214 mi35 mi35
 iɛn35 uan214 tʂʅ55 tɕʰiou35
@@ -689,11 +689,11 @@ y35 uɑŋ214 tʂʅ55 ʂɤ51
 xuŋ35 tsɤ35 li35 tʂʅ55
 iɛn55 uan214 tʂʅ55 tɕʰiou35
 tɤ35 tsʰɿ214 tɕʰi55 ʂʅ55
-ər51 tsɿ214 tʂʰəŋ35 tʂou55
+əɻ51 tsɿ214 tʂʰəŋ35 tʂou55
 fan51 fan51 tɕʰi35 tɕiŋ214
 yɛn51 iɛn35 sɿ55 tsɿ214
 tʂuŋ55 ɕin55 iɑŋ214 iɑŋ214
-ər51 tsɿ214 tʂʰəŋ35 tʂou55
+əɻ51 tsɿ214 tʂʰəŋ35 tʂou55
 fan51 fan51 tɕʰi35 ʂʅ51
 yɛn51 iɛn35 sɿ55 tsɿ214
 pu51 ɕia35 iou214 xai51
@@ -703,14 +703,14 @@ tan51 pi214 liɑŋ214 mɑu35
 tʂʅ35 uei35 uo214 i35
 tʂʅ55 sɿ214 ʂʅ214 mi35 tʰa55
 mu214 iɛ214 tʰiɛn55 tʂʅ214
-pu51 liɑŋ51 rən35 tʂʅ214
+pu51 liɑŋ51 ɻən35 tʂʅ214
 fan51 pi214 pai214 tʂou55
 tsai51 pi214 xɤ35 tsʰɤ51
 tan51 pi214 lia214 mɑu35
 tʂʅ35 uei35 uo214 tʰɤ35
 tʂʅ55 sɿ214 ʂʅ214 mi35 tʰɤ51
 mu214 iɛ214 tʰiɛn55 tʂʅ214
-pu51 liɑŋ51 rən35 tʂʅ214
+pu51 liɑŋ51 ɻən35 tʂʅ214
 tɕʰiɑŋ35 iou214 tsʰɿ35
 pu51 kʰɤ214 sɑu51 iɛ214
 tʂuŋ55 kou51 tʂʅ55 iɛn35
@@ -728,30 +728,30 @@ pu51 kʰɤ214 ʂu51 iɛ214
 tʂuŋ55 kou51 tʂʅ55 iɛn35
 pu51 kʰɤ214 tou51 iɛ214
 suo214 kʰɤ214 tou51 iɛ214
-iɛn35 tʂʅ55 ru214 iɛ214
+iɛn35 tʂʅ55 ɻu214 iɛ214
 tɕyn55 tsɿ214 ɕiɛ35 lɑu214
 fu51 tɕi55 liou51 tɕia55
 uei55 uei55 tʰuo35 tʰuo35
-ru35 ʂan55 ru35 xɤ35
+ɻu35 ʂan55 ɻu35 xɤ35
 ɕiɑŋ51 fu35 ʂʅ51 i35
 tsɿ214 tʂʅ55 pu51 ʂu55
-yn35 ru35 tʂʅ55 xɤ35
+yn35 ɻu35 tʂʅ55 xɤ35
 tsʰɿ214 ɕi55 tsʰɿ214 ɕi55
 tɕʰi35 tʂʅ55 ti35 iɛ214
-tʂən214 fa51 ru35 yn35
+tʂən214 fa51 ɻu35 yn35
 pu51 ɕiɛ51 tʰi51 iɛ214
 y51 tʂʅ55 tʰiɛn51 iɛ214
 ɕiɑŋ51 tʂʅ55 tʰi51 iɛ214
 iɑŋ35 tɕʰiɛ214 tʂʅ55 ɕi214 iɛ214
-xu35 ran35 ər35 tʰiɛn55 iɛ214
-xu35 ran35 ər35 ti51 iɛ214
+xu35 ɻan35 əɻ35 tʰiɛn55 iɛ214
+xu35 ɻan35 əɻ35 ti51 iɛ214
 tsʰuo214 ɕi55 tsʰuo214 ɕi55
 tɕʰi35 tʂʅ55 tʂan214 iɛ214
 məŋ55 pi214 tʂou51 tʂʰʅ55
 ʂʅ51 ɕiɛ51 pʰan51 iɛ214
 tsɿ214 tʂʅ55 tɕʰiŋ55 iɑŋ35
 iɑŋ35 tɕʰiɛ214 tʂʅ55 iɛn35 iɛ214
-tʂan214 ru35 tʂʅ55 rən35 ɕi55
+tʂan214 ɻu35 tʂʅ55 ɻən35 ɕi55
 pɑŋ55 tʂʅ55 yɛn35 iɛ214
 yɛn35 tsʰai214 tʰɑŋ35 i214
 mei51 tʂʅ55 ɕiɑŋ55 i214
@@ -762,29 +762,29 @@ iɑu51 uo214 xu55 ʂɑŋ51 kuŋ55
 suŋ51 uo214 xu55 tɕʰi35 tʂʅ55 ʂɑŋ51 i214
 yɛn35 tsʰai214 mai51 i214
 mei51 tʂʅ55 pei214 i214
-yn35 ʂei35tʂʅ55 sɿ55
+yn35 ʂei35 tʂʅ55 sɿ55
 mei214 məŋ51 i51 i214
 tɕʰi35 uo214 xu55 sɑŋ55 tʂuŋ55
 iɑu51 uo214 xu55 ʂɑŋ51 kuŋ55
 suŋ51 uo214 xu55 tɕʰi35 tʂʅ55 ʂɑŋ51 i214
 yɛn35 tsʰai214 fəŋ55 i51
 mei51 tʂʅ55 tuŋ55 i214
-yn35 ʂei35tʂʅ55 sɿ55
+yn35 ʂei35 tʂʅ55 sɿ55
 mei214 məŋ51 yŋ55 i214
 tɕʰi55 uo214 xu55 sɑŋ55 tʂuŋ55
 iɑu51 uo214 xu55 ʂɑŋ51 kuŋ55
 suŋ51 uo214 xu55 tɕʰi35 tʂʅ55 ʂɑŋ51 i214
 tʂʰun35 tʂʅ55 pən55 pən55
 tɕʰyɛ51 tʂʅ55 tɕiɑŋ51 tɕiɑŋ51
-rən35 tʂʅ55 u35 liɑŋ35
+ɻən35 tʂʅ55 u35 liɑŋ35
 uo214 i214 uei35 ɕyŋ55
 tɕʰyɛ51 tʂʅ55 tɕiɑŋ51 tɕiɑŋ51
 tʂʰun35 tʂʅ55 pən55 pən55
-rən35 tʂʅ55 u35 liɑŋ35
+ɻən35 tʂʅ55 u35 liɑŋ35
 uo214 i214 uei35 tɕyn55
 tiŋ51 tʂʅ55 fɑŋ55 tʂuŋ55
 tsuo51 y35 tʂʰu214 kuŋ55
-kʰuei35 tʂʅ55 i214 rʅ51
+kʰuei35 tʂʅ55 i214 ɻʅ51
 tsuo51 y35 tʂʰu214 ʂʅ51
 ʂu51 tʂʅ55 tʂən55 li51
 i214 tʰuŋ35 tsɿ214 tɕʰi55
@@ -795,12 +795,12 @@ uɑŋ51 tʂʰu214 y35 tʰɑŋ35
 tɕiŋ214 ʂan55 y35 tɕiŋ55
 tɕiɑŋ51 kuan55 y35 sɑŋ55
 pu214 yn35 tɕʰi35 tɕi35
-tʂuŋ55 ran35 yn214 tsɑŋ55
+tʂuŋ55 ɻan35 yn214 tsɑŋ55
 liŋ35 y214 tɕi51 liŋ35
-miŋ51 pi214 kuan55 rən35
+miŋ51 pi214 kuan55 ɻən35
 ɕiŋ55 iɛn35 su51 tɕia51
 ʂuo55 y35 sɑŋ55 tʰiɛn35
-fei214 tʂʅ35 iɛ214 rən35
+fei214 tʂʅ35 iɛ214 ɻən35
 piŋ214 ɕin55 sai55 yɛn55
 lai35 pʰin51 san55 tɕʰiɛn55
 ti35 tuŋ55 tsai51 tuŋ55
@@ -811,21 +811,21 @@ tʂʰɑu35 tɕi55 y35 ɕi55
 tʂʰuŋ35 tʂʰɑu35 tɕʰi35 y214
 ny214 tsɿ214 iou214 ɕiŋ35
 yɛn214 ɕyŋ55 ti51 fu51 mu214
-nai214 ru35 tʂʅ55 rən35 iɛ214
+nai214 ɻu35 tʂʅ55 ɻən35 iɛ214
 xuai35 xun55 in55 iɛ214
 ta51 u35 ɕin51 iɛ214
 pu51 tʂʅ55 miŋ51 iɛ214
 ɕiɑŋ55 ʂu214 iou214 pʰi35
-rən35 ər35 u35 i35
-rən35 ər35 u35 i35
+ɻən35 əɻ35 u35 i35
+ɻən35 əɻ35 u35 i35
 pu51 sɿ214 xɤ35 uei35
 ɕiɑŋ55 ʂu214 iou214 tʂʰʅ214
-rən35 ər35 u35 tʂʅ214
-rən35 ər35 u35 tʂʅ214
+ɻən35 əɻ35 u35 tʂʅ214
+ɻən35 əɻ35 u35 tʂʅ214
 pu51 sɿ214 xɤ35 sɿ51
 ɕiɑŋ55 ʂu214 iou214 tʰi214
-rən35 ər35 u35 li214
-rən35 ər35 u35 li214
+ɻən35 əɻ35 u35 li214
+ɻən35 əɻ35 u35 li214
 xu35 pu51 tʂʰuan35 sɿ214
 tɕiɛ35 tɕiɛ35 kan55 mɑu35
 tsai51 tɕyn51 tʂʅ55 tɕiɑu55
@@ -853,17 +853,17 @@ tʰai51 fu pa35 ʂɤ51
 uo214 ɕin55 tsɤ35 iou55
 tɕi51 pu51 uo214 tɕia55
 pu51 nəŋ35 ɕyɛn35 fan214
-ʂʅ51 ər214 pu51 tsɑŋ55
+ʂʅ51 əɻ214 pu51 tsɑŋ55
 uo214 sɿ55 pu51 yɛn214
 tɕi51 pu51 uo214 tɕia55
 pu51 nəŋ35 ɕyɛn35 tɕi51
-ʂʅ51 ər214 pu51 tsɑŋ55
+ʂʅ51 əɻ214 pu51 tsɑŋ55
 uo214 sɿ55 pu51 pi51
 tʂʅ51 pi214 a55 tɕʰiou55
 iɛn35 tsʰai214 tɕʰi35 məŋ35
 ny214 tsɿ214 ʂan51 xuai35
 i51 kɤ51 iou214 ɕiŋ35
-ɕy214 rən35 iou35 tʂʅ55
+ɕy214 ɻən35 iou35 tʂʅ55
 tʂuŋ51 tʂʅ51 tɕʰiɛ214 kʰuɑŋ35
 uo214 ɕiŋ35 tɕʰi35 iɛ214
 pʰəŋ35 pʰəŋ35 tɕʰi35 mai51
@@ -871,13 +871,13 @@ kʰuŋ51 y35 ta51 pɑŋ55
 ʂei35 in55 ʂei35 tɕi35
 tʰai51 fu tɕyn55 tsɿ214
 u35 uo214 iou214 iou35
-pai214 ər214 suo214 sɿ55
-pu51 ru35 uo214 suo214 tʂʅ55
+pai214 əɻ214 suo214 sɿ55
+pu51 ɻu35 uo214 suo214 tʂʅ55
 tʂan55 pi214 tɕʰi35 ɑu51
 ly51 tʂu35 i55 i55
 iou214 fei214 tɕyn55 tsɿ214
-ru35 tɕʰiɛ55 ru35 tsʰuo55
-ru35 tʂuo35 ru35 muo35
+ɻu35 tɕʰiɛ55 ɻu35 tsʰuo55
+ɻu35 tʂuo35 ɻu35 muo35
 sɤ51 ɕi55 ɕiɛn51 ɕi55
 xɤ51 ɕi55 ɕyɛn214 ɕi55
 iou214 fei214 tɕyn55 tsɿ214
@@ -885,48 +885,48 @@ tʂuŋ55 pu51 kʰɤ214 ɕyɛn55 ɕi55
 tʂan55 pi214 tɕʰi35 ɑu51
 ly51 tʂu35 tɕʰiŋ55 tɕʰiŋ55
 iou214 fei214 tɕyn55 tsɿ214
-tʂʰuŋ55 ər214 ɕiou51 iŋ35
-xuei51 piɛn51 ru35 ɕiŋ55
+tʂʰuŋ55 əɻ214 ɕiou51 iŋ35
+xuei51 piɛn51 ɻu35 ɕiŋ55
 sɤ51 ɕi55 ɕiɛn51 ɕi55
 xɤ51 ɕi55 ɕyɛn214 ɕi55
 iou214 fei214 tɕyn55 tsɿ214
 tʂuŋ55 pu51 kʰɤ214 ɕyɛn55 ɕi55
 tʂan55 pi214 tɕʰi35 ɑu51
-ly51 tʂu35 ru35 tsɤ35
+ly51 tʂu35 ɻu35 tsɤ35
 iou214 fei214 tɕyn55 tsɿ214
-ru35 tɕin55 ru35 ɕi55
-ru35 kuei55 ru35 pi51
+ɻu35 tɕin55 ɻu35 ɕi55
+ɻu35 kuei55 ɻu35 pi51
 kʰuan55 ɕi55 tʂʰɑu55 ɕi55
 i55 tʂʰuŋ35 tɕyɛ35 ɕi55
 ʂan51 ɕi51 ɕyɛ51 ɕi55
 pu35 uei35 nyɛ51 ɕi55
 kʰɑu214 pʰan35 tsai51 tɕiɛn51
-ʂuo51 rən35 tʂʅ55 kʰuan55
+ʂuo51 ɻən35 tʂʅ55 kʰuan55
 tu35 mei51 u51 iɛn35
 yŋ214 ʂʅ214 fu35 ɕyɛn55
 kʰɑu214 pʰan35 tsai51 a55
-ʂuo51 rən35 tʂʅ55 kʰɤ55
+ʂuo51 ɻən35 tʂʅ55 kʰɤ55
 tu35 mei51 u51 kɤ55
 yŋ214 ʂʅ214 fu35 kuo51
 kʰɑu214 pʰan35 tsai35 lu51
-ʂuo51 rən35 tʂʅ55 tʂou35
+ʂuo51 ɻən35 tʂʅ55 tʂou35
 tu35 mei51 u51 su51
 yŋ214 ʂʅ214 fu35 kɑu51
-ʂuo51 rən35 tɕʰi35 tɕʰi35
+ʂuo51 ɻən35 tɕʰi35 tɕʰi35
 i55 tɕin214 tɕyŋ214 i55
 tɕʰi35 xou35 tʂʅ55 tsɿ214
 uei51 xou35 tʂʅ55 tɕʰi55
 tuŋ55 kuŋ55 tʂʅ55 mei51
 ɕiŋ35 xou35 tʂʅ55 i35
 tʰan35 kuŋ55 uei35 sɿ55
-ʂou214 ru35 rou35 tʰi35
-fu55 ru35 niŋ35 tʂʅ55
-liŋ214 ru35 tɕʰiou35 tɕʰi35
-tʂʰʅ214 ru35 xu51 ɕi55
+ʂou214 ɻu35 ɻou35 tʰi35
+fu55 ɻu35 niŋ35 tʂʅ55
+liŋ214 ɻu35 tɕʰiou35 tɕʰi35
+tʂʰʅ214 ɻu35 xu51 ɕi55
 tɕʰin35 ʂou214 ɤ35 mei35
 tɕʰiɑu214 ɕiɑu51 tɕʰiɛn51 ɕi55
 mei214 mu51 pʰan51 ɕi55
-ʂuo51 rən35 ɑu35 ɑu35
+ʂuo51 ɻən35 ɑu35 ɑu35
 ʂuei51 y35 nuŋ35 tɕiɑu55
 sɿ51 mu214 iou214 tɕiɑu55
 tʂu55 fən35 piɑu55 piɑu55
@@ -956,14 +956,14 @@ pu51 tɕiɛn51 fu51 kuan55
 tɕʰi35 tʰi51 liɛn35 liɛn35
 tɕi51 tɕiɛn51 fu51 kuan55
 tsai214 ɕiɑu51 tsai214 iɛn35
-ər214 pu51 ər214 ʂʅ51
+əɻ214 pu51 əɻ214 ʂʅ51
 tʰi214 u35 tɕiou51 iɛn35
-i214 ər214 tʂʰɤ55 lai35
+i214 əɻ214 tʂʰɤ55 lai35
 i214 uo214 xuei51 tɕʰiɛn55
 sɑŋ55 tʂʅ55 uei51 luo51
-tɕʰi35 iɛ51 uo51 ruo51
+tɕʰi35 iɛ51 uo51 ɻuo51
 y35 tɕiɛ55 tɕiou55 ɕi55
-u35 ʂʅ35 sɑŋ55 rən51
+u35 ʂʅ35 sɑŋ55 ɻən51
 y35 tɕiɛ55 ny214 ɕi55
 u35 y35 ʂʅ51 tan55
 ʂʅ51 tʂʅ55 tan55 ɕi55
@@ -971,15 +971,15 @@ iou35 kʰɤ214 tʰuo55 iɛ214
 ny214 tʂʅ55 tan55 ɕi55
 pu51 kʰɤ214 tʰuo55 iɛ214
 sɑŋ55 tʂʅ55 luo51 i214
-tɕʰi35 xuɑŋ35 ər35 yn214
-tsɿ51 uo214 tsʰu35 ər214
+tɕʰi35 xuɑŋ35 əɻ35 yn214
+tsɿ51 uo214 tsʰu35 əɻ214
 san55 suei51 ʂʅ35 pʰin35
 tɕʰi51 ʂuei214 tʰɑŋ55 tʰɑŋ55
 tɕiɛn55 tʂʰɤ55 uei35 tʂʰɑŋ35
 ny214 iɛ214 pu51 ʂuɑŋ214
-ʂʅ51 ər51 tɕʰi35 ɕiŋ35
+ʂʅ51 əɻ51 tɕʰi35 ɕiŋ35
 ʂʅ51 iɛ214 uɑŋ214 tɕi35
-ər51 san55 tɕʰi35 tɤ35
+əɻ51 san55 tɕʰi35 tɤ35
 san55 suei51 uei35 fu51
 mi35 ʂʅ51 lɑu35 i214
 su51 ɕiŋ55 iɛ51 mei51
@@ -990,7 +990,7 @@ tʂʅ51 y35 pɑu51 i214
 tiɛ35 tɕʰi35 ɕiɑu51 i214
 tɕiŋ51 iɛn35 sɿ55 tʂʅ55
 kuŋ55 tsɿ51 tɑu51 i214
-tɕi35 ər214 ɕiɛ35 lɑu214
+tɕi35 əɻ214 ɕiɛ35 lɑu214
 lɑu214 ʂʅ214 uo214 yɛn51
 tɕʰi35 tsɤ35 iou214 an51
 ɕi35 tsɤ35 iou214 pʰan51
@@ -1002,7 +1002,7 @@ fan214 ʂʅ51 pu51 sɿ55
 i51 i214 iɛn55 tsai55
 tʰi51 tʰi51 tʂu35 kan55
 i214 tiɑu51 y35 tɕʰi35
-tɕʰi214 pu51 ər214 sɿ55
+tɕʰi214 pu51 əɻ214 sɿ55
 yɛn214 muo51 tʂʅ51 tʂʅ55
 tɕʰyɛn35 yɛn35 tsai51 tsuo214
 tɕʰi35 ʂuei214 tsai51 iou51
@@ -1020,20 +1020,20 @@ uan35 lan51 tʂʅ55 tʂʅ55
 tʰuŋ35 tsɿ214 pʰei51 ɕi55
 suei55 tsɤ35 pʰei51 ɕi55
 nəŋ35 pu51 uo214 tʂʅ55
-ruŋ35 ɕi55 suei55 ɕi55
+ɻuŋ35 ɕi55 suei55 ɕi55
 tʂʰuei35 tai51 tɕi51 ɕi55
 uan35 lan35 tʂʅ55 iɛ51
 tʰuŋ35 tsɿ214 pʰei51 ʂɤ51
 suei55 tsɤ35 pʰei51 ʂɤ51
 nəŋ35 pu51 uo214 tɕia214
-ruŋ35 ɕi55 suei55 ɕi55
+ɻuŋ35 ɕi55 suei55 ɕi55
 tʂʰuei35 tai51 tɕi51 ɕi55
 ʂei35 uei51 xɤ35 kuɑŋ214
 i55 uei214 xɑŋ35 tʂʅ55
 ʂei35 uei51 suŋ51 yɛn214
 tɕʰi35 y35 uɑŋ51 tʂʅ55
 ʂei35 uei51 xɤ35 kuɑŋ214
-tsʰəŋ35 pu51 ruŋ35 tɑu55
+tsʰəŋ35 pu51 ɻuŋ35 tɑu55
 ʂei35 uei51 suŋ51 yɛn214
 tsʰəŋ35 pu51 tʂʰuŋ35 tʂʰɑu35
 puo35 ɕi55 tɕʰiɛ51 ɕi55
@@ -1041,11 +1041,11 @@ pɑŋ55 tʂʅ55 tɕiɛ35 ɕi55
 puo35 iɛ214 tʂʅ35 ʂu55
 uei35 uɑŋ35 tɕʰiɛn35 tɕʰy55
 tsɿ51 puo35 tʂʅ55 tuŋ55
-ʂou214 ru35 fei55 pʰəŋ35
+ʂou214 ɻu35 fei55 pʰəŋ35
 tɕʰi214 u35 kɑu55 mu51
-ʂei35 ʂʅ51 uei35 ruŋ35
+ʂei35 ʂʅ51 uei35 ɻuŋ35
 tɕʰi35 y214 tɕʰi35 y214
-kɑu214 kɑu214 tʂʰu55 rʅ51
+kɑu214 kɑu214 tʂʰu55 ɻʅ51
 yɛn51 iɛn35 sɿ55 puo35
 kan55 ɕin55 ʂou214 tɕi35
 iɛn55 tɤ35 ɕyɛn55 tsʰɑu214
@@ -1085,40 +1085,40 @@ uei51 uo214 ɕin55 iou55
 pu51 tʂʅ55 uo214 tʂɤ214
 uei51 uo214 xɤ35 tɕʰiou35
 iou55 iou55 tsʰɑŋ55 tʰiɛn55
-tsʰɿ214 xɤ35 rən35 tsai55
+tsʰɿ214 xɤ35 ɻən35 tsai55
 pi214 ʂu214 li35 li35
 pi214 tɕi51 tʂʅ55 suei51
 ɕiŋ35 mai51 mi35 mi35
-tʂuŋ55 ɕin55 ru35 tsuei51
+tʂuŋ55 ɕin55 ɻu35 tsuei51
 tʂʅ55 uo214 tʂɤ214
 uei51 uo214 ɕin55 iou55
 pu51 tʂʅ55 uo214 tʂɤ214
 uei51 uo214 xɤ35 tɕʰiou35
 iou55 iou55 tsʰɑŋ55 tʰiɛn55
-tsʰɿ214 xɤ35 rən35 tsai55
+tsʰɿ214 xɤ35 ɻən35 tsai55
 pi214 ʂu214 li35 li35
 pi214 tɕi51 tʂʅ55 ʂʅ35
 ɕiŋ35 mai51 mi35 mi35
-tʂuŋ55 ɕin55 ru35 iɛ55
+tʂuŋ55 ɕin55 ɻu35 iɛ55
 tʂʅ55 uo214 tʂɤ214
 uei51 uo214 ɕin55 iou55
 pu51 tʂʅ55 uo214 tʂɤ214
 uei51 uo214 xɤ35 tɕʰiou35
 iou55 iou55 tsʰɑŋ55 tʰiɛn55
-tsʰɿ214 xɤ35 rən35 tsai55
+tsʰɿ214 xɤ35 ɻən35 tsai55
 tɕyn55 tsɿ214 y35 i51
 pu51 tʂʅ55 tɕʰi35 tɕʰi55
 xɤ35 tʂʅ51 tsai55
 tɕi55 tɕʰi55 y35 ʂʅ35
-rʅ51 tʂʅ55 ɕi55 i214
+ɻʅ51 tʂʅ55 ɕi55 i214
 iɑŋ35 niou35 ɕia51 lai35
 tɕyn55 tsɿ214 y35 i51
-ru35 tʂʅ55 xɤ35 u51 sɿ55
+ɻu35 tʂʅ55 xɤ35 u51 sɿ55
 tɕyn55 tsɿ214 y35 i51
-pu51 rʅ51 pu51 yɛ51
+pu51 ɻʅ51 pu51 yɛ51
 xɤ35 tɕʰi35 iou214 xuo35
 tɕi55 tɕʰi55 y35 tɕiɛ35
-rʅ51 tʂʅ55 ɕi55 i214
+ɻʅ51 tʂʅ55 ɕi55 i214
 iɑŋ35 niou35 ɕia51 kʰuo51
 tɕyn55 tsɿ214 y35 i51
 kou214 u35 tɕi55 kʰɤ214
@@ -1153,13 +1153,13 @@ xan51 tɕʰi35 tɕʰiɛn35 i214
 iou214 ny214 pʰi214 li35
 kʰai51 tɕʰi35 tʰan51 i214
 kʰai51 tɕʰi35 tʰan51 i214
-y51 rən35 tʂʅ55 tɕiɛn55 nan35 i214
+y51 ɻən35 tʂʅ55 tɕiɛn55 nan35 i214
 tʂuŋ55 ku214 iou214 tʰuei55
 xan51 tɕʰi35 tɕʰiɛn35 i214
 iou214 ny214 pʰi214 li35
 tʰiɑu35 tɕʰi35 ɕiɑu51 i214
 tʰiɑu35 tɕʰi35 ɕiɑu51 i214
-y51 rən35 tʂʅ55 pu35 ʂu55 i214
+y51 ɻən35 tʂʅ55 pu35 ʂu55 i214
 tʂuŋ55 ku214 iou214 tʰuei55
 xan51 tɕʰi35 tɕʰiɛn35 i214
 iou214 ny214 pʰi214 li35
@@ -1190,42 +1190,42 @@ fəŋ35 tsʰɿ214 pai214 ɕyŋ55
 miɛn35 miɛn35 kɤ35 lei214
 tsai51 xɤ35 tʂʅ55 ku51
 tʂuŋ55 yɛn214 ɕyŋ55 ti51
-uei51 tʰa55 rən35 fu51
-uei51 tʰa55 rən35 fu51
+uei51 tʰa55 ɻən35 fu51
+uei51 tʰa55 ɻən35 fu51
 i51 muo51 uo214 ku51
 miɛn35 miɛn35 kɤ35 lei214
 tsai51 xɤ35 tʂʅ55 sɿ51
 tʂuŋ55 yɛn214 ɕyŋ55 ti51
-uei51 tʰa55 rən35 mu214
-uei51 tʰa55 rən35 mu214
+uei51 tʰa55 ɻən35 mu214
+uei51 tʰa55 ɻən35 mu214
 i51 muo51 uo214 iou214
 miɛn35 miɛn35 kɤ35 lei214
 tsai51 xɤ35 tʂʅ55 tʂʰun35
 tʂuŋ55 yɛn214 ɕyŋ55 ti51
-uei51 tʰa55 rən35 kʰun55
-uei51 tʰa55 rən35 kʰun55
+uei51 tʰa55 ɻən35 kʰun55
+uei51 tʰa55 ɻən35 kʰun55
 i51 muo51 uo214 un35
 pi214 tsʰai214 kɤ35 ɕi55
-i55 rʅ51 pu51 tɕiɛn51
-ru35 san55 yɛ51 ɕi55
+i55 ɻʅ51 pu51 tɕiɛn51
+ɻu35 san55 yɛ51 ɕi55
 pi214 tsʰai214 ɕiɑu55 ɕi55
-i55 rʅ51 pu51 tɕiɛn51
-ru35 san55 tɕʰiou55 ɕi55
+i55 ɻʅ51 pu51 tɕiɛn51
+ɻu35 san55 tɕʰiou55 ɕi55
 pi214 tsʰai214 ai51 ɕi55
-i55 rʅ51 pu51 tɕiɛn51
-ru35 san55 suei51 ɕi55
+i55 ɻʅ51 pu51 tɕiɛn51
+ɻu35 san55 suei51 ɕi55
 ta51 tʂʰɤ55 tɕiɛn51 tɕiɛn51
-tsʰuei51 i55 ru35 tʰan214
-tɕʰi214 pu51 ər214 sɿ55
+tsʰuei51 i55 ɻu35 tʰan214
+tɕʰi214 pu51 əɻ214 sɿ55
 uei51 tsɿ214 pu51 kan214
 ta51 tʂʰɤ55 tʰun55 tʰun55
-tsʰuei51 i55 ru35 mən35
-tɕʰi214 pu51 ər214 sɿ55
+tsʰuei51 i55 ɻu35 mən35
+tɕʰi214 pu51 əɻ214 sɿ55
 uei51 tsɿ214 pu51 pən55
 ku214 tsɤ35 i51 ʂʅ51
 sɿ214 tsɤ35 tʰuŋ35 ɕyɛ35
 uei51 y35 pu51 ɕin51
-iou214 ru35 tɕiɑu214 rʅ51
+iou214 ɻu35 tɕiɑu214 ɻʅ51
 tɕʰiou55 tʂuŋ55 iou214 ma35
 pi214 liou35 tsɿ214 tɕiɛ55
 pi214 liou35 tsɿ214 tɕiɛ55
@@ -1276,29 +1276,29 @@ tɕiɑŋ55 tʂuŋ55 tsɿ214 ɕi55
 u35 y35 uo214 yɛn35
 u35 ʂɤ35 uo214 ʂu51 tʰan35
 tɕʰi214 kan214 ai51 tʂʅ55
-uei51 rən35 tʂʅ55 tuo55 iɛn35
+uei51 ɻən35 tʂʅ55 tuo55 iɛn35
 tʂuŋ51 kʰɤ214 xuai35 iɛ214
-rən35 tʂʅ55 tuo55 iɛn35
+ɻən35 tʂʅ55 tuo55 iɛn35
 i51 kʰɤ214 uei51 iɛ214
 ʂu55 y35 tʰiɛn35
-ɕiɑŋ51 u35 tɕy55 rən35
-tɕʰi214 u35 tɕy55 rən35
-pu51 ru35 ʂu55 iɛ214
-ɕyn35 mei214 tɕʰiɛ214 rən35
+ɕiɑŋ51 u35 tɕy55 ɻən35
+tɕʰi214 u35 tɕy55 ɻən35
+pu51 ɻu35 ʂu55 iɛ214
+ɕyn35 mei214 tɕʰiɛ214 ɻən35
 ʂu55 y35 ʂou51
 ɕiɑŋ51 u35 in214 tɕiou214
 tɕʰi214 u35 in214 tɕiou214
-pu51 ru35 ʂu55 iɛ214
+pu51 ɻu35 ʂu55 iɛ214
 ɕyn35 mei214 tɕʰiɛ214 xɑu214
 ʂu55 ʂʅ51 iɛ214
 ɕiɑŋ51 u35 fu35 ma214
 tɕʰi214 u35 fu35 ma214
-pu51 ru35 ʂu55 iɛ214
+pu51 ɻu35 ʂu55 iɛ214
 ɕyn35 mei214 tɕʰiɛ214 u214
 ʂu55 y35 tʰiɛn35
 tʂʰəŋ35 tʂʰəŋ35 ma214
-tʂʅ35 pʰei51 ru35 tsu214
-liɑŋ214 tsʰan55 ru35 u214
+tʂʅ35 pʰei51 ɻu35 tsu214
+liɑŋ214 tsʰan55 ɻu35 u214
 ʂu55 tsai51 sou214
 xuo214 liɛ51 tɕy51 tɕy214
 tʰan214 tʰi51 tʰi51 xu214
@@ -1318,26 +1318,26 @@ i51 tsuŋ51 suŋ51 tɕi51
 ʂu55 y35 tʰiɛn35
 tʂʰəŋ35 tʂʰəŋ35 pɑu214
 liɑŋ214 fu35 tɕʰi35 ʂou214
-liɑŋ214 tsʰan55 ru35 ʂou214
+liɑŋ214 tsʰan55 ɻu35 ʂou214
 ʂu55 tsai51 sou214
 xuo214 liɛ51 tɕy51 fu51
 ʂu55 ma214 man51 tɕi51
 ʂu55 fa55 xan214 tɕi51
 i51 ʂʅ51 piŋ55 tɕi51
 i51 tʂʰɑŋ51 kuŋ55 tɕi51
-tɕʰiŋ55 rən35 tsai51 pʰəŋ35
+tɕʰiŋ55 ɻən35 tsai51 pʰəŋ35
 sɿ51 tɕiɛ51 pʰɑŋ35 pʰɑŋ35
-ər51 mɑu35 tʂʰuŋ35 iŋ55
+əɻ51 mɑu35 tʂʰuŋ35 iŋ55
 xɤ35 ʂɑŋ51 xu55 ɑu35 ɕiɑŋ35
-tɕʰiŋ55 rən35 tsai51 ɕiɑu55
+tɕʰiŋ55 ɻən35 tsai51 ɕiɑu55
 sɿ51 tɕiɛ51 piɑu55 piɑu55
-ər51 mɑu35 tʂʰuŋ35 tɕʰiɑu35
+əɻ51 mɑu35 tʂʰuŋ35 tɕʰiɑu35
 xɤ35 ʂɑŋ51 xu55 ɕiɑu55 iɑu35
-tɕʰiŋ55 rən35 tsai51 tʂou35
+tɕʰiŋ55 ɻən35 tsai51 tʂou35
 sɿ51 tɕiɛ51 tʰɑu35 tʰɑu35
 tsuo214 ɕyɛn35 iou51 tʂʰou55
 tʂuŋ55 tɕyn55 tsuo51 xɑu214
-kɑu55 tɕʰiou35 ru35 ru35
+kɑu55 tɕʰiou35 ɻu35 ɻu35
 ɕyn35 tʂʅ35 tɕʰiɛ214 xou35
 pi214 tɕʰi35 tʂʅ55 tsɿ214
 ʂɤ214 miŋ51 pu51 y35
@@ -1376,13 +1376,13 @@ tsa35 pʰei51 i214 un51 tʂʅ55
 tʂʅ55 tsɿ214 tʂʅ55 xɑu214 tʂʅ55
 tsa35 pʰei51 i214 pɑu51 tʂʅ55
 iou214 ny214 tʰuŋ35 tʂʰɤ55
-iɛn35 ru35 ʂun51 xua35
+iɛn35 ɻu35 ʂun51 xua35
 tɕiɑŋ55 ɑu35 tɕiɑŋ55 ɕiɑŋ35
 pʰei51 y51 tɕʰyŋ35 tɕy55
 pi214 mei214 məŋ51 tɕiɑŋ55
 ɕyn35 mei214 tɕʰiɛ214 tou55
 iou214 ny214 tʰuŋ35 ɕiŋ35
-iɛn35 ru35 ʂun51 iŋ55
+iɛn35 ɻu35 ʂun51 iŋ55
 tɕiɑŋ55 ɑu35 tɕiɑŋ55 ɕiɑŋ55
 pʰei51 y51 tɕiɑŋ55 tɕiɑŋ55
 pi214 mei214 məŋ51 tɕiɑŋ55
@@ -1414,7 +1414,7 @@ uei35 tsɿ214 tʂʅ55 ku51
 tsɿ214 xuei51 sɿ55 uo214
 tɕʰiɛn55 tʂʰɑŋ35 ʂɤ51 tʂən55
 tsɿ214 pu51 uo214 sɿ55
-tɕʰi214 u35 tʰa55 rən35
+tɕʰi214 u35 tʰa55 ɻən35
 kʰuɑŋ35 tʰuŋ35 tʂʅ55 kʰuɑŋ35 iɛ214 tɕʰiɛ214
 tsɿ214 xuei51 sɿ55 uo214
 tɕʰiɛn55 tʂʰɑŋ35 ʂɤ51 uei214
@@ -1436,12 +1436,12 @@ i55 tɕin214 tɕyŋ214 i55
 ʂu55 ɕi55 puo35 ɕi55
 tɕia51 y35 y35 kuei55
 tuŋ55 mən35 tʂʅ55 ʂan51
-ru35 ly214 tsai51 pa214
-tɕʰi35 ʂʅ51 tsɤ35 ər214
-tɕʰi35 rən35 ʂən51 yɛn214
+ɻu35 ly214 tsai51 pa214
+tɕʰi35 ʂʅ51 tsɤ35 əɻ214
+tɕʰi35 ɻən35 ʂən51 yɛn214
 tuŋ55 mən35 tʂʅ55 li51
 iou214 tɕiɛn51 tɕia55 ʂʅ51
-tɕʰi214 pu51 ər214 sɿ55
+tɕʰi214 pu51 əɻ214 sɿ55
 tsɿ214 pu51 uo214 tɕi35
 fəŋ55 y214 tɕʰi55 tɕʰi55
 tɕi55 miŋ35 tɕiɛ55 tɕiɛ55
@@ -1451,7 +1451,7 @@ fəŋ55 y214 ɕiɑu55 ɕiɑu55
 tɕi55 miŋ35 tɕiɑu55 tɕiɑu55
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 yn35 xu35 pu51 tʂʰou55
-fəŋ55 y214 ru35 xuei51
+fəŋ55 y214 ɻu35 xuei51
 tɕi55 miŋ35 pu51 i214
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 yn35 xu35 pu51 ɕi214
@@ -1465,42 +1465,42 @@ tsuŋ55 uo214 pu51 uɑŋ214
 tsɿ214 niŋ35 pu51 lai35
 tʰiɑu55 ɕi55 ta35 ɕi55
 tsai51 tʂʰəŋ35 tɕʰyɛ55 ɕi55
-i55 rʅ51 pu51 tɕiɛn51
-ru35 san55 yɛ51 ɕi55
+i55 ɻʅ51 pu51 tɕiɛn51
+ɻu35 san55 yɛ51 ɕi55
 iɑŋ35 tʂʅ55 ʂuei214
 pu51 liou35 ʂu51 tʂʰu214
 tʂuŋ55 ɕiɛn55 ɕyŋ55 ti51
 uei35 y35 y35 ny214
-u35 ɕin51 rən35 tʂʅ55 iɛn35
-rən35 ʂʅ35 uɑŋ51 ny214
+u35 ɕin51 ɻən35 tʂʅ55 iɛn35
+ɻən35 ʂʅ35 uɑŋ51 ny214
 iɑŋ35 tʂʅ55 ʂuei214
 pu51 liou35 ʂu51 ɕin55
 tʂuŋ55 ɕiɛn55 ɕyŋ55 ti51
-uei35 y35 ər51 rən35
-u35 ɕin51 rən35 tʂʅ55 iɛn35
-rən35 ʂʅ35 pu51 ɕin51
+uei35 y35 əɻ51 ɻən35
+u35 ɕin51 ɻən35 tʂʅ55 iɛn35
+ɻən35 ʂʅ35 pu51 ɕin51
 tʂʰu55 tɕʰi35 tuŋ55 mən35
-iou214 ny214 ru35 yn35
-suei55 tsɤ35 ru35 yn35
+iou214 ny214 ɻu35 yn35
+suei55 tsɤ35 ɻu35 yn35
 fei214 uo214 sɿ55 tsʰun35
 kɑu214 i55 tɕʰi35 tɕin55
 liɑu35 lɤ51 uo214 yɛn35
 tʂʰu55 tɕʰi35 in55 ʂɤ35
-iou214 ny214 ru35 tʰu35
-suei55 tsɤ35 ru35 tʰu35
+iou214 ny214 ɻu35 tʰu35
+suei55 tsɤ35 ɻu35 tʰu35
 fei214 uo214 sɿ55 tɕʰiɛ214
-kɑu214 i55 ru35 ly35
+kɑu214 i55 ɻu35 ly35
 liɑu35 kʰɤ214 y35 y35
 iɛ214 iou214 man51 tsʰɑu214
 liŋ35 lou51 tʰuan35 ɕi55
-iou214 mei214 i55 rən35
+iou214 mei214 i55 ɻən35
 tɕʰiŋ55 iɑŋ35 uan214 ɕi55
 ɕiɛ51 xou51 ɕiɑŋ55 y51
 ʂʅ51 uo214 yɛn51 ɕi55
 iɛ214 iou214 man51 tsʰɑu214
-liŋ35 lou51 rɑŋ35 rɑŋ35
-iou214 mei214 i55 rən35
-uan214 ru35 tɕʰiŋ55 iɑŋ35
+liŋ35 lou51 ɻɑŋ35 ɻɑŋ35
+iou214 mei214 i55 ɻən35
+uan214 ɻu35 tɕʰiŋ55 iɑŋ35
 ɕiɛ51 xou51 ɕiɑŋ55 y51
 y35 tsɿ214 tɕiɛ55 tsɑŋ55
 tʂən55 y35 uei214
@@ -1551,16 +1551,16 @@ tsɿ214 tʂʅ55 tʂʰɑŋ55 ɕi55
 tsɑu55 uo214 xu55 nɑu35 tʂʅ55 iɑŋ35 ɕi55
 piŋ51 tɕʰy55 tsʰuŋ55 liɑŋ214 lɑŋ35 ɕi55
 i55 uo214 uei51 uo214 tsɑŋ55 ɕi55
-sɿ51 uo214 y35 tʂu51 xu55 ər35
-tʂʰuŋ55 ər35 i214 su51 xu55 ər35
-ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 xua35 xu55 ər35
-sɿ51 uo214 y35 tʰiŋ35 xu55 ər35
-tʂʰuŋ55 ər35 i214 tɕʰiŋ55 xu55 ər35
-ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 xua35 xu55 ər35
-sɿ51 uo214 y35 tʰɑŋ35 xu55 ər35
-tʂʰuŋ55 ər35 i214 xuɑŋ35 xu55 ər35
-ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 iŋ55 xu55 ər35
-tuŋ55 fɑŋ55 tʂʅ55 rʅ51 ɕi55
+sɿ51 uo214 y35 tʂu51 xu55 əɻ35
+tʂʰuŋ55 əɻ35 i214 su51 xu55 əɻ35
+ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 xua35 xu55 əɻ35
+sɿ51 uo214 y35 tʰiŋ35 xu55 əɻ35
+tʂʰuŋ55 əɻ35 i214 tɕʰiŋ55 xu55 əɻ35
+ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 xua35 xu55 əɻ35
+sɿ51 uo214 y35 tʰɑŋ35 xu55 əɻ35
+tʂʰuŋ55 əɻ35 i214 xuɑŋ35 xu55 əɻ35
+ʂɑŋ51 tʂʅ55 i214 tɕʰyŋ35 iŋ55 xu55 əɻ35
+tuŋ55 fɑŋ55 tʂʅ55 ɻʅ51 ɕi55
 pi214 ʂu55 tʂɤ214 tsɿ214
 tsai51 uo214 ʂʅ51 ɕi55
 tsai51 uo214 ʂʅ51 ɕi55
@@ -1589,53 +1589,53 @@ tɕʰi35 tsɿ214 iou35 kuei55
 tɕi51 yɛ55 kuei55 tʂʅ214
 tɕʰi35 iou51 xuai35 tʂʅ214
 kɤ35 tɕy51 u214 liɑŋ214
-kuan55 ruei35 ʂuɑŋ55 tʂʅ214
+kuan55 ɻuei35 ʂuɑŋ55 tʂʅ214
 lu214 tɑu51 iou214 tɑŋ51
 tɕʰi35 tsɿ214 yŋ55 tʂʅ214
 tɕi51 yɛ55 yŋ55 tʂʅ214
 tɕʰi35 iou51 tsʰuŋ35 tʂʅ214
-i51 ma35 ru35 tʂʅ55 xɤ35
+i51 ma35 ɻu35 tʂʅ55 xɤ35
 xəŋ35 tsʰuŋ35 tɕʰi35 mu214
-tɕʰy214 tɕʰi55 ru35 tʂʅ55 xɤ35
+tɕʰy214 tɕʰi55 ɻu35 tʂʅ55 xɤ35
 pi51 kɑu51 fu51 mu214
 tɕi51 yɛ55 kɑu51 tʂʅ214
 tɕʰi35 iou51 tɕy55 tʂʅ214
-ɕi55 ɕin55 ru35 tʂʅ55 xɤ35
+ɕi55 ɕin55 ɻu35 tʂʅ55 xɤ35
 fei214 fu214 pu35 kʰɤ51
-tɕʰy214 tɕʰi55 ru35 tʂʅ55 xɤ35
+tɕʰy214 tɕʰi55 ɻu35 tʂʅ55 xɤ35
 fei214 mei35 pu51 tɤ35
 tɕi51 yɛ55 tɤ35 tʂʅ214
 tɕʰi35 iou51 tɕi35 tʂʅ214
 u35 tʰiɛn35 fu214 tʰiɛn35
 uei35 iou214 tɕiɑu55 tɕiɑu55
-u35 sɿ55 yɛn214 rən35
+u35 sɿ55 yɛn214 ɻən35
 lɑu35 ɕin55 ta55 ta55
 u35 tʰiɛn35 fu214 tʰiɛn35
 uei35 iou214 tɕiɛ35 tɕiɛ35
-u35 sɿ55 yɛn214 rən35
+u35 sɿ55 yɛn214 ɻən35
 lɑu35 ɕin55 ta35 ta35
 uan214 ɕi55 luan35 ɕi55
 tsuŋ214 tɕiɑu214 kuan51 ɕi55
 uei51 tɕi214 tɕiɛn51 ɕi55
-tʰu55 ər35 piɛn51 ɕi55
+tʰu55 əɻ35 piɛn51 ɕi55
 lu35 liŋ51 liŋ51
-tɕʰi35 rən35 mei214 tɕʰiɛ214 rən35
+tɕʰi35 ɻən35 mei214 tɕʰiɛ214 ɻən35
 lu35 tʂʰuŋ35 xuan35
-tɕʰi35 rən35 mei214 tɕʰiɛ214 tɕʰyɛn35
+tɕʰi35 ɻən35 mei214 tɕʰiɛ214 tɕʰyɛn35
 lu35 tʂʰuŋ35 mei35
-tɕʰi35 rən35 mei214 tɕʰiɛ214 tsʰai55
+tɕʰi35 ɻən35 mei214 tɕʰiɛ214 tsʰai55
 pi51 kou214 tsai51 liɑŋ35
 tɕʰi35 y35 fɑŋ35 kuan55
 tɕʰi35 tsɿ214 kuei55 tʂʅ214
-tɕʰi35 tsʰuŋ55 ru35 yn35
+tɕʰi35 tsʰuŋ55 ɻu35 yn35
 pi51 kou214 tsai51 liɑŋ35
 tɕʰi35 y35 fɑŋ35 ɕy51
 tɕʰi35 tsɿ214 kuei55 tʂʅ214
-tɕʰi35 tsʰuŋ55 ru35 y214
+tɕʰi35 tsʰuŋ55 ɻu35 y214
 pi51 kou214 tsai51 liɑŋ35
 tɕʰi35 y35 uei35 uei35
 tɕʰi35 tsɿ214 kuei55 tʂʅ214
-tɕʰi35 tsʰuŋ55 ru35 ʂuei214
+tɕʰi35 tsʰuŋ55 ɻu35 ʂuei214
 tsai214 tɕʰy55 puo35 puo35
 tiɛn51 fu35 tʂu55 kʰuo35
 lu214 tɑu51 iou214 tɑŋ51
@@ -1645,23 +1645,23 @@ tʂʰuei35 pʰei51 mi214 mi214
 lu214 tɑu51 iou214 tɑŋ51
 tɕʰi35 tsɿ214 tɕʰi214 ti51
 un51 ʂuei214 tʰɑŋ55 tʰɑŋ55
-ɕiŋ35 rən35 pʰəŋ35 pʰəŋ35
+ɕiŋ35 ɻən35 pʰəŋ35 pʰəŋ35
 lu214 tɑu51 iou214 tɑŋ51
 tɕʰi35 tsɿ214 ɑu35 ɕiɑŋ35
 un51 ʂuei214 tʰɑu55 tʰɑu55
-ɕiŋ35 rən35 piɑu55 piɑu55
+ɕiŋ35 ɻən35 piɑu55 piɑu55
 lu214 tɑu51 iou214 tɑŋ51
 tɕʰi35 tsɿ214 iou35 ɑu35
 i55 tɕiɛ55 tʂʰɑŋ55 ɕi55
-tɕʰi35 ər35 tʂʰɑŋ35 ɕi55
-i51 ruo51 iɑŋ35 ɕi55
+tɕʰi35 əɻ35 tʂʰɑŋ35 ɕi55
+i51 ɻuo51 iɑŋ35 ɕi55
 mei214 mu51 iɑŋ35 ɕi55
 tɕʰiɑu214 tɕʰy55 tɕʰiɑŋ55 ɕi55
 ʂɤ51 tsɤ35 tsɑŋ55 ɕi55
 i55 tɕiɛ55 miŋ35 ɕi55
 mei214 mu51 tɕʰiŋ55 ɕi55
 i35 tɕi51 tʂʰəŋ35 ɕi55
-tʂuŋ55 rʅ51 ʂɤ51 xou35
+tʂuŋ55 ɻʅ51 ʂɤ51 xou35
 pu51 tʂʰu55 tʂəŋ55 ɕi55
 tʂan214 uo214 ʂəŋ214 ɕi55
 i55 tɕiɛ55 luan35 ɕi55
@@ -1675,13 +1675,13 @@ kʰɤ214 i214 ly214 ʂuɑŋ55
 ɕiɛn55 ɕiɛn55 ny214 ʂou214
 kʰɤ214 i214 fəŋ35 tʂʰɑŋ35
 iɑu35 tʂʅ55 tɕi35 tʂʅ55
-xɑu214 rən35 fu35 tʂʅ55
-xɑu214 rən35 tʰi35 tʰi35
-uan214 ran35 tsuo214 pi51
+xɑu214 ɻən35 fu35 tʂʅ55
+xɑu214 ɻən35 tʰi35 tʰi35
+uan214 ɻan35 tsuo214 pi51
 pʰei51 tɕʰi35 ɕiɑŋ51 tʰi51
 uei35 ʂʅ51 piɛn214 ɕin55
 ʂʅ51 i214 uei35 tsʰɿ51
-pi214 fən35 tɕy51 ru51
+pi214 fən35 tɕy51 ɻu51
 iɛn35 tsʰai214 tɕʰi35 mu51
 pi214 tɕʰi35 tʂʅ55 tsɿ214
 mei214 u35 tu51
@@ -1690,14 +1690,14 @@ mei214 u35 tu51
 pi214 fən35 i55 fɑŋ55
 iɛn35 tsʰai214 tɕʰi35 sɑŋ55
 pi214 tɕʰi35 tʂʅ55 tsɿ214
-mei214 ru35 iŋ55
-mei214 ru35 iŋ55
+mei214 ɻu35 iŋ55
+mei214 ɻu35 iŋ55
 ʂu55 i51 xu55 kuŋ55 ɕiŋ35
 pi214 fən35 i55 tɕʰy55
 iɛn35 tsʰai214 tɕʰi35 ɕy51
 pi214 tɕʰi35 tʂʅ55 tsɿ214
-mei214 ru35 y51
-mei214 ru35 y51
+mei214 ɻu35 y51
+mei214 ɻu35 y51
 ʂu55 i51 xu55 kuŋ55 tsu35
 yɛn35 iou214 tʰɑu35
 tɕʰi35 ʂʅ35 tʂʅ55 ɕiɑu35
@@ -1705,7 +1705,7 @@ tɕʰi35 ʂʅ35 tʂʅ55 ɕiɑu35
 uo214 kɤ55 tɕʰiɛ214 iɑu35
 pu51 uo214 tʂʅ55 tʂɤ214
 uei51 uo214 ʂʅ51 iɛ214 tɕiɑu55
-pi214 rən35 ʂʅ51 tsai55
+pi214 ɻən35 ʂʅ51 tsai55
 tsɿ214 yɛ55 xɤ35 tɕʰi35
 ɕin55 tʂʅ55 iou55 i214
 tɕʰi35 ʂuei35 tʂʅ55 tʂʅ55
@@ -1717,7 +1717,7 @@ tɕʰi35 ʂʅ35 tʂʅ55 ʂʅ35
 liɑu35 i214 ɕiŋ35 kuo35
 pu51 uo214 tʂʅ55 tʂɤ214
 uei51 uo214 ʂʅ51 iɛ214 uɑŋ214 tɕi35
-pi214 rən35 ʂʅ51 tsai55
+pi214 ɻən35 ʂʅ51 tsai55
 tsɿ214 yɛ55 xɤ35 tɕʰi35
 ɕin55 tʂʅ55 iou55 i214
 tɕʰi35 ʂuei35 tʂʅ55 tʂʅ55
@@ -1756,7 +1756,7 @@ xɤ35 ʂuei214 tɕʰiŋ55 tɕʰiɛ214 liɛn35 i55
 pu51 tɕia51 pu51 sɤ51
 xu35 tɕʰy214 xɤ35 san55 pai35 tʂʰan35 ɕi55
 pu51 ʂou51 pu51 liɛ51
-xu35 tʂan55 ər214 tʰiŋ35 iou214 ɕiɛn51 xuan55 ɕi55
+xu35 tʂan55 əɻ214 tʰiŋ35 iou214 ɕiɛn51 xuan55 ɕi55
 pi214 tɕyn55 tsɿ214 ɕi55
 pu51 su35 tsʰan55 ɕi55
 kʰan214 kʰan214 fa35 fu35 ɕi55
@@ -1765,7 +1765,7 @@ xɤ35 ʂuei214 tɕʰiŋ55 tɕʰiɛ214 tʂʅ35 i55
 pu51 tɕia51 pu51 sɤ51
 xu35 tɕʰy214 xɤ35 san55 pai214 i51 ɕi55
 pu51 ʂou51 pu51 liɛ51
-xu35 tʂan55 ər214 tʰiŋ35 iou214 ɕiɛn51 tʰɤ51 ɕi55
+xu35 tʂan55 əɻ214 tʰiŋ35 iou214 ɕiɛn51 tʰɤ51 ɕi55
 pi214 tɕyn55 tsɿ214 ɕi55
 pu51 su51 ʂʅ35 ɕi55
 kʰan214 kʰan214 fa35 tʰan35 ɕi55
@@ -1774,7 +1774,7 @@ xɤ35 ʂuei214 tɕʰiŋ55 tɕʰiɛ214 lun35 i55
 pu51 tɕia51 pu51 sɤ51
 xu35 tɕʰy214 xɤ35 san55 pai35 tɕʰyn55 ɕi55
 pu51 ʂou51 pu51 liɛ51
-xu35 tʂan55 ər214 tʰiŋ35 iou214 ɕiɛn51 tʂʰun35 ɕi55
+xu35 tʂan55 əɻ214 tʰiŋ35 iou214 ɕiɛn51 tʂʰun35 ɕi55
 pi214 tɕyn55 tsɿ214 ɕi55
 pu51 su51 sun55 ɕi55
 ʂuo51 ʂu214 ʂuo51 ʂu214
@@ -1804,7 +1804,7 @@ lɤ51 kuo35 lɤ51 kuo35
 ɕi55 ʂuai51 tsai51 tʰɑŋ35
 suei51 y51 tɕʰi35 muo51
 tɕin55 uo214 pu51 lɤ51
-rʅ51 yɛ51 tɕʰi35 tʂʰu35
+ɻʅ51 yɛ51 tɕʰi35 tʂʰu35
 u35 i214 ta51 kʰɑŋ55
 tʂʅ35 sɿ55 tɕʰi35 tɕy55
 xɑu214 lɤ51 u35 xuɑŋ55
@@ -1812,7 +1812,7 @@ liɑŋ35 ʂʅ51 tɕy51 tɕy51
 ɕi55 ʂuai51 tsai51 tʰɑŋ35
 suei51 y51 tɕʰi35 ʂʅ51
 tɕin55 uo214 pu51 lɤ51
-rʅ51 yɛ51 tɕʰi35 mai51
+ɻʅ51 yɛ51 tɕʰi35 mai51
 u35 i214 ta51 kʰɑŋ55
 tʂʅ35 sɿ55 tɕʰi35 uai51
 xɑu214 lɤ51 u35 xuɑŋ55
@@ -1820,7 +1820,7 @@ liɑŋ35 ʂʅ51 kuei51 kuei51
 ɕi55 ʂuai51 tsai51 tʰɑŋ35
 i51 tʂʰɤ55 tɕʰi35 ɕiou55
 tɕin55 uo214 pu51 lɤ51
-rʅ51 yɛ51 tɕʰi35 tʰɑu55
+ɻʅ51 yɛ51 tɕʰi35 tʰɑu55
 u35 i214 ta51 kʰɑŋ55
 tʂʅ35 sɿ55 tɕʰi35 iou55
 xɑu214 lɤ51 u35 xuɑŋ55
@@ -1832,7 +1832,7 @@ fu35 iɛ51 fu35 y35
 tsɿ214 iou214 tʂʰɤ55 ma214
 fu35 tʂʰʅ35 fu35 tɕʰy55
 uan214 tɕʰi35 sɿ214 i214
-tʰa55 rən35 ʂʅ51 y35
+tʰa55 ɻən35 ʂʅ51 y35
 ʂan55 iou214 kʰɑu214
 ɕi35 iou214 niou35
 tsɿ214 iou214 tʰiŋ35 nei51
@@ -1840,15 +1840,15 @@ fu35 sa214 fu35 sɑu51
 tsɿ214 iou214 tʂuŋ55 ku214
 fu35 ku214 fu35 kʰɑu214
 uan214 tɕʰi35 sɿ214 i214
-tʰa55 rən35 ʂʅ51 pɑu214
+tʰa55 ɻən35 ʂʅ51 pɑu214
 ʂan55 iou214 tɕʰi55
 ɕi35 iou214 li51
 tsɿ214 iou214 tɕiou214 ʂʅ35
-xɤ35 pu51 rʅ51 ku214 sɤ51
+xɤ35 pu51 ɻʅ51 ku214 sɤ51
 tɕʰiɛ214 i214 ɕi214 lɤ51
-tɕʰiɛ214 i214 yŋ214 rʅ51
+tɕʰiɛ214 i214 yŋ214 ɻʅ51
 uan214 tɕʰi35 sɿ214 i214
-tʰa55 rən35 ru51 ʂʅ51
+tʰa55 ɻən35 ɻu51 ʂʅ51
 iɑŋ35 tʂʅ55 ʂuei214
 pai35 ʂʅ35 tsɑu35 tsɑu35
 su51 i55 tʂu55 puo35
@@ -1864,7 +1864,7 @@ yn35 xɤ35 tɕʰi35 iou55
 iɑŋ35 tʂʅ55 ʂuei214
 pai35 ʂʅ35 lin35 lin35
 uo214 un35 iou214 miŋ51
-pu51 kan214 i214 kɑu51 rən35
+pu51 kan214 i214 kɑu51 ɻən35
 tɕiɑu55 liɑu35 tʂʅ55 ʂʅ35
 fan35 iɛn214 iŋ35 ʂəŋ55
 pi214 tɕʰi35 tʂʅ55 tsɿ214
@@ -1880,46 +1880,46 @@ yɛn214 tʰiɑu35 tɕʰiɛ214
 tʂʰou35 mou35 ʂu51 ɕin55
 san55 ɕiŋ55 tsai51 tʰiɛn55
 tɕin55 ɕi55 xɤ35 ɕi55
-tɕiɛn51 tsʰɿ214 liɑŋ35 rən35
+tɕiɛn51 tsʰɿ214 liɑŋ35 ɻən35
 tsɿ214 ɕi55 tsɿ214 ɕi55
-ru35 tsʰɿ214 liɑŋ35 rən35 xɤ35
+ɻu35 tsʰɿ214 liɑŋ35 ɻən35 xɤ35
 tʂʰou35 mou35 ʂu51 tʂʰu35
 san55 ɕiŋ55 tsai51 y35
 tɕin55 ɕi55 xɤ35 ɕi55
 tɕiɛn51 tsʰɿ214 ɕiɛ51 xou51
 tsɿ214 ɕi55 tsɿ214 ɕi55
-ru35 tsʰɿ214 ɕiɛ51 xou51 xɤ35
+ɻu35 tsʰɿ214 ɕiɛ51 xou51 xɤ35
 tʂʰou35 mou35 ʂu51 tʂʰu214
 san55 ɕiŋ55 tsai51 xu51
 tɕin55 ɕi55 xɤ35 ɕi55
 tɕiɛn51 tsʰɿ214 tsʰan51 tʂɤ214
 tsɿ214 ɕi55 tsɿ214 ɕi55
-ru35 tsʰɿ214 tsʰan51 tʂɤ214 xɤ35
+ɻu35 tsʰɿ214 tsʰan51 tʂɤ214 xɤ35
 iou214 ti51 tʂʅ55 tu51
 tɕʰi35 iɛ51 ɕy214 ɕy214
 tu35 ɕiŋ35 tɕy214 tɕy214
-tɕʰi214 u35 tʰa55 rən35
-pu51 ru35 uo214 tʰuŋ35 fu51
-tɕiɛ55 ɕiŋ35 tʂʅ55 rən35
+tɕʰi214 u35 tʰa55 ɻən35
+pu51 ɻu35 uo214 tʰuŋ35 fu51
+tɕiɛ55 ɕiŋ35 tʂʅ55 ɻən35
 xu35 pu51 pi214 iɛn55
-rən35 u35 ɕyŋ55 ti35
+ɻən35 u35 ɕyŋ55 ti35
 xu35 pu51 tsʰɿ51 iɛn55
 iou214 ti51 tʂʅ55 tu51
 tɕʰi35 iɛ51 tɕiŋ55 tɕiŋ55
 tu35 ɕiŋ35 tɕʰyŋ35 tɕʰyŋ35
-tɕʰi214 u35 tʰa55 rən35
-pu51 ru35 uo214 tʰuŋ35 ɕiŋ51
-tɕiɛ55 ɕiŋ35 tʂʅ55 rən35
+tɕʰi214 u35 tʰa55 ɻən35
+pu51 ɻu35 uo214 tʰuŋ35 ɕiŋ51
+tɕiɛ55 ɕiŋ35 tʂʅ55 ɻən35
 xu35 pu51 pi214 iɛn55
-rən35 u35 ɕyŋ55 ti51
+ɻən35 u35 ɕyŋ55 ti51
 xu35 pu51 tsʰɿ51 iɛn55
 kɑu55 tɕʰiou35 pɑu51 tɕʰy55
-tsɿ51 uo214 rən35 tɕy55 tɕy55
-tɕʰi214 u35 tʰa55 rən35
+tsɿ51 uo214 ɻən35 tɕy55 tɕy55
+tɕʰi214 u35 tʰa55 ɻən35
 uei35 tsɿ214 tʂʅ55 ku51
 kɑu55 tɕʰiou35 pɑu51 ɕiou51
-tsɿ51 uo214 rən35 tɕiou55 tɕiou55
-tɕʰi214 u35 tʰa55 rən35
+tsɿ51 uo214 ɻən35 tɕiou55 tɕiou55
+tɕʰi214 u35 tʰa55 ɻən35
 uei35 tsɿ214 tʂʅ55 xɑu214
 su51 su51 pɑu214 y214
 tɕi35 y35 pɑu55 ɕy214
@@ -1943,10 +1943,10 @@ fu51 mu214 xɤ35 tʂʰɑŋ35
 iou55 iou55 tsʰɑŋ55 tʰiɛn55
 xɤ35 tɕʰi35 iou214 tʂʰɑŋ35
 tɕʰi214 yɛ55 u35 i55 tɕʰi55 ɕi55
-pu51 ru35 tsɿ214 tʂʅ55 i55
+pu51 ɻu35 tsɿ214 tʂʅ55 i55
 an55 tɕʰiɛ214 tɕi35 ɕi55
 tɕʰi214 yɛ55 u35 i55 liou51 ɕi55
-pu51 ru35 tsɿ214 tʂʅ55 i55
+pu51 ɻu35 tsɿ214 tʂʅ55 i55
 an55 tɕʰiɛ214 y51 ɕi55
 iou214 ti51 tʂʅ55 tu51
 ʂəŋ55 y35 tɑu51 tsuo214
@@ -1972,42 +1972,42 @@ tɕiɑu214 tʂən214 tsʰan51 ɕi55
 tɕin214 tɕʰin55 lan51 ɕi55
 y35 mei214 uɑŋ35 tsʰɿ214
 ʂei35 y35 tu35 tan51
-ɕia51 tʂʅ55 rʅ51
+ɕia51 tʂʅ55 ɻʅ51
 tuŋ55 tʂʅ55 iɛ51
 pai214 suei51 tʂʅ55 xou51
 kuei55 y35 tɕʰi35 tɕy55
 tuŋ55 tʂʅ55 iɛ51
-ɕia51 tʂʅ55 rʅ51
+ɕia51 tʂʅ55 ɻʅ51
 pai214 suei51 tʂʅ55 xou51
 kuei55 y35 tɕʰi35 ʂʅ51
 tsʰai214 liŋ35 tsʰai214 liŋ35
 ʂou214 iɑŋ35 tʂʅ55 tiɛn55
-rən35 tʂʅ55 uei35 iɛn35
+ɻən35 tʂʅ55 uei35 iɛn35
 kou214 i51 u35 ɕin51
 ʂɤ51 tʂan55 ʂɤ51 tʂan55
-kou214 i51 u35 ran35
-rən35 tʂʅ55 uei35 iɛn35
+kou214 i51 u35 ɻan35
+ɻən35 tʂʅ55 uei35 iɛn35
 xu35 tɤ35 iɛn55
 tsʰai214 kʰu214 tsʰai214 kʰu214
 ʂou214 iɑŋ35 tʂʅ55 ɕia51
-rən35 tʂʅ55 uei35 iɛn35
+ɻən35 tʂʅ55 uei35 iɛn35
 kou214 i51 u35 y35
 ʂɤ51 tʂan55 ʂɤ51 tʂan55
-kou214 i51 u35 ran35
-rən35 tʂʅ55 uei35 iɛn35
+kou214 i51 u35 ɻan35
+ɻən35 tʂʅ55 uei35 iɛn35
 xu35 tɤ35 iɛn55
 tsʰai214 fəŋ55 tsʰai214 fəŋ55
 ʂou214 iɑŋ35 tʂʅ55 tuŋ55
-rən35 tʂʅ55 uei35 iɛn35
+ɻən35 tʂʅ55 uei35 iɛn35
 kou214 i51 u35 tsʰuŋ35
 ʂɤ51 tʂan55 ʂɤ51 tʂan55
-kou214 i51 u35 ran35
-rən35 tʂʅ55 uei35 iɛn35
+kou214 i51 u35 ɻan35
+ɻən35 tʂʅ55 uei35 iɛn35
 xu35 tɤ35 iɛn55
 iou214 tʂʰɤ55 lin35 lin35
 iou214 ma214 pai35 tiɛn55
 uei51 tɕiɛn51 tɕyn55 tsɿ214
-sɿ51 rən35 tʂʅ55 liŋ51
+sɿ51 ɻən35 tʂʅ55 liŋ51
 pan214 iou214 tɕʰi55
 ɕi35 iou214 li51
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
@@ -2032,14 +2032,14 @@ iou35 y35 pei214 yɛn35
 sɿ51 ma214 tɕi51 ɕiɛn35
 iou35 tʂʰɤ55 luan35 piɑu55
 tsai214 ɕiɛn214 ɕiɛ55 tɕiɑu55
-ɕiɑu214 ruŋ35 tɕiɛn35 ʂou55
+ɕiɑu214 ɻuŋ35 tɕiɛn35 ʂou55
 u214 mu51 liɑŋ35 tʂou55
 iou35 xuan35 ɕiɛ35 tɕʰy55
 in55 in214 u51 ɕy51
 un35 in55 tʂʰɑŋ51 ku55
 tɕia51 uo214 tɕʰi35 tʂu51
 iɛn35 niɛn51 tɕyn55 tsɿ214
-un55 tɕʰi35 ru35 y51
+un55 tɕʰi35 ɻu35 y51
 tsai51 tɕʰi35 pan214 u55
 luan51 uo214 ɕin55 tɕʰy55
 sɿ51 mu214 kʰuŋ214 fu51
@@ -2051,20 +2051,20 @@ u51 i214 tɕyɛ35 na51
 iɛn35 niɛn51 tɕyn55 tsɿ214
 un55 tɕʰi35 tsai51 i51
 fɑŋ55 xɤ35 uei35 tɕʰi55
-xu35 ran35 uo214 niɛn51 tʂʅ55
+xu35 ɻan35 uo214 niɛn51 tʂʅ55
 tɕiɛn51 sɿ51 kʰuŋ214 tɕʰyn35
 tɕʰiou35 mɑu35 u51 tuei51
 pʰɑŋ35 fa35 iou214 yn55
 xu214 tʂʰɑŋ51 lou51 iŋ55
-tɕiɑu55 tʂʰɑŋ51 ər51 kuŋ55
+tɕiɑu55 tʂʰɑŋ51 əɻ51 kuŋ55
 tʂu35 pi51 kun214 tʰəŋ35
 iɛn35 niɛn51 tɕyn55 tsɿ214
 tsai214 tɕʰin214 tsai214 ɕiŋ55
-iɛn51 iɛn51 liɑŋ35 rən35
+iɛn51 iɛn51 liɑŋ35 ɻən35
 tʂʅ51 tʂʅ51 tɤ35 in55
 tɕiɛn55 tɕia55 tsʰɑŋ55 tsʰɑŋ55
 pai35 lu51 uei35 ʂuɑŋ55
-suo214 uei51 i55 rən35
+suo214 uei51 i55 ɻən35
 tsai51 ʂuei214 i55 fɑŋ55
 su51 xuei35 tsʰuŋ55 tʂʅ55
 tɑu51 tsu214 tɕʰiɛ214 tʂʰɑŋ35
@@ -2072,7 +2072,7 @@ su51 iou35 tsʰuŋ55 tʂʅ55
 uan214 tsai51 ʂuei214 tʂuŋ55 iɑŋ55
 tɕiɛn55 tɕia55 tɕʰi55 tɕʰi55
 pai35 lu51 uei51 ɕi55
-suo214 uei51 i55 rən35
+suo214 uei51 i55 ɻən35
 tsai51 ʂuei214 tʂʅ55 mei35
 su51 xuei35 tsʰuŋ55 tʂʅ55
 tɑu51 tsu214 tɕʰiɛ214 tɕi55
@@ -2080,7 +2080,7 @@ su51 iou35 tsʰuŋ55 tʂʅ55
 uan214 tsai51 ʂuei214 tʂuŋ55 tʂʰʅ35
 tɕiɛn55 tɕia55 tsʰai214 tsʰai214
 pai35 lu51 uei51 i214
-suo214 uei51 i55 rən35
+suo214 uei51 i55 ɻən35
 tsai51 ʂuei214 tʂʅ55 sɿ51
 su51 xuei35 tsʰuŋ55 tʂʅ55
 tɑu51 tsu214 tɕʰiɛ214 iou51
@@ -2090,7 +2090,7 @@ tʂuŋ55 nan35 xɤ35 iou214
 iou214 tʰiɑu35 iou214 mei35
 tɕyn55 tsɿ214 tʂʅ51 tʂʅ214
 tɕin55 i55 xu35 tɕʰiou35
-iɛn35 ru35 uo51 tan55
+iɛn35 ɻu35 uo51 tan55
 tɕʰi35 tɕyn55 iɛ214 tsai55
 tʂuŋ55 nan35 xɤ35 iou214
 iou214 tɕi51 iou214 tʰɑŋ35
@@ -2107,9 +2107,9 @@ pai214 fu55 tʂʅ55 tʰɤ51
 lin35 tɕʰi35 ɕyɛ35
 tʂuei51 tʂuei51 tɕʰi35 ʂən55
 pi214 tsʰɑŋ55 tʂɤ214 tʰiɛn55
-tɕiɛn55 uo214 liɑŋ35 rən35
-ru35 kʰɤ214 ʂu35 ɕi55
-rən35 pai35 tɕʰi35 ʂən55
+tɕiɛn55 uo214 liɑŋ35 ɻən35
+ɻu35 kʰɤ214 ʂu35 ɕi55
+ɻən35 pai35 tɕʰi35 ʂən55
 tɕiɑu55 tɕiɑu55 xuɑŋ35 niɑu35
 tʂʅ214 y35 sɑŋ55
 ʂei35 tsʰuŋ35 mu51 kuŋ55
@@ -2119,9 +2119,9 @@ pai214 fu51 tʂʅ55 fɑŋ35
 lin35 tɕʰi35 ɕyɛ35
 tʂuei51 tʂuei51 tɕʰi35 li51
 pi214 tsʰɑŋ55 tʂɤ214 tʰiɛn55
-tɕiɛn55 uo214 liɑŋ35 rən35
-ru35 kʰɤ214 ʂu35 ɕi55
-rən35 pai35 tɕʰi35 ʂən55
+tɕiɛn55 uo214 liɑŋ35 ɻən35
+ɻu35 kʰɤ214 ʂu35 ɕi55
+ɻən35 pai35 tɕʰi35 ʂən55
 tɕiɑu55 tɕiɑu55 xuɑŋ35 niɑu35
 tʂʅ214 y35 tʂʰu214
 ʂei35 tsʰuŋ35 mu51 kuŋ55
@@ -2131,26 +2131,26 @@ pai35 fu51 tʂʅ55 y51
 lin35 tɕʰi35 ɕyɛ35
 tʂuei51 tʂuei51 tɕʰi35 li51
 pi214 tsʰɑŋ55 tʂɤ214 tʰiɛn55
-tɕiɛn55 uo214 liɑŋ35 rən35
-ru35 kʰɤ214 ʂu35 ɕi55
-rən35 pai35 tɕʰi35 ʂən55
+tɕiɛn55 uo214 liɑŋ35 ɻən35
+ɻu35 kʰɤ214 ʂu35 ɕi55
+ɻən35 pai35 tɕʰi35 ʂən55
 y51 pi214 tʂʰən35 fəŋ55
 y51 pi214 pei214 lin35
 uei51 tɕiɛn51 tɕyn55 tsɿ214
 iou55 ɕin55 liou51 liou51
-ru35 xɤ35 ru35 xɤ35
+ɻu35 xɤ35 ɻu35 xɤ35
 uɑŋ51 uo214 ʂʅ35 tuo55
 ʂan55 iou214 pɑu55 li51
 ɕi35 iou214 liou51 puo35
 uei51 tɕiɛn51 tɕyn55 tsɿ214
 iou55 ɕin55 mi35 lɤ51
-ru35 xɤ35 ru35 xɤ35
+ɻu35 xɤ35 ɻu35 xɤ35
 uɑŋ51 uo214 ʂʅ35 tuo55
 ʂan55 iou214 pɑu55 ti51
 ɕi35 iou214 ʂu51 suei51
 uei51 tɕiɛn51 tɕyn55 tsɿ214
-iou55 ɕin55 ru35 tsuei51
-ru35 xɤ35 ru35 xɤ35
+iou55 ɕin55 ɻu35 tsuei51
+ɻu35 xɤ35 ɻu35 xɤ35
 uɑŋ51 uo214 ʂʅ35 tuo55
 tɕʰi214 yɛ55 u35 i55
 y35 tsɿ214 tʰuŋ35 pʰɑu35
@@ -2188,7 +2188,7 @@ pu51 tʂʰəŋ35 tɕʰyɛn35 y35
 tsɿ214 tʂʅ55 tɑŋ51 ɕi55
 uan214 tɕʰiou55 tʂʅ55 ʂɑŋ51 ɕi55
 ɕyn35 iou214 tɕʰiŋ35 ɕi55
-ər35 u35 uɑŋ51 ɕi55
+əɻ35 u35 uɑŋ51 ɕi55
 kʰan214 tɕʰi35 tɕi55 ku214
 uan214 tɕʰiou55 tʂʅ55 ɕia51
 u35 tuŋ55 u35 ɕia51
@@ -2207,7 +2207,7 @@ pu51 tɕi51 tɕʰi35 ma35
 ʂʅ51 iɛ214 pʰuo35 suo55
 ku214 tan51 y35 ʂʅ51
 yɛ51 i214 tsuŋ55 mai51
-ʂʅ51 ər214 ru35 tɕʰiɑu35
+ʂʅ51 əɻ214 ɻu35 tɕʰiɑu35
 i35 uo214 uo51 tɕiɑu55
 xəŋ35 mən35 tʂʅ55 ɕia51
 kʰɤ214 i214 tɕʰi35 tʂʰʅ35
@@ -2244,9 +2244,9 @@ miŋ35 ɕiŋ55 tʂɤ35 tʂɤ35
 mu51 mən35 iou214 tɕi35
 fu214 i214 sɿ55 tʂʅ55
 fu55 iɛ214 pu51 liɑŋ35
-kuo35 rən35 tʂʅ55 tʂʅ55
-tʂʅ55 ər35 pu51 i214
-ʂei35 ɕi55 ran35 i214
+kuo35 ɻən35 tʂʅ55 tʂʅ55
+tʂʅ55 əɻ35 pu51 i214
+ʂei35 ɕi55 ɻan35 i214
 mu51 mən35 iou214 mei35
 iou214 ɕiɑu55 tsʰuei51 tʂʅ214
 fu55 iɛ214 pu51 liɑŋ35
@@ -2262,15 +2262,15 @@ tɕʰyŋ35 iou214 tʂʅ214 i51
 ʂei35 tʂou55 y35 mei214
 ɕin55 iɛn55 tʰi51 tʰi51
 yɛ51 tʂʰu55 tɕiɑu214 ɕi55
-tɕiɑu214 rən35 liɑu35 ɕi55
+tɕiɑu214 ɻən35 liɑu35 ɕi55
 ʂu55 iɑu214 tɕiou55 ɕi55
 lɑu35 ɕin55 tɕʰiɑu214 ɕi55
 yɛ51 tʂʰu55 xɑu51 ɕi55
-tɕiɑu214 rən35 liou35 ɕi55
+tɕiɑu214 ɻən35 liou35 ɕi55
 ʂu55 iou55 ʂou51 ɕi55
 lɑu35 ɕin55 sɑu55 ɕi55
 yɛ51 tʂʰu55 tʂɑu51 ɕi55
-tɕiɑu214 rən35 liɑu35 ɕi55
+tɕiɑu214 ɻən35 liɑu35 ɕi55
 ʂu55 iɑu55 ʂɑu51 ɕi55
 lɑu35 ɕin55 tsʰa2140 ɕi55
 xu35 uei35 xu55 tʂu55 lin35
@@ -2283,43 +2283,43 @@ tʂʰəŋ35 uo214 tʂʰəŋ35 tɕy55
 tʂʰɑu35 ʂʅ35 y35 tʂu55
 pi214 tsɤ35 tʂʅ55 pʰuo35
 iou214 pʰu35 y35 xɤ35
-iou214 mei214 i55 rən35
-ʂɑŋ55 ru35 tʂʅ55 xɤ35
+iou214 mei214 i55 ɻən35
+ʂɑŋ55 ɻu35 tʂʅ55 xɤ35
 u51 mei51 u35 uei35
 tʰi51 sɿ51 pʰɑŋ55 tʰuo35
 pi214 tsɤ35 tʂʅ55 pʰuo35
 iou214 pʰu35 y35 tɕiɛn55
-iou214 mei214 i51 rən35
+iou214 mei214 i51 ɻən35
 ʂuo51 ta51 tɕʰiɛ214 tɕyɛn51
 u51 mei51 u35 uei35
 tʂuŋ55 ɕin55 yɛn55 yɛn55
 pi214 tsɤ35 tʂʅ55 pʰuo35
 iou214 pʰu35 xan51 tan51
-iou214 mei214 i51 rən35
+iou214 mei214 i51 ɻən35
 ʂuo51 ta51 tɕʰiɛ214 iɛn214
 u51 mei51 u35 uei35
 tʂan214 tʂuan214 fu35 tʂən214
 kɑu55 tɕʰiou35 ɕiɑu55 iɑu35
 xu35 tɕʰiou35 i214 tʂʰɑu35
-tɕʰi214 pu51 ər214 sɿ55
+tɕʰi214 pu51 əɻ214 sɿ55
 lɑu35 ɕin55 tɑu55 tɑu55
 kɑu55 tɕʰiou35 ɑu35 ɕiɑŋ35
 xu35 tɕʰiou35 tsai51 tʰɑŋ35
-tɕʰi214 pu51 ər214 sɿ55
+tɕʰi214 pu51 əɻ214 sɿ55
 uo214 ɕin55 iou55 ʂɑŋ55
-kɑu55 tɕʰiou35 ru35 kɑu55
-rʅ51 tʂʰu55 iou214 iɑu51
-tɕʰi214 pu51 ər214 sɿ55
+kɑu55 tɕʰiou35 ɻu35 kɑu55
+ɻʅ51 tʂʰu55 iou214 iɑu51
+tɕʰi214 pu51 əɻ214 sɿ55
 tʂuŋ55 ɕin55 ʂʅ51 tɑu51
 ʂu51 tɕiɛn51 su51 kuan55 ɕi55
-tɕi35 rən35 luan35 luan35 ɕi55
+tɕi35 ɻən35 luan35 luan35 ɕi55
 lɑu35 ɕin55 tʰuan35 tʰuan35 ɕi55
 ʂu51 tɕiɛn51 su51 i55 ɕi55
 uo214 ɕin55 ʂɑŋ55 pei55 ɕi55
 liɑu35 y35 tsɿ214 tʰuŋ35 kuei55 ɕi55
 ʂu51 tɕiɛn51 su51 pi51 ɕi55
 uo214 ɕin55 yn51 tɕiɛ35 ɕi55
-liɑu35 y35 tsɿ214 ru35 i51 ɕi55
+liɑu35 y35 tsɿ214 ɻu35 i51 ɕi55
 ɕi35 iou214 tʂʰɑŋ35 tʂʰu214
 ɤ55 nuo35 tɕʰi35 tʂʅ55
 iɑu55 tʂʅ55 uo51 uo51
@@ -2353,19 +2353,19 @@ tsʰai214 tsʰai214 i55 fu35
 ɕin55 tʂʅ55 iou55 i214
 y35 uo214 kuei55 ɕi55
 fu35 iou35 tɕyɛ35 yɛ51
-ma35 i55 ru35 ɕyɛ214
+ma35 i55 ɻu35 ɕyɛ214
 ɕin55 tʂʅ55 iou55 i214
 y35 uo214 kuei55 ʂuo55
-pi214 xou51 rən35 ɕi55
+pi214 xou51 ɻən35 ɕi55
 xɤ35 kɤ55 y35 tuei51
 pi214 tɕʰi35 tʂʅ55 tsɿ214
 san55 pai214 tʂʰʅ51 fei51
 uei35 tʰi35 tsai51 liɑŋ35
-pu51 ru35 tɕʰi35 i51
+pu51 ɻu35 tɕʰi35 i51
 pi214 tɕʰi35 tʂʅ55 tsɿ214
 pu35 tʂʰəŋ51 tɕʰi35 fu35
 uei35 tʰi35 tsai51 liɑŋ35
-pu51 ru35 tɕʰi35 tʂou51
+pu51 ɻu35 tɕʰi35 tʂou51
 pi214 tɕʰi35 tʂʅ55 tsɿ214
 pu35 suei51 tɕʰi35 kou51
 xuei51 ɕi55 uei51 ɕi55
@@ -2374,27 +2374,27 @@ uan214 ɕi55 luan35 ɕi55
 tɕi51 ny214 sɿ55 tɕi55
 ʂʅ55 tɕiou55 tsai51 sɑŋ55
 tɕʰi35 tsɿ214 tɕʰi55 ɕi55
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 tɕʰi35 i51 i51 ɕi55
 tɕʰi35 i51 i51 ɕi55
-ɕin55 ru35 tɕiɛ55 ɕi55
+ɕin55 ɻu35 tɕiɛ55 ɕi55
 ʂʅ55 tɕiou55 tsai51 sɑŋ55
 tɕʰi35 tsɿ214 tsai51 mei35
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 tɕʰi35 tai51 i55 sɿ55
 tɕʰi35 tai51 i55 sɿ55
 tɕʰi35 piɛn51 i55 tɕʰi35
 ʂʅ55 tɕiou55 tsai51 sɑŋ55
 tɕʰi35 tsɿ214 tsai51 tɕi35
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 tɕʰi35 i51 pu35 tʰɤ51
 tɕʰi35 i51 pu35 tʰɤ51
 tʂəŋ51 ʂʅ51 sɿ51 kuo35
 ʂʅ55 tɕiou55 tsai51 sɑŋ55
 tɕʰi35 tsɿ214 tsai51 tʂən55
-ʂu55 rən35 tɕyn55 tsɿ214
-tʂəŋ51 ʂʅ51 kuo35 rən35
-tʂəŋ51 ʂʅ51 kuo35 rən35
+ʂu55 ɻən35 tɕyn55 tsɿ214
+tʂəŋ51 ʂʅ51 kuo35 ɻən35
+tʂəŋ51 ʂʅ51 kuo35 ɻən35
 xu35 pu35 uan51 niɛn35
 liɛ51 pi214 ɕia51 tɕʰyɛn35
 tɕin51 pi214 pɑu55 lɑŋ35
@@ -2414,23 +2414,23 @@ sɿ51 kuo35 iou214 uɑŋ35
 ɕyn35 puo35 lɑu35 tʂʅ55
 tɕʰi55 yɛ51 liou35 xuo214
 tɕiou214 yɛ51 ʂou51 i55
-i51 tʂʅ55 rʅ51 pi51 fa55
-ər51 tʂʅ55 rʅ51 li51 liɛ51
+i51 tʂʅ55 ɻʅ51 pi51 fa55
+əɻ51 tʂʅ55 ɻʅ51 li51 liɛ51
 u35 i55 u35 xɤ51
 xɤ35 i214 tsʰu51 suei51
-san55 tʂʅ55 rʅ51 y35 sɿ51
-sɿ51 tʂʅ55 rʅ51 tɕy214 tʂʅ214
+san55 tʂʅ55 ɻʅ51 y35 sɿ51
+sɿ51 tʂʅ55 ɻʅ51 tɕy214 tʂʅ214
 tʰuŋ35 uo214 kuei55 tsɿ214
 iɛ51 pi214 nan35 mu214
 tʰiɛn35 tɕyn51 tʂʅ51 ɕi214
 tɕʰi55 yɛ51 liou35 xuo214
 tɕiou214 yɛ51 ʂou51 i55
-tʂʰun55 rʅ51 tsai214 iɑŋ35
+tʂʰun55 ɻʅ51 tsai214 iɑŋ35
 iou214 miŋ35 tsʰɑŋ55 kəŋ55
 ny214 tʂʅ35 i51 kʰuɑŋ55
 tsun55 pi214 uei55 ɕiŋ35
-yɛn35 tɕʰiou35 rou35 sɑŋ55
-tʂʰun55 rʅ51 tʂʰʅ35 tʂʰʅ35
+yɛn35 tɕʰiou35 ɻou35 sɑŋ55
+tʂʰun55 ɻʅ51 tʂʰʅ35 tʂʰʅ35
 tsʰai214 fan35 tɕʰi35 tɕʰi35
 ny214 ɕin55 ʂɑŋ55 pei55
 tai51 tɕi35 kuŋ55 tsɿ214 tʰuŋ35 kuei55
@@ -2449,10 +2449,10 @@ sɿ51 yɛ51 ɕiou51 iɑu55
 u214 yɛ51 miŋ35 tʰiɑu35
 pa55 yɛ51 tɕʰi35 xuo51
 ʂʅ35 yɛ51 yn214 tʰuo51
-i55 tʂʅ55 rʅ51 y35 xɑu35
+i55 tʂʅ55 ɻʅ51 y35 xɑu35
 tɕʰy214 pi214 xu35 li35
 uei35 kuŋ55 tsɿ214 tɕʰiou35
-ər51 tʂʅ55 rʅ51 tɕʰi35 tʰuŋ35
+əɻ51 tʂʅ55 ɻʅ51 tɕʰi35 tʰuŋ35
 tsai214 tsuan214 u214 kuŋ55
 iɛn35 sɿ55 tɕʰi35 tsuŋ55
 ɕiɛn51 tɕiɛn55 y35 kuŋ55
@@ -2462,12 +2462,12 @@ tɕʰi55 yɛ51 tsai51 iɛ51
 pa55 yɛ51 tsai51 y214
 tɕiou214 yɛ51 tsai51 xu51
 ʂʅ35 yɛ51 ɕi55 ʂuai51
-ru51 uo214 tʂʰuɑŋ35 ɕia51
+ɻu51 uo214 tʂʰuɑŋ35 ɕia51
 tɕʰyŋ35 tsʰɿ214 ɕyn55 ʂu214
 sai55 ɕiɑŋ51 tɕin214 xu51
 tɕiɛ55 uo214 fu51 tsɿ214
 yɛ214 uei35 kai214 suei51
-ru51 tsʰɿ214 ʂʅ51 tʂʰu214
+ɻu51 tsʰɿ214 ʂʅ51 tʂʰu214
 liou51 yɛ51 ʂʅ35 y51 tɕi35 y51
 tɕʰi55 yɛ51 xəŋ55 kʰuei35 tɕi35 ʂu55
 pa55 yɛ51 puo55 tsɑu214
@@ -2485,14 +2485,14 @@ tɕiou214 yɛ51 tʂu51 tʂʰɑŋ35 pʰu214
 xɤ35 ma35 ʂu55 mai51
 tɕiɛ55 uo214 nuŋ35 fu55
 uo214 tɕia51 tɕi51 tʰuŋ35
-ʂɑŋ51 ru51 tʂʅ35 kuŋ55 kuŋ55
-tʂou51 ər214 y35 mɑu35
-ɕiɑu55 ər214 suo214 tʰɑu35
+ʂɑŋ51 ɻu51 tʂʅ35 kuŋ55 kuŋ55
+tʂou51 əɻ214 y35 mɑu35
+ɕiɑu55 əɻ214 suo214 tʰɑu35
 tɕi35 tɕʰi35 tʂʰəŋ35 u55
 tɕʰi35 ʂʅ214 puo55 pai214 ku214
-ər51 tʂʅ55 rʅ51 tsɑu35 piŋ55 tʂʰuŋ55 tʂʰuŋ55
-san55 tʂʅ55 rʅ51 na51 y35 liŋ35 in55
-sɿ51 tʂʅ55 rʅ51 tɕʰi35 tsɑu214
+əɻ51 tʂʅ55 ɻʅ51 tsɑu35 piŋ55 tʂʰuŋ55 tʂʰuŋ55
+san55 tʂʅ55 ɻʅ51 na51 y35 liŋ35 in55
+sɿ51 tʂʅ55 ɻʅ51 tɕʰi35 tsɑu214
 ɕiɛn51 kɑu55 tɕi51 tɕiou214
 tɕiou214 yɛ51 su51 ʂuɑŋ55
 ʂʅ35 yɛ51 ti35 tʂʰɑŋ35
@@ -2568,26 +2568,26 @@ xuɑŋ35 puo35 tɕʰi35 ma214
 tɕʰin55 tɕiɛ55 tɕʰi35 li35
 tɕiou214 ʂʅ35 tɕʰi35 i35
 tɕʰi35 ɕin55 kʰuŋ214 tɕia55
-tɕʰi35 tɕiou51 ru35 tʂʅ55 xɤ35
+tɕʰi35 tɕiou51 ɻu35 tʂʅ55 xɤ35
 tɕi51 pʰuo51 uo214 fu214
 iou51 tɕʰyɛ55 uo214 tɕʰiɑŋ55
 tʂou55 kuŋ55 tuŋ55 tʂəŋ55
 sɿ51 kuo35 ʂʅ51 xuɑŋ35
-ai55 uo214 rən35 sɿ55
+ai55 uo214 ɻən35 sɿ55
 i51 kʰuŋ214 tʂʅ55 tɕiɑŋ55
 tɕi51 pʰuo51 uo214 fu214
 iou51 tɕʰyɛ55 uo214 tɕʰi35
 tʂou55 kuŋ55 tuŋ55 tʂəŋ55
 sɿ51 kuo35 ʂʅ51 ɤ35
-ai55 uo214 rən35 sɿ55
+ai55 uo214 ɻən35 sɿ55
 i51 kʰuŋ214 tʂʅ55 tɕia55
 tɕi51 pʰuo51 uo214 fu214
 iou51 tɕʰyɛ55 uo214 tɕʰiou35
 tʂou55 kuŋ55 tuŋ55 tʂəŋ55
 sɿ51 kuo35 ʂʅ51 tɕʰiou35
-ai55 uo214 rən35 sɿ55
+ai55 uo214 ɻən35 sɿ55
 i51 kʰuŋ214 tʂʅ55 ɕiou55
-fa35 kʰɤ55 ru35 xɤ35
+fa35 kʰɤ55 ɻu35 xɤ35
 fei214 fu214 pu35 kʰɤ51
 tɕʰy214 tɕʰi55 tsu35 xɤ35
 tɕʰi35 mei35 pu51 tɤ35
@@ -2622,7 +2622,7 @@ uo214 iou214 tɕia55 pin55
 ku214 sɤ51 tʂʰuei55 ʂəŋ55
 tʂʰuei55 ʂəŋ55 ku214 xuɑŋ35
 tʂʰəŋ35 kʰuɑŋ55 ʂʅ51 tɕiɑŋ55
-rən35 tʂʅ55 xɑu51 uo214
+ɻən35 tʂʅ55 xɑu51 uo214
 ʂʅ51 uo214 tʂou55 ɕiŋ35
 iou55 iou55 lu51 miŋ35
 ʂʅ35 iɛ51 tʂʅ55 xɑu55
@@ -2670,15 +2670,15 @@ y35 pi214 yɛn35 ɕi35
 ʂən55 ʂən55 tʂəŋ55 fu55
 mei214 xuai35 mi35 tɕi35
 uo214 ma214 uei35 tɕy55
-liou51 pʰei51 ru35 ru35
+liou51 pʰei51 ɻu35 ɻu35
 tsai214 tʂʰʅ35 tsai214 tɕʰy55
 tʂou55 yɛn35 tsɿ55 tsou55
 uo214 ma214 uei35 tɕʰi35
-liou51 pʰei51 ru35 sɿ55
+liou51 pʰei51 ɻu35 sɿ55
 tsai214 tʂʰʅ35 tsai214 tɕʰy55
 tʂou55 yɛn35 tsɿ55 mou35
 uo214 ma214 uei35 tɕy55
-liou51 pʰei51 uo51 ruo51
+liou51 pʰei51 uo51 ɻuo51
 tsai214 tʂʰʅ35 tsai214 tɕʰy55
 tʂou55 yɛn35 tsɿ55 tuo35
 uo214 ma214 uei35 in55
@@ -2687,8 +2687,8 @@ tsai214 tʂʰʅ35 tsai214 tɕʰy55
 tʂou55 yɛn35 tsɿ55 ɕyn35
 tʂʰɑŋ35 ti51 tʂʅ55 xua35
 ɤ51 pu51 uei214 uei214
-fan35 tɕin55 tʂʅ55 rən35
-muo51 ru35 ɕyŋ55 ti51
+fan35 tɕin55 tʂʅ55 ɻən35
+muo51 ɻu35 ɕyŋ55 ti51
 sɿ214 sɑŋ55 tʂʅ55 uei55
 ɕyŋ55 ti51 kʰuŋ214 xuai35
 yɛn35 ɕi35 pʰou35 i214
@@ -2700,23 +2700,23 @@ kʰuɑŋ51 iɛ214 yŋ214 tʰan51
 ɕyŋ55 ti51 ɕi51 y35 tɕʰiɑŋ35
 uai51 y51 tɕʰi35 u51
 mei214 iou214 liɑŋ35 pʰəŋ35
-tʂəŋ55 iɛ214 u35 ruŋ35
+tʂəŋ55 iɛ214 u35 ɻuŋ35
 sɑŋ55 luan51 tɕi51 pʰiŋ35
 tɕi51 an55 tɕʰiɛ214 niŋ35
 suei55 iou214 ɕyŋ55 ti51
-pu51 ru35 iou214 ʂəŋ55
-pin55 ər35 piɛn55 tou51
+pu51 ɻu35 iou214 ʂəŋ55
+pin55 əɻ35 piɛn55 tou51
 in214 tɕiou214 tʂʅ55 y51
 ɕyŋ55 ti51 tɕi51 tɕy51
-xɤ35 lɤ51 tɕʰiɛ214 ru35
+xɤ35 lɤ51 tɕʰiɛ214 ɻu35
 tɕʰi55 tsɿ214 xɑu214 xɤ35
-ru35 ku214 sɤ51 tɕʰin35
+ɻu35 ku214 sɤ51 tɕʰin35
 ɕyŋ55 ti51 tɕi51 ɕi55
 xɤ35 lɤ51 tɕʰiɛ214 tʂan51
-tɕʰiɛ214 ər214 ʂʅ51 tɕia55
-lɤ51 ər214 tɕʰi55 tsɿ214
+tɕʰiɛ214 əɻ214 ʂʅ51 tɕia55
+lɤ51 əɻ214 tɕʰi55 tsɿ214
 ʂʅ51 tɕiou55 ʂʅ51 tʰu35
-tan214 tɕʰi35 ran35 xu55
+tan214 tɕʰi35 ɻan35 xu55
 fa35 mu51 tʂəŋ55 tʂəŋ55
 niɑu214 miŋ35 iŋ55 iŋ55
 tʂʰu55 tsɿ51 iou55 ku214
@@ -2725,7 +2725,7 @@ iŋ55 tɕʰi35 miŋ35 i214
 tɕʰiou35 tɕʰi35 iou214 ʂəŋ55
 ɕiɑŋ55 pi214 niɑu214 i214
 iou35 tɕʰiou35 iou214 ʂəŋ55
-ʂən214 i55 rən35 i214
+ʂən214 i55 ɻən35 i214
 pu51 tɕʰiou35 iou214 ʂəŋ55
 ʂən35 tʂʅ55 tʰiŋ55 tʂʅ55
 tʂuŋ55 xɤ35 tɕʰiɛ214 pʰiŋ35
@@ -2753,42 +2753,42 @@ kʰan214 kʰan214 ku214 uo214
 tsʰun35 tsʰun35 u214 uo214
 tai51 uo214 ɕia35 i214
 i214 tsʰɿ214 ɕy214 i214
-tʰiɛn55 pɑu214 tiŋ51 ər214
+tʰiɛn55 pɑu214 tiŋ51 əɻ214
 i51 kʰuŋ214 tʂʅ55 ku51
-pi214 ər214 tʂʰan35 xou51
+pi214 əɻ214 tʂʰan35 xou51
 xɤ35 fu35 pu51 tʂʰu35
-pi214 ər214 tuo55 i51
+pi214 əɻ214 tuo55 i51
 i214 muo51 pu35 ʂu51
-tʰiɛn55 pɑu214 tiŋ51 ər214
-pi214 ər214 tɕiɛn214 ku214
+tʰiɛn55 pɑu214 tiŋ51 əɻ214
+pi214 əɻ214 tɕiɛn214 ku214
 tɕʰiŋ51 u35 pu51 i35
 ʂou51 tʰiɛn55 pai214 lu51
-tɕiɑŋ51 ər214 ɕia35 fu35
-uei35 rʅ51 pu51 tsu35
-tʰiɛn55 pɑu214 tiŋ51 ər214
+tɕiɑŋ51 əɻ214 ɕia35 fu35
+uei35 ɻʅ51 pu51 tsu35
+tʰiɛn55 pɑu214 tiŋ51 əɻ214
 i214 muo51 pu51 ɕiŋ55
-ru35 ʂan55 ru35 fu51
-ru35 kɑŋ55 ru35 liŋ35
-ru35 tʂʰuan55 tʂʅ55 fɑŋ55 tʂʅ51
+ɻu35 ʂan55 ɻu35 fu51
+ɻu35 kɑŋ55 ɻu35 liŋ35
+ɻu35 tʂʰuan55 tʂʅ55 fɑŋ55 tʂʅ51
 i214 muo51 pu51 tsəŋ55
 tɕi35 tɕyɛn55 uei35 tʂʰʅ51
 ʂʅ51 yŋ51 ɕiɑu51 ɕiɑŋ214
 yɛ51 tsʰɿ35 tʂəŋ55 tʂʰɑŋ35
 y35 kuŋ55 ɕiɛn55 uɑŋ35
-tɕyn55 rʅ51 pu214 ər214
+tɕyn55 ɻʅ51 pu214 əɻ214
 uan51 ʂou51 u35 tɕiɑŋ55
 ʂən35 tʂʅ55 tiɑu51 i214
-i35 ər214 tuo55 fu35
+i35 əɻ214 tuo55 fu35
 min35 tʂʅ55 tʂʅ51 i214
-rʅ51 yŋ51 in214 ʂʅ35
+ɻʅ51 yŋ51 in214 ʂʅ35
 tɕʰyn35 ʂu214 pai214 ɕiŋ51
-piɛn51 uei35 ər214 tɤ35
-ru35 yɛ51 tʂʅ55 xəŋ35
-ru35 rʅ51 tʂʅ55 ʂəŋ55
-ru35 nan35 ʂan55 tʂʅ55 ʂou51
+piɛn51 uei35 əɻ214 tɤ35
+ɻu35 yɛ51 tʂʅ55 xəŋ35
+ɻu35 ɻʅ51 tʂʅ55 ʂəŋ55
+ɻu35 nan35 ʂan55 tʂʅ55 ʂou51
 pu51 tɕʰiɛn55 pu51 pəŋ55
-ru35 suŋ55 puo35 tʂʅ55 mɑu51
-u35 pu51 ər214 xuo51 tʂʰəŋ35
+ɻu35 suŋ55 puo35 tʂʅ55 mɑu51
+u35 pu51 əɻ214 xuo51 tʂʰəŋ35
 tsʰai214 uei55 tsʰai214 uei55
 uei55 i51 tsuo51 tʂʅ214
 yɛ55 kuei55 yɛ55 kuei55
@@ -2798,7 +2798,7 @@ mi35 ʂʅ51 mi35 tɕia55
 pu51 xuɑŋ35 tɕʰi214 tɕy55
 ɕiɛn214 yn214 tʂʅ55 ku51
 tsʰai214 uei55 tsʰai214 uei55
-uei55 i51 rou35 tʂʅ214
+uei55 i51 ɻou35 tʂʅ214
 yɛ55 kuei55 yɛ55 kuei55
 ɕin55 i51 iou55 tʂʅ214
 iou55 ɕin55 liɛ51 liɛ51
@@ -2813,21 +2813,21 @@ uɑŋ35 ʂʅ51 mi35 ku214
 pu51 xuɑŋ35 tɕʰi214 tʂʰu214
 iou55 ɕin55 kʰuŋ214 tɕiou51
 uo214 ɕiŋ35 pu51 lai35
-pi214 ər214 uei35 xɤ35
+pi214 əɻ214 uei35 xɤ35
 uei35 tʂʰɑŋ35 tʂʅ55 xua35
 pi214 lu51 sɿ55 xɤ35
 tɕyn55 tsɿ214 tʂʅ55 tʂʰɤ55
-ruŋ35 tʂʰɤ55 tɕi51 tɕia51
+ɻuŋ35 tʂʰɤ55 tɕi51 tɕia51
 sɿ51 mu214 iɛ51 iɛ51
 tɕʰi214 kan214 tiŋ51 tɕy55
 i35 yɛ51 san55 tɕiɛ35
 tɕia51 pi214 sɿ51 mu214
 sɿ51 mu214 kʰuei35 kʰuei35
 tɕyn55 tsɿ214 suo214 i55
-ɕiɑu214 rən35 suo214 fei35
+ɕiɑu214 ɻən35 suo214 fei35
 sɿ51 mu214 i51 i51
 ɕiɑŋ51 mi214 y35 fu35
-tɕʰi214 pu35 rʅ51 tɕiɛ51
+tɕʰi214 pu35 ɻʅ51 tɕiɛ51
 ɕiɛn214 yn214 kʰuŋ214 tɕi35
 ɕi55 uo214 uɑŋ51 i214
 iɑŋ35 liou214 i55 i55
@@ -2876,8 +2876,8 @@ iou55 ɕin55 tʂʰuŋ55 tʂʰuŋ55
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 uo214 ɕin55 tsɤ35 tɕiɑŋ51
 xɤ51 xɤ51 nan35 tʂuŋ51
-puo35 fa35 ɕi55 ruŋ35
-tʂʰun55 rʅ51 tʂʰʅ35 tʂʰʅ35
+puo35 fa35 ɕi55 ɻuŋ35
+tʂʰun55 ɻʅ51 tʂʰʅ35 tʂʰʅ35
 xuei51 mu51 tɕʰi55 tɕʰi55
 tsʰɑŋ55 kəŋ55 tɕiɛ55 tɕiɛ55
 tsʰai214 fan35 tɕʰi35 tɕʰi35
@@ -2888,8 +2888,8 @@ xɤ51 xɤ51 nan35 tʂuŋ51
 iou214 ti51 tʂʅ55 tu51
 iou214 xuan214 tɕʰi35 ʂʅ35
 uɑŋ35 ʂʅ51 mi35 ku214
-tɕi51 sɿ51 uo214 rʅ51
-rʅ51 yɛ51 iɑŋ35 tʂʅ214
+tɕi51 sɿ51 uo214 ɻʅ51
+ɻʅ51 yɛ51 iɑŋ35 tʂʅ214
 ny214 ɕin55 ʂɑŋ55 tʂʅ214
 tʂəŋ55 fu55 xuɑŋ35 tʂʅ214
 iou214 ti51 tʂʅ55 tu35
@@ -2909,10 +2909,10 @@ tʂəŋ55 fu55 pu51 yɛn214
 fei214 tsai214 fei214 lai35
 iou55 ɕin55 kʰuŋ214 tɕiou51
 tɕʰi55 ʂʅ51 pu35 tʂʅ51
-ər35 tuo55 uei35 ɕy51
+əɻ35 tuo55 uei35 ɕy51
 pu214 ʂʅ51 tɕiɛ55 tʂʅ214
 xuei51 iɛn35 tɕin51 tʂʅ214
-tʂəŋ55 fu55 ər214 tʂʅ214
+tʂəŋ55 fu55 əɻ214 tʂʅ214
 y35 li35 y35 liou214
 tʂʰɑŋ35 ʂa55
 tɕyn55 tsɿ214 iou214 tɕiou214
@@ -2932,11 +2932,11 @@ uei35 tɕʰi35 tɕiɛ55 i214
 u51 tɕʰi35 iou214 i214
 uei35 tɕʰi35 ʂʅ35 i214
 nan35 iou214 tɕia55 y35
-tʂəŋ55 ran35 tʂɑu51 tʂɑu51
+tʂəŋ55 ɻan35 tʂɑu51 tʂɑu51
 tɕyn55 tsɿ214 iou214 tɕiou214
 tɕia55 pin55 ʂʅ51 iɛn55 i214 lɤ51
 nan35 iou214 tɕia55 y35
-tʂəŋ55 ran35 ʂan51 ʂan51
+tʂəŋ55 ɻan35 ʂan51 ʂan51
 tɕyn55 tsɿ214 iou214 tɕiou214
 tɕia55 pin55 ʂʅ51 iɛn55 i214 kʰan51
 nan35 iou214 tɕiou55 mu51
@@ -2944,7 +2944,7 @@ kan55 xu51 lei35 tʂʅ55
 tɕyn55 tsɿ214 iou214 tɕiou214
 tɕia55 pin55 ʂʅ51 iɛn55 suei35 tʂʅ55
 pʰiɛn55 pʰiɛn55 tʂɤ214 tʂuei55
-tʂəŋ55 ran35 lai35 sɿ55
+tʂəŋ55 ɻan35 lai35 sɿ55
 tɕyn55 tsɿ214 iou214 tɕiou214
 tɕia55 pin55 ʂʅ51 iɛn55 iou51 sɿ55
 nan35 ʂan55 iou214 tʰai35
@@ -2976,7 +2976,7 @@ pei214 ʂan55 iou214 y35
 lɤ51 tʂʅ214 tɕyn55 tsɿ214
 ɕia35 pu51 xuɑŋ35 kou214
 lɤ51 tʂʅ214 tɕyn55 tsɿ214
-pɑu214 ai51 ər214 xou51
+pɑu214 ai51 əɻ214 xou51
 liɑu214 pi214 ɕiɑu55 sɿ55
 liŋ35 lou51 ɕy214 ɕi55
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
@@ -2984,7 +2984,7 @@ uo214 ɕin55 ɕiɛ214 ɕi55
 iɛn55 ɕiɑu51 y214 ɕi55
 ʂʅ51 i214 iou214 y51 tʂʰu214 ɕi55
 liɑu214 pi214 ɕiɑu55 sɿ55
-liŋ35 lou51 rɑŋ35 rɑŋ35
+liŋ35 lou51 ɻɑŋ35 ɻɑŋ35
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 uei35 luŋ35 uei35 kuɑŋ55
 tɕʰi35 tɤ35 pu51 ʂuɑŋ214
@@ -3052,7 +3052,7 @@ tsai214 tʂʰən35 tsai214 fu35
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 uo214 ɕin55 tsɤ35 ɕiou55
 liou51 yɛ51 tɕʰi55 tɕʰi55
-ruŋ35 tʂʰɤ55 tɕi51 tʂʰʅ51
+ɻuŋ35 tʂʰɤ55 tɕi51 tʂʰʅ51
 sɿ51 mu214 kʰuei35 kʰuei35
 tsai214 ʂʅ51 tʂʰɑŋ35 fu35
 ɕiɛn214 yn214 kʰuŋ214 tʂʰʅ51
@@ -3075,16 +3075,16 @@ iou214 iɛn35 iou214 i51
 kuŋ51 u214 tʂʅ55 fu35
 kuŋ51 u214 tʂʅ55 fu35
 i214 tiŋ51 uɑŋ35 kuo35
-iɛn35 yn214 fei214 ru35
+iɛn35 yn214 fei214 ɻu35
 tʂəŋ214 tɕy55 tɕiɑu55 xuo51
 tɕʰin55 kɑu214 tɕi35 fɑŋ55
 tʂʅ51 y35 tɕiŋ55 iɑŋ35
 tʂʅ55 un35 niɑu214 tʂɑŋ55
 pai214 pʰei51 iɑŋ55 iɑŋ55
-yɛn35 ruŋ35 ʂʅ35 tʂʰəŋ35
+yɛn35 ɻuŋ35 ʂʅ35 tʂʰəŋ35
 i214 ɕiɛn55 tɕʰi214 xɑŋ35
-ruŋ35 tʂʰɤ55 tɕi51 an55
-ru35 tʂʅ51 ru35 ɕyɛn55
+ɻuŋ35 tʂʰɤ55 tɕi51 an55
+ɻu35 tʂʅ51 ɻu35 ɕyɛn55
 sɿ51 mu214 tɕi51 tɕi35
 tɕi51 tɕi35 tɕʰiɛ214 ɕiɛn35
 puo35 fa35 ɕiɛn214 yn214
@@ -3130,20 +3130,20 @@ fɑŋ55 ʂu55 li51 tʂʅ214
 tɕʰi35 tʂʰɤ55 san55 tɕʰiɛn35
 ʂʅ55 kan55 tʂʅ55 ʂʅ51
 fɑŋ55 ʂu55 ly51 tʂʅ214
-tʂəŋ55 rən35 fa35 ku214
+tʂəŋ55 ɻən35 fa35 ku214
 tʂʰən35 ʂʅ55 tɕy55 ly214
 ɕiɛn214 yn214 fɑŋ55 ʂu55
 fa35 ku214 yɛn55 yɛn55
 tʂən51 ly214 tʰiɛn35 tʰiɛn35
-tʂʰun214 ər214 man35 tɕiŋ55
+tʂʰun214 əɻ214 man35 tɕiŋ55
 ta51 pɑŋ55 uei35 tʂʰou35
 fɑŋ55 ʂu55 yɛn35 lɑu214
 kʰɤ51 tʂuɑŋ51 tɕʰi35 iou35
 fɑŋ55 ʂu55 ly51 tʂʅ214
 tʂʅ35 ɕyn51 xuo51 tʂʰou214
-ruŋ35 tʂʰɤ55 tʰan55 tʰan55
+ɻuŋ35 tʂʰɤ55 tʰan55 tʰan55
 tʂʰan214 tʂʰan214 tʰun55 tʰun55
-ru35 tʰiŋ35 ru35 lei35
+ɻu35 tʰiŋ35 ɻu35 lei35
 ɕiɛn214 yn214 fɑŋ55 ʂu55
 tʂəŋ55 fa35 ɕiɛn214 yn214
 man35 tɕiŋ55 lai35 uei55
@@ -3170,7 +3170,7 @@ tʂu51 uo214 tɕy214 tʂʰai35
 sɿ51 xuɑŋ35 tɕi51 tɕia51
 liɑŋ214 tsʰan55 pu51 i55
 pu51 ʂʅ55 tɕʰi35 tʂʰʅ35
-ʂɤ51 ʂʅ214 ru35 pʰuo51
+ʂɤ51 ʂʅ214 ɻu35 pʰuo51
 ɕiɑu55 ɕiɑu55 ma214 miŋ35
 iou55 iou55 pʰei51 tɕiŋ55
 tʰu35 y51 pu51 tɕiŋ55
@@ -3179,13 +3179,13 @@ tʂʅ55 tsɿ214 y35 tʂəŋ51
 iou214 un35 u35 ʂəŋ55
 yn214 i214 tɕyn55 tsɿ214
 tʂan214 iɛ214 ta51 tʂʰəŋ35
-tɕi35 rʅ51 uei35 u51
+tɕi35 ɻʅ51 uei35 u51
 tɕi51 puo35 tɕi51 tɑu214
 tʰiɛn35 tʂʰɤ55 tɕi51 xɑu214
 sɿ51 mu214 kʰuŋ214 fu51
 ʂəŋ55 pi214 ta51 fu51
 tsʰuŋ55 tɕʰi35 tɕʰyn35 tʂʰou214
-tɕi35 rʅ51 kəŋ55 u214
+tɕi35 ɻʅ51 kəŋ55 u214
 tɕi51 tʂʰai55 uo214 ma214
 ʂou51 tʂʅ55 suo214 tʰuŋ35
 iou55 lu51 y214 y214
@@ -3207,7 +3207,7 @@ xuŋ35 iɛn51 y35 fei55
 su51 su51 tɕʰi35 y214
 tʂʅ55 tsɿ214 y35 tʂəŋ55
 tɕʰy35 lɑu35 y35 iɛ51
-yɛn35 tɕi35 tɕin55 rən35
+yɛn35 tɕi35 tɕin55 ɻən35
 ai55 tsʰɿ214 xuan55 kua214
 xuŋ35 iɛn51 y35 fei55
 tɕi35 y35 tʂuŋ55 tsɤ35
@@ -3217,21 +3217,21 @@ suei55 tsɤ35 tɕʰy35 lɑu35
 tɕʰi35 tɕiou55 an55 tʂai35
 xuŋ35 iɛn51 y35 fei55
 ai55 miŋ35 ɑu35 ɑu35
-uei35 tsʰɿ214 tʂɤ35 rən35
+uei35 tsʰɿ214 tʂɤ35 ɻən35
 uei51 uo214 tɕʰy35 lɑu35
-uei35 pi214 y35 rən35
+uei35 pi214 y35 ɻən35
 uei51 uo214 ɕyɛn55 tɕiɑu55
-iɛ51 ru35 xɤ35 tɕʰi35
+iɛ51 ɻu35 xɤ35 tɕʰi35
 iɛ51 uei51 iɑŋ55
 tʰiŋ35 liɑu35 tʂʅ55 kuɑŋ55
 tɕyn55 tsɿ214 tʂʅ51 tʂʅ214
 luan35 ʂəŋ55 tɕiɑŋ55 tɕiɑŋ55
-iɛ51 ru35 xɤ35 tɕʰi35
+iɛ51 ɻu35 xɤ35 tɕʰi35
 iɛ51 uei51 ai51
 tʰiŋ35 liɑu35 tʂʅ51 tʂʅ51
 tɕyn55 tsɿ214 tʂʅ51 tʂʅ214
 luan35 ʂəŋ55 xuei51 xuei51
-iɛ51 ru35 xɤ35 tɕʰi35
+iɛ51 ɻu35 xɤ35 tɕʰi35
 iɛ51 ɕiɑŋ55 tʂʰən35
 tʰiŋ35 liɑu35 iou214 xuei55
 tɕyn55 tsɿ214 tʂʅ51 tʂʅ214
@@ -3241,7 +3241,7 @@ tʂʰɑu35 tsuŋ55 y35 xai214
 y35 pi214 fei55 sun214
 tsai214 fei55 tsai214 tʂʅ214
 tɕiɛ55 uo214 ɕyŋ55 ti51
-pɑŋ55 rən35 tʂu55 iou214
+pɑŋ55 ɻən35 tʂu55 iou214
 muo51 kʰən214 niɛn51 luan51
 ʂei35 u35 fu51 mu214
 miɛn214 ʂuei214 liou35 ʂuei214
@@ -3292,69 +3292,69 @@ tɕiɑu214 tɕiɑu214 pai35 tɕy55
 ʂʅ35 uo214 tʂʰɑŋ35 miɑu35
 tʂʅ35 tʂʅ55 uei35 tʂʅ55
 i214 yŋ214 tɕin55 tʂɑu55
-suo214 uei51 i55 rən35
+suo214 uei51 i55 ɻən35
 y35 iɛn55 ɕiɑu55 iɑu35
 tɕiɑu214 tɕiɑu214 pai35 tɕy55
 ʂʅ35 uo214 tʂʰɑŋ35 xuo51
 tʂʅ35 tʂʅ55 uei35 tʂʅ55
 i214 yŋ214 tɕin55 ɕi55
-suo214 uei51 i55 rən35
+suo214 uei51 i55 ɻən35
 y35 iɛn55 tɕia55 kʰɤ51
 tɕiɑu214 tɕiɑu214 pai35 tɕy55
-pən55 ran35 lai35 sɿ55
-ər214 kuŋ55 ər214 xou35
+pən55 ɻan35 lai35 sɿ55
+əɻ214 kuŋ55 əɻ214 xou35
 i51 y51 u35 tɕʰi55
-ʂən51 ər214 iou55 iou35
-miɛn214 ər214 tun51 sɿ55
+ʂən51 əɻ214 iou55 iou35
+miɛn214 əɻ214 tun51 sɿ55
 tɕiɑu214 tɕiɑu214 pai35 tɕy55
 tsai51 pi214 kʰuŋ55 ku214
 ʂəŋ55 tʂʰu35 i55 ʂu51
-tɕʰi35 rən35 ru35 y51
-u35 tɕin55 y51 ər214 in55
-ər35 iou214 ɕia35 ɕin55
+tɕʰi35 ɻən35 ɻu35 y51
+u35 tɕin55 y51 əɻ214 in55
+əɻ35 iou214 ɕia35 ɕin55
 xuɑŋ35 niɑu214 xuɑŋ35 niɑu214
 u35 tɕi35 y35 ku214
 u35 tʂuo35 u35 su51
-tsʰɿ214 pɑŋ55 tʂʅ55 rən35
+tsʰɿ214 pɑŋ55 tʂʅ55 ɻən35
 pu51 uo214 kʰən214 ku214
 iɛn35 ɕyɛn35 iɛn35 kuei55
 fu51 uo214 pɑŋ55 tsu35
 xuɑŋ35 niɑu214 xuɑŋ35 niɑu214
 u35 tɕi35 y35 sɑŋ55
 u35 tʂuo35 u35 liɑŋ35
-tsʰɿ214 pɑŋ55 tʂʅ55 rən35
+tsʰɿ214 pɑŋ55 tʂʅ55 ɻən35
 pu51 kʰɤ214 y35 miŋ35
 iɛn35 ɕyɛn35 iɛn35 kuei55
 fu51 uo214 tʂu55 ɕyŋ55
 xuɑŋ35 niɑu214 xuɑŋ35 niɑu214
 u35 tɕi35 y35 ɕy214
 u35 tʂuo35 u35 ʂu214
-tsʰɿ214 pɑŋ55 tʂʅ55 rən35
+tsʰɿ214 pɑŋ55 tʂʅ55 ɻən35
 pu51 kʰɤ214 y35 tʂʰu214
 iɛn35 ɕyɛn35 iɛn35 kuei55
 fu51 uo214 tʂu55 fu51
 uo214 ɕiŋ35 tɕʰi35 iɛ214
 pi51 fei51 tɕʰi35 tʂʰu55
 xun55 in55 tʂʅ55 ku51
-iɛn35 tɕiou51 ər214 tɕy55
-ər214 pu51 uo214 tʂʰu51
+iɛn35 tɕiou51 əɻ214 tɕy55
+əɻ214 pu51 uo214 tʂʰu51
 fu51 uo214 pɑŋ55 tɕia55
 uo214 ɕiŋ35 tɕʰi35 iɛ214
 iɛn35 tsʰai214 tɕʰi35 tʂu35
 xun55 in55 tʂʅ55 ku51
-iɛn35 tɕiou51 ər214 su51
-ər214 pu51 uo214 tʂʰu51
+iɛn35 tɕiou51 əɻ214 su51
+əɻ214 pu51 uo214 tʂʰu51
 iɛn35 kuei55 sɿ55 fu51
 uo214 ɕiŋ35 tɕʰi35 iɛ214
 iɛn35 tsʰai214 tɕʰi35 fu35
 pu51 sɿ55 tɕiou51 in55
-tɕʰiou35 ər214 ɕin55 tʰɤ51
+tɕʰiou35 əɻ214 ɕin55 tʰɤ51
 tʂʰəŋ35 pu51 i214 fu51
 i51 tʂʅ214 i214 i51
 tʂʅ51 tʂʅ51 sɿ55 kan55
 iou55 iou55 nan35 ʂan55
-ru35 tʂu35 pɑu55 i214
-ru35 suŋ55 mɑu51 i214
+ɻu35 tʂu35 pɑu55 i214
+ɻu35 suŋ55 mɑu51 i214
 ɕyŋ55 tɕi35 ti51 i214
 ʂʅ51 ɕiɑŋ55 xɑu214 i214
 u35 ɕiɑŋ55 iou35 i214
@@ -3368,10 +3368,10 @@ tʂuo35 tʂʅ55 tʰuo35 tʰuo35
 fəŋ55 y214 iou55 tʂʰu35
 niɑu214 ʂu214 iou55 tɕʰy51
 tɕyn55 tsɿ214 iou55 y51
-ru35 tɕʰi35 sɿ55 i51
-ru35 ʂʅ214 tɕʰi35 tɕi35
-ru35 niɑu214 sɿ55 tɕi35
-ru35 xuei55 sɿ55 fei55
+ɻu35 tɕʰi35 sɿ55 i51
+ɻu35 ʂʅ214 tɕʰi35 tɕi35
+ɻu35 niɑu214 sɿ55 tɕi35
+ɻu35 xuei55 sɿ55 fei55
 tɕyn55 tsɿ214 iou55 tɕi55
 tʂʅ35 tʂʅ35 tɕʰi35 tʰiŋ35
 iou214 tɕiɑu51 tɕʰi35 iŋ35
@@ -3385,7 +3385,7 @@ nai214 tʂan55 uo214 məŋ51
 tɕi35 məŋ51 uei35 xɤ35
 uei35 ɕyŋ35 uei35 pʰi35
 uei35 xuei55 uei35 ʂɤ35
-ta51 rən35 tʂan55 tʂʅ55
+ta51 ɻən35 tʂan55 tʂʅ55
 uei35 ɕyŋ35 uei35 pʰi35
 nan35 tsɿ214 tʂʅ55 ɕiɑŋ35
 uei35 xuei55 uei35 ʂɤ35
@@ -3404,34 +3404,34 @@ tsai214 luŋ51 tʂʅ55 ua214
 u35 fei55 u35 i35
 uei35 tɕiou214 ʂʅ35 ʂʅ51 i51
 u35 fu51 mu214 i35 li35
-ʂei35 uei51 ər214 u35 iɑŋ35
+ʂei35 uei51 əɻ214 u35 iɑŋ35
 san55 pai214 uei35 tɕʰyn35
-ʂei35 uei51 ər214 u35 niou35
-tɕiou214 ʂʅ35 tɕʰi35 run35
-ər214 iɑŋ35 lai35 sɿ55
+ʂei35 uei51 əɻ214 u35 niou35
+tɕiou214 ʂʅ35 tɕʰi35 ɻun35
+əɻ214 iɑŋ35 lai35 sɿ55
 tɕʰi35 tɕiɑu214 tɕi35 tɕi35
-ər214 niou35 lai35 sɿ55
-tɕʰi35 ər214 ʂʅ55 ʂʅ55
+əɻ214 niou35 lai35 sɿ55
+tɕʰi35 əɻ214 ʂʅ55 ʂʅ55
 xuo51 tɕiɑŋ51 y35 a55
 xuo51 in214 y35 tʂʰʅ35
 xuo51 tɕʰin214 xuo51 ɤ35
-ər214 mu51 lai35 sɿ55
+əɻ214 mu51 lai35 sɿ55
 xɤ35 suo55 xɤ35 li51
 xuo51 fu51 tɕʰi35 xou35
 san55 ʂʅ35 uei35 u51
-ər214 ʂəŋ55 tsɤ35 tɕy51
-ər214 mu51 lai35 sɿ55
+əɻ214 ʂəŋ55 tsɤ35 tɕy51
+əɻ214 mu51 lai35 sɿ55
 i214 ɕin55 i214 tʂəŋ55
 i214 tsʰɿ35 i214 ɕyŋ35
-ər214 iɑŋ35 lai35 sɿ55
+əɻ214 iɑŋ35 lai35 sɿ55
 tɕin55 tɕin55 tɕiŋ55 tɕiŋ55
 pu51 tɕʰiɛn55 pu51 pəŋ55
 xuei55 tʂʅ55 i214 kuŋ55
 pi51 lai35 tɕi51 ʂəŋ55
-mu51 rən35 nai214 məŋ51
+mu51 ɻən35 nai214 məŋ51
 tʂuŋ51 uei35 y35 i214
 tʂɑu51 uei35 y35 i214
-ta51 rən35 tʂan51 tʂʅ55
+ta51 ɻən35 tʂan51 tʂʅ55
 tʂuŋ51 uei35 y35 i214
 ʂʅ35 uei35 fəŋ55 niɛn35
 tʂɑu51 uei35 y35 i214
@@ -3439,8 +3439,8 @@ tʂɑu51 uei35 y35 i214
 tɕiɛ35 pi214 nan35 ʂan55
 uei35 ʂʅ35 iɛn35 iɛn35
 xɤ51 xɤ51 ʂʅ55 in214
-min35 tɕy51 ər214 tʂan55
-iou55 ɕin55 ru35 tʰan35
+min35 tɕy51 əɻ214 tʂan55
+iou55 ɕin55 ɻu35 tʰan35
 pu51 kan214 ɕi51 tʰan35
 kuo35 tɕi51 tsʰu51 tʂan214
 xɤ35 yŋ51 pu35 tɕiɛn51
@@ -3465,22 +3465,22 @@ fu35 kuŋ55 fu35 tɕʰin55
 fu35 un51 fu35 ʂʅ51
 u51 uɑŋ214 tɕyn55 tsɿ214
 ʂʅ51 i35 ʂʅ51 i214
-u35 ɕiɑu214 rən35 tai51
+u35 ɕiɑu214 ɻən35 tai51
 suo214 suo214 in55 ia51
 tsɤ35 u35 xu55 ʂʅ51
 xɑu51 tʰiɛn55 pu51 yŋ55
 tɕiɑŋ51 tsʰɿ214 tɕy55 ɕyŋ55
 xɑu51 tʰiɛn55 pu35 xuei51
 tɕiɑŋ51 tsʰɿ214 ta51 li51
-tɕyn55 tsɿ214 ru35 tɕiɛ51
+tɕyn55 tsɿ214 ɻu35 tɕiɛ51
 pi214 min35 ɕin55 tɕʰyɛ51
-tɕyn55 tsɿ214 ru35 i35
+tɕyn55 tsɿ214 ɻu35 i35
 ɤ214 nu51 ʂʅ51 uei35
 pu35 tiɑu51 xɑu51 tʰiɛn55
 luan51 mi35 iou214 tiŋ51
 ʂʅ51 yɛ51 sɿ55 ʂəŋ55
 pi214 min35 pu51 niŋ35
-iou55 ɕin55 ru35 tʂʰəŋ35
+iou55 ɕin55 ɻu35 tʂʰəŋ35
 ʂuei35 piŋ214 kuo35 tʂʰəŋ35
 pu35 tsɿ51 uei35 tʂəŋ51
 tsʰu51 lɑu35 pai214 ɕiŋ51
@@ -3488,17 +3488,17 @@ tɕia51 pi214 sɿ51 mu214
 sɿ51 mu214 ɕiɑŋ51 liŋ214
 uo214 tʂan55 sɿ51 fɑŋ55
 tsʰu51 tsʰu51 mi35 suo214 tʂʰəŋ214
-fɑŋ55 mɑu51 ər214 ɤ214
-ɕiɑŋ55 ər214 mɑu35 i214
+fɑŋ55 mɑu51 əɻ214 ɤ214
+ɕiɑŋ55 əɻ214 mɑu35 i214
 tɕi51 i35 tɕi51 i51
-ru35 ɕiɑŋ55 tʂʰou35 i214
+ɻu35 ɕiɑŋ55 tʂʰou35 i214
 xɑu51 tʰiɛn55 pu51 pʰiŋ35
 uo214 uɑŋ35 pu51 niŋ35
 pu51 tʂʰəŋ35 tɕʰi35 ɕin55
 fu51 yɛn51 tɕʰi35 tʂəŋ55
 tɕia55 fu51 tsuo51 suŋ51
 i214 tɕiou55 uɑŋ35 ɕyŋ55
-ʂʅ51 ɤ35 ər214 ɕin55
+ʂʅ51 ɤ35 əɻ214 ɕin55
 i214 tʂʰu51 uan51 pɑŋ55
 tʂəŋ51 yɛ51 fan35 ʂuɑŋ55
 uo214 ɕin55 iou55 ʂɑŋ55
@@ -3520,7 +3520,7 @@ iou55 ɕin55 tɕʰyŋ35 tɕʰyŋ35
 niɛn51 uo214 u35 lu51
 min35 tʂʅ55 u35 ku55
 piŋ51 tɕʰi35 tʂʰən35 pʰu35
-ai55 uo214 rən35 sɿ55
+ai55 uo214 ɻən35 sɿ55
 y35 xɤ35 tsʰuŋ35 lu51
 tʂan55 u55 yɛn35 tʂʅ214
 y35 ʂei35 tʂʅ55 məŋ51
@@ -3529,7 +3529,7 @@ xou35 ɕin55 xou35 tʂəŋ55
 min35 tɕin55 fɑŋ55 tai51
 ʂʅ51 tʰiɛn55 məŋ51 məŋ51
 tɕi51 kʰɤ51 iou214 tiŋ51
-mi35 rən35 fu35 ʂəŋ51
+mi35 ɻən35 fu35 ʂəŋ51
 iou214 xuɑŋ35 ʂɑŋ51 ti51
 i55 ʂei35 yn35 tsəŋ55
 uei51 ʂan55 kai51 pei55
@@ -3546,20 +3546,20 @@ uei51 ti51 kai51 xou51
 pu51 kan214 pu51 tɕi35
 uei35 xɑu35 sɿ55 iɛn35
 iou214 lun35 iou214 tɕi214
-ai55 tɕin55 tʂʅ55 rən35
+ai55 tɕin55 tʂʅ55 ɻən35
 xu35 uei35 xuei55 i51
 tʂan55 pi214 pan214 tʰiɛn35
 iou214 uan214 tɕʰi35 tʰɤ51
 tʰiɛn55 tʂʅ55 u51 uo214
-ru35 pu51 uo214 kʰɤ51
+ɻu35 pu51 uo214 kʰɤ51
 pi214 tɕʰiou35 uo214 tsɤ35
-ru35 pu51 uo214 tɤ35
+ɻu35 pu51 uo214 tɤ35
 tʂʅ35 uo214 tʂʰou35 tʂʰou35
 i51 pu51 uo214 li51
 ɕin55 tʂʅ55 iou55 i214
-ru35 xuo51 tɕiɛ55 tʂʅ55
+ɻu35 xuo51 tɕiɛ55 tʂʅ55
 tɕin55 tsɿ55 tʂʅ55 tʂəŋ51
-xu35 ran35 li51 i214
+xu35 ɻan35 li51 i214
 liɑu35 tʂʅ55 fɑŋ55 iɑŋ35
 niŋ35 xuo51 miɛ51 tʂʅ55
 xɤ51 xɤ51 tsuŋ55 tʂou55
@@ -3567,13 +3567,13 @@ pɑu55 sɿ35 miɛ51 tʂʅ55
 tʂuŋ55 tɕʰi35 yŋ214 xuai35
 iou51 tɕyŋ214 in55 y214
 tɕʰi35 tʂʰɤ55 tɕi51 tsai214
-nai214 tɕʰi51 ər214 fu214
-tsai214 ʂu55 ər214 tsai214
+nai214 tɕʰi51 əɻ214 fu214
+tsai214 ʂu55 əɻ214 tsai214
 tɕʰiɑŋ55 puo35 tʂu51 y214
-u35 tɕʰi51 ər214 fu214
-yɛn35 y35 ər214 fu35
-ly214 ku51 ər214 pʰu35
-pu51 ʂu55 ər214 tsai214
+u35 tɕʰi51 əɻ214 fu214
+yɛn35 y35 əɻ214 fu35
+ly214 ku51 əɻ214 pʰu35
+pu51 ʂu55 əɻ214 tsai214
 tʂuŋ55 y35 tɕyɛ35 ɕiɛn214
 tsʰəŋ35 ʂʅ51 pu35 i51
 y35 tsai51 y35 tʂɑu214
@@ -3592,23 +3592,23 @@ tsʰɿ214 tsʰɿ214 pi214 iou214 u55
 su51 su51 fɑŋ55 iou214 ku214
 min35 tɕin55 tʂʅ55 u35 lu51
 tʰiɛn55 iɑu55 ʂʅ51 tʂuo35
-kɤ214 i214 fu51 rən35
+kɤ214 i214 fu51 ɻən35
 ai55 tsʰɿ214 tɕʰyŋ35 tu35
 ʂʅ35 yɛ51 tʂʅ55 tɕiɑu55
-ʂuo51 rʅ51 ɕin55 mɑu214
-rʅ51 iou214 ʂʅ35 tʂʅ55
+ʂuo51 ɻʅ51 ɕin55 mɑu214
+ɻʅ51 iou214 ʂʅ35 tʂʅ55
 i51 kʰuŋ214 tʂʅ55 tʂʰou214
-pi214 yɛ51 ər35 uei55
-tsʰɿ214 rʅ51 ər35 uei55
+pi214 yɛ51 əɻ35 uei55
+tsʰɿ214 ɻʅ51 əɻ35 uei55
 tɕin55 tsʰɿ214 ɕia51 min35
 i51 kʰuŋ214 tʂʅ55 ai55
-rʅ51 yɛ51 kɑu51 ɕyŋ55
+ɻʅ51 yɛ51 kɑu51 ɕyŋ55
 pu35 yŋ51 tɕʰi35 ɕiŋ35
 sɿ51 kuo35 u35 tʂəŋ51
 pu35 yŋ51 tɕʰi35 liɑŋ35
-pi214 yɛ51 ər35 ʂʅ35
+pi214 yɛ51 əɻ35 ʂʅ35
 tsɤ35 uei35 tɕʰi35 tʂʰɑŋ35
-tsʰɿ214 rʅ51 ər35 ʂʅ35
+tsʰɿ214 ɻʅ51 əɻ35 ʂʅ35
 y35 xɤ35 pu51 tsɑŋ55
 iɛ51 iɛ51 tʂən51 tiɛn35
 pu51 niŋ35 pu35 liŋ51
@@ -3616,7 +3616,7 @@ pai214 tʂʰuan55 fei51 tʰəŋ35
 ʂan55 tʂuŋ214 tsʰuei51 pəŋ55
 kɑu55 an51 uei35 ku214
 ʂən55 ku214 uei35 liŋ35
-ai35 tɕin55 tʂʅ55 rən35
+ai35 tɕin55 tʂʅ55 ɻən35
 xu35 tsʰan214 muo51 tʂʰəŋ35
 xuɑŋ35 fu51 tɕʰiŋ55 ʂʅ51
 fan55 uei35 sɿ55 tʰu35
@@ -3633,7 +3633,7 @@ pu51 tɕi35 uo214 mou35
 tʂʰɤ51 uo214 tɕʰiɑŋ35 u55
 tʰiɛn35 tsʰu51 u55 lai35
 yɛ55 y35 pu51 tɕʰiɑŋ55
-li214 tsɤ35 ran35 i214
+li214 tsɤ35 ɻan35 i214
 xuɑŋ35 fu51 kʰuŋ214 ʂəŋ51
 tsuo51 tou55 y35 ɕiɑŋ51
 tsɤ35 san55 iou214 ʂʅ51
@@ -3649,7 +3649,7 @@ tʂʰan35 kʰou214 ɕiɑu55 ɕiɑu55
 ɕia51 min35 tʂʅ55 niɛ51
 fei214 tɕiɑŋ51 tsɿ51 tʰiɛn55
 tsun214 tʰa51 pei55 tsəŋ55
-tʂʅ35 tɕiŋ51 iou35 rən35
+tʂʅ35 tɕiŋ51 iou35 ɻən35
 iou55 iou55 uo214 li214
 i51 kʰuŋ214 tʂʅ55 mei51
 sɿ51 fɑŋ55 iou214 ɕiɛn51
@@ -3666,7 +3666,7 @@ min35 tʰiɛn55 tɕi35 uei55
 fu35 ly51 fu35 tʰu35
 ʂɤ51 pi214 iou214 tsuei51
 tɕi51 fu35 tɕʰi35 ku55
-ruo51 tsʰɿ214 u35 tsuei51
+ɻuo51 tsʰɿ214 u35 tsuei51
 lun35 ɕy55 i214 pʰu55
 tʂou55 tsuŋ55 tɕi51 miɛ51
 mi214 suo214 tʂʅ214 li51
@@ -3678,18 +3678,18 @@ pɑŋ55 tɕyn55 tʂu55 xou35
 muo51 kʰən214 tʂɑu55 ɕi55
 ʂu51 yɛ55 ʂʅ51 tsɑŋ55
 fu51 tʂʰu55 uei35 ɤ214
-ru35 xɤ35 xɑu51 tʰiɛn55
+ɻu35 xɤ35 xɑu51 tʰiɛn55
 pi51 iɛn35 pu35 ɕin51
-ru35 pi214 ɕiŋ35 mai51
+ɻu35 pi214 ɕiŋ35 mai51
 tsɤ35 mi35 suo214 tʂən55
 fan35 pai214 tɕyn55 tsɿ214
-kɤ51 tɕiŋ51 ər214 ʂən55
+kɤ51 tɕiŋ51 əɻ214 ʂən55
 xu35 pu51 ɕiɑŋ55 uei51
 pu51 uei51 y35 tʰiɛn55
-ruŋ35 tʂʰəŋ35 pu35 tʰuei51
+ɻuŋ35 tʂʰəŋ35 pu35 tʰuei51
 tɕi55 tʂʰəŋ35 pu35 suei51
 tsʰəŋ35 uo214 ɕiɛ51 y51
-tsʰan214 tsʰan214 rʅ51 tsʰuei51
+tsʰan214 tsʰan214 ɻʅ51 tsʰuei51
 fan35 pai214 tɕyn55 tsɿ214
 muo51 kʰən214 yŋ51 ɕyn51
 tʰiŋ55 iɛn35 tsɤ35 ta55
@@ -3698,7 +3698,7 @@ ai55 tsai55 pu51 nəŋ35 iɛn35
 fei214 ʂɤ35 ʂʅ51 tʂʰu55
 uei35 kuŋ55 ʂʅ51 tsʰuei51
 kɤ55 i214 nəŋ35 iɛn35
-tɕʰiɑu214 iɛn35 ru35 liou35
+tɕʰiɑu214 iɛn35 ɻu35 liou35
 pi214 kuŋ55 tʂʰu214 ɕiou55
 uei35 yɛ55 y35 ʂʅ51
 kʰuŋ214 tɕi35 tɕʰiɛ214 tai51
@@ -3706,16 +3706,16 @@ yn35 pu51 kʰɤ214 ʂʅ214
 tɤ35 tsuei51 y35 tʰiɛn55 tsɿ214
 i51 yn35 kʰɤ214 ʂʅ214
 yɛn51 tɕi35 pʰəŋ35 iou214
-uei51 ər214 tɕʰiɛn55 y35 uɑŋ35 tu55
+uei51 əɻ214 tɕʰiɛn55 y35 uɑŋ35 tu55
 yɛ55 y35 uei51 iou214 ʂʅ51 tɕia55
 ʂu214 sɿ55 tɕʰi51 ɕyɛ51
 u35 iɛn35 pu35 tɕi51
-ɕi55 ər214 tʂʰu55 tɕy55
-ʂei35 tsʰuŋ55 tsuo51 ər214 ʂʅ51
+ɕi55 əɻ214 tʂʰu55 tɕy55
+ʂei35 tsʰuŋ55 tsuo51 əɻ214 ʂʅ51
 min35 tʰiɛn55 tɕi35 uei55
 fu55 y35 ɕia51 tʰu214
 mou35 iou35 xuei35 y51
-xɤ35 rʅ51 sɿ55 tɕy214
+xɤ35 ɻʅ51 sɿ55 tɕy214
 mou35 tsɑŋ55 pu51 tsʰuŋ35
 pu51 tsɑŋ55 fu51 yŋ51
 uo214 ʂʅ51 mou35 iou35
@@ -3734,65 +3734,65 @@ mou35 fu55 kʰuŋ214 tuo55
 ʂʅ51 yŋ51 pu51 tɕi35
 fa55 iɛn35 iŋ35 tʰiŋ35
 ʂei35 kan214 tʂʅ35 tɕʰi35 tɕiou51
-ru35 fei214 ɕiŋ35 mai51 mou35
+ɻu35 fei214 ɕiŋ35 mai51 mou35
 ʂʅ51 yŋ51 pu51 tɤ35 y35 tɑu51
 ai55 tsai55 uei35 iou35
 fei214 ɕiɛn55 min35 ʂʅ51 tʂʰəŋ35
 fei214 ta51 iou35 ʂʅ51 tɕiŋ55
-uei35 ər214 iɛn35 ʂʅ51 tʰiŋ55
-uei35 ər214 iɛn35 ʂʅ51 tʂəŋ55
-ru35 pi214 tʂu51 ʂʅ51 y51 tɑu51
+uei35 əɻ214 iɛn35 ʂʅ51 tʰiŋ55
+uei35 əɻ214 iɛn35 ʂʅ51 tʂəŋ55
+ɻu35 pi214 tʂu51 ʂʅ51 y51 tɑu51
 mou35 ʂʅ51 yŋ51 pu51 kʰuei51 y35 tʂʰəŋ35
 kuo35 suei55 mi35 tʂʅ214
 xuo51 ʂəŋ51 xuo51 fou214
 min35 suei55 mi35 xu55
 xuo51 tʂɤ35 xuo51 mou35
 xuo51 su51 xuo51 ai51
-ru35 pi214 tɕʰyɛn35 liou35
+ɻu35 pi214 tɕʰyɛn35 liou35
 u35 lun35 ɕy55 i214 pai51
 pu51 kan214 pɑu51 xu55
 pu51 kan214 fəŋ35 xɤ35
-rən35 tʂʅ55 tɕʰi35 i51
+ɻən35 tʂʅ55 tɕʰi35 i51
 muo51 tʂʅ55 tɕʰi51 tʰa55
 tʂan51 tʂan51 tɕiŋ55 tɕiŋ55
-ru35 lin35 ʂən55 yɛn55
-ru35 ly214 puo35 piŋ55
+ɻu35 lin35 ʂən55 yɛn55
+ɻu35 ly214 puo35 piŋ55
 uan214 pi214 miŋ35 tɕiou55
 xan51 fei55 li51 tʰiɛn55
 uo214 ɕin55 iou55 ʂɑŋ55
-niɛn51 ɕi55 ɕiɛn55 rən35
+niɛn51 ɕi55 ɕiɛn55 ɻən35
 miŋ35 fa55 pu35 mei51
-iou214 xuai35 ər51 rən35
-rən35 tʂʅ55 tɕʰi35 ʂəŋ51
+iou214 xuai35 əɻ51 ɻən35
+ɻən35 tʂʅ55 tɕʰi35 ʂəŋ51
 in214 tɕiou214 un55 kʰɤ51
 pi214 xun55 pu51 tʂʅ55
-i55 tsuei51 rʅ51 fu51
-kɤ51 tɕiŋ51 ər214 i35
+i55 tsuei51 ɻʅ51 fu51
+kɤ51 tɕiŋ51 əɻ214 i35
 tʰiɛn55 miŋ51 pu35 iou51
 tʂuŋ55 yɛn35 iou214 ʂu55
 ʂu51 min35 tsʰai214 tʂʅ55
 miŋ35 liŋ35 iou214 tsɿ214
 kuo214 luo214 fu51 tʂʅ55
-tɕiɑu51 xuei51 ər214 tsɿ214
+tɕiɑu51 xuei51 əɻ214 tsɿ214
 ʂʅ51 ku214 sɿ51 tʂʅ55
 tʰi35 pi214 tɕi35 liŋ35
 tsai214 fei55 tsai214 miŋ35
-uo214 rʅ51 sɿ55 mai51
-ər35 yɛ51 sɿ55 tʂəŋ55
+uo214 ɻʅ51 sɿ55 mai51
+əɻ35 yɛ51 sɿ55 tʂəŋ55
 su51 ɕiŋ55 iɛ51 mei51
-u35 tʰiɛn214 ər214 suo214 ʂəŋ55
+u35 tʰiɛn214 əɻ214 suo214 ʂəŋ55
 tɕiɑu55 tɕiɑu55 sɑŋ55 xu51
 ly51 tʂʰɑŋ35 tʂuo35 su51
 ai55 uo214 tʰiɛn35 kua214
 i35 an51 i35 y51
 uo51 su51 tʂʰu55 pu214
 tsɿ51 xɤ35 nəŋ35 ku214
-un55 un55 kuŋ55 rən35
-ru35 tɕi55 y35 mu51
+un55 un55 kuŋ55 ɻən35
+ɻu35 tɕi55 y35 mu51
 tʂuei51 tʂuei51 ɕiɑu214 ɕin55
-ru35 lin35 y35 ku214
+ɻu35 lin35 y35 ku214
 tʂan51 tʂan51 tɕiŋ55 tɕiŋ55
-ru35 ly214 puo35 piŋ55
+ɻu35 ly214 puo35 piŋ55
 piɛn51 pi214 y35 sɿ55
 kuei55 fei55 ti55 ti55
 min35 muo51 pu51 ku214
@@ -3800,15 +3800,15 @@ uo214 tu35 y35 li35
 xɤ35 ku55 y35 tʰiɛn55
 uo214 tsuei51 i55 xɤ35
 ɕin55 tʂʅ55 iou55 i214
-yn35 ru35 tʂʅ55 xɤ35
+yn35 ɻu35 tʂʅ55 xɤ35
 ti35 ti35 tʂou55 tɑu51
 tɕy55 uei35 mɑu51 tsʰɑu214
 uo214 ɕin55 iou55 ʂɑŋ55
-ni51 iɛn55 ru35 ʂou214
+ni51 iɛn55 ɻu35 ʂou214
 uei35 mei51 yŋ214 tʰan51
 uei35 iou55 yŋ51 lɑu214
 ɕin55 tʂʅ55 iou55 i214
-tʂʰən51 ru35 tɕi35 ʂou214
+tʂʰən51 ɻu35 tɕi35 ʂou214
 uei35 sɑŋ55 y35 tsɿ214
 pi51 kuŋ55 tɕiŋ51 tʂʅ214
 mi35 tʂan55 fei214 fu51
@@ -3835,14 +3835,14 @@ tɕi35 yŋ51 u35 tʂʅ55
 niŋ35 muo51 tʂʅ55 tʂʅ55
 ɕiɑŋ55 pi214 tʰou35 tʰu51
 ʂɑŋ51 xuo51 ɕiɛn55 tʂʅ55
-ɕiŋ35 iou214 sɿ214 rən35
+ɕiŋ35 iou214 sɿ214 ɻən35
 ʂɑŋ51 xuo51 tɕin214 tʂʅ55
 tɕyn55 tsɿ214 piŋ214 ɕin55
-uei35 tɕʰi35 rən214 tʂʅ55
+uei35 tɕʰi35 ɻən214 tʂʅ55
 ɕin55 tʂʅ55 iou55 i214
 tʰi51 tɕi51 yn214 tʂʅ55
 tɕyn55 tsɿ214 ɕin51 tʂʰan35
-ru35 xuo51 tʂʰou35 tʂʅ55
+ɻu35 xuo51 tʂʰou35 tʂʅ55
 tɕyn55 tsɿ214 pu51 xuei51
 pu51 ʂu55 tɕiou55 tʂʅ55
 fa35 mu51 tɕi214 i214
@@ -3852,7 +3852,7 @@ y35 tʂʅ55 tʰuo35 i214
 muo51 kɑu55 fei214 ʂan55
 muo51 tɕyn51 fei214 tɕʰyɛn35
 tɕyn55 tsɿ214 u35 i51 iou35 iɛn35
-ər214 ʂu214 y35 yɛn35
+əɻ214 ʂu214 y35 yɛn35
 u35 ʂʅ51 uo214 liɑŋ35
 u35 fa55 uo214 kou214
 uo214 kuŋ55 pu51 yɛ51
@@ -3860,7 +3860,7 @@ xuɑŋ35 ɕy51 uo214 xou51
 iou55 iou55 xɑu51 tʰiɛn55
 yɛ55 fu51 mu214 tɕy55
 u35 tsuei51 u35 ku55
-luan51 ru35 tsʰɿ214 xu55
+luan51 ɻu35 tsʰɿ214 xu55
 xɑu51 tʰiɛn55 i214 uei55
 y35 ʂən51 u35 tsuei51
 xɑu51 tʰiɛn55 tʰai51 ku55
@@ -3869,9 +3869,9 @@ luan51 tʂʅ55 tʂʰu55 ʂəŋ55
 tɕiɛn51 ʂʅ214 tɕi51 xan35
 luan51 tʂʅ55 iou51 ʂəŋ55
 tɕyn55 tsɿ214 ɕin51 tʂʰan35
-tɕyn55 tsɿ214 ru35 nu51
+tɕyn55 tsɿ214 ɻu35 nu51
 luan51 ʂu51 tʂʰuan35 tɕy214
-tɕyn55 tsɿ214 ru35 tʂʅ214
+tɕyn55 tsɿ214 ɻu35 tʂʅ214
 luan51 ʂu51 tʂʰuan35 i214
 tɕyn55 tsɿ214 ly214 məŋ35
 luan51 ʂʅ51 yŋ51 tʂʰɑŋ35
@@ -3884,46 +3884,46 @@ uei35 uɑŋ35 tʂʅ55 tɕʰyŋ35
 i51 i51 tɕʰin214 miɑu51
 tɕyn55 tsɿ214 tsuo51 tʂʅ55
 tʂʅ51 tʂʅ51 ta51 iou35
-ʂəŋ51 rən35 muo51 tʂʅ55
-tʰa55 rən35 iou214 ɕin55
+ʂəŋ51 ɻən35 muo51 tʂʅ55
+tʰa55 ɻən35 iou214 ɕin55
 y35 tsʰun214 tuo35 tʂʅ55
 yɛ51 yɛ51 tʂʰan35 tʰu51
 y51 tɕʰyɛn214 xuo51 tʂʅ55
-rən214 ran214 rou35 mu51
+ɻən214 ɻan214 ɻou35 mu51
 tɕyn55 tsɿ214 ʂu51 tʂʅ55
 uɑŋ214 lai35 ɕiŋ35 iɛn35
 ɕin55 iɛn55 ʂu55 tʂʅ55
 i35 i35 ʂuo51 iɛn35
 tʂʰu55 tsɿ51 kʰou214 i214
-tɕʰiɑu214 iɛn35 ru35 xuɑŋ35
+tɕʰiɑu214 iɛn35 ɻu35 xuɑŋ35
 iɛn35 tʂʅ55 xou51 i214
-pi214 xɤ35 rən35 sɿ55
+pi214 xɤ35 ɻən35 sɿ55
 tɕy55 xɤ35 tʂʅ55 mi35
 u35 tɕʰyɛn35 u35 yŋ214
 tʂʅ35 uei35 luan51 tɕiɛ55
 tɕi51 uei55 tɕʰiɛ214 tʂuŋ214
-ər214 yŋ214 i55 xɤ51
+əɻ214 yŋ214 i55 xɤ51
 uei35 iou35 tɕiɑŋ55 tuo55
-ər214 tɕy55 tʰu35 tɕi214 xɤ35
-pi214 xɤ35 rən35 sɿ55
+əɻ214 tɕy55 tʰu35 tɕi214 xɤ35
+pi214 xɤ35 ɻən35 sɿ55
 tɕʰi35 ɕin55 kʰuŋ214 tɕiɛn55
 xu35 ʂʅ51 uo214 liɑŋ35
-pu35 ru51 uo214 mən35
+pu35 ɻu51 uo214 mən35
 i55 ʂei35 yn35 tsʰuŋ35
 uei35 pɑu51 tʂʅ55 yn35
-ər51 rən35 tsʰuŋ35 ɕiŋ35
+əɻ51 ɻən35 tsʰuŋ35 ɕiŋ35
 ʂei35 uei35 tsʰɿ214 xuo51
 xu35 ʂʅ51 uo214 liɑŋ35
-pu35 ru51 iɛn51 uo214
-ʂʅ214 tʂɤ214 pu51 ru35 tɕin55
+pu35 ɻu51 iɛn51 uo214
+ʂʅ214 tʂɤ214 pu51 ɻu35 tɕin55
 yn35 pu51 uo214 xɤ35
-pi214 xɤ35 rən35 sɿ55
+pi214 xɤ35 ɻən35 sɿ55
 xu35 ʂʅ51 uo214 tʂʰən35
 uo214 un35 tɕʰi35 ʂəŋ55
 pu35 tɕiɛn51 tɕʰi35 ʂən55
-pu35 kʰuei51 y35 rən35
+pu35 kʰuei51 y35 ɻən35
 pu35 uei51 y35 tʰiɛn55
-pi214 xɤ35 rən35 sɿ55
+pi214 xɤ35 ɻən35 sɿ55
 tɕʰi35 uei35 pʰiɑu55 fəŋ55
 xu35 pu35 tsɿ51 pei214
 xu35 pu35 tsɿ51 nan35
@@ -3931,52 +3931,52 @@ xu35 ʂʅ51 uo214 liɑŋ35
 tʂʅ214 tɕiɑu214 uo214 ɕin55
 nan35 tʂʅ55 an55 ɕiŋ35
 i51 pu51 xuɑŋ35 ʂɤ51
-ər214 tʂʅ55 tɕi35 ɕiŋ35
-xuɑŋ35 tʂʅ55 ər214 tʂʰɤ55
+əɻ214 tʂʅ55 tɕi35 ɕiŋ35
+xuɑŋ35 tʂʅ55 əɻ214 tʂʰɤ55
 i55 tʂɤ214 tʂʅ55 lai35
 yn35 xɤ35 tɕʰi35 ɕy55
-ər214 xai35 ər35 ru51
+əɻ214 xai35 əɻ35 ɻu51
 uo214 ɕin55 i51 iɛ214
-xuan35 ər35 pu35 ru51
+xuan35 əɻ35 pu35 ɻu51
 fou214 nan35 tʂʅ55 iɛ214
 i55 tʂɤ214 tʂʅ55 lai35
 pi214 uo214 tɕʰi35 iɛ214
 puo35 ʂʅ51 tʂʰuei55 ɕyn55
 tʂuŋ51 ʂʅ51 tʂʰuei55 tʂʰʅ35
-tɕi35 ər214 ru35 kuan51
+tɕi35 əɻ214 ɻu35 kuan51
 liɑŋ51 pu51 uo214 tʂʅ55
 tʂʰu55 tsʰɿ214 san55 u51
-i214 tsu214 ər214 sɿ55
+i214 tsu214 əɻ214 sɿ55
 uei35 kuei214 uei35 y51
 tsɤ35 pu51 kʰɤ214 tɤ35
 iou214 tʰiɛn214 miɛn51 mu51
-ʂʅ51 rən35 uɑŋ214 tɕi35
+ʂʅ51 ɻən35 uɑŋ214 tɕi35
 tsuo51 tsʰɿ214 xɑu214 kɤ55
 i214 tɕi35 fan214 tsʰɤ51
 tɕʰi55 ɕi55 fei214 ɕi55
 tʂʰəŋ35 ʂʅ51 pei51 tɕin214
-pi214 tsən51 rən35 tʂɤ214
+pi214 tsən51 ɻən35 tʂɤ214
 i51 i214 ta51 ʂən35
 tʂʰʅ214 ɕi55 tʂʰʅ214 ɕi55
 tʂʰəŋ35 ʂʅ51 nan35 tɕi55
-pi214 tsən51 rən35 tʂɤ214
+pi214 tsən51 ɻən35 tʂɤ214
 ʂei35 ʂʅ51 y35 mou35
 tɕʰi55 tɕʰi55 pʰiɛn55 pʰiɛn55
-mou35 y51 tsən51 rən35
-ʂən51 ər214 iɛn35 iɛ214
-uei51 ər214 pu35 ɕin51
+mou35 y51 tsən51 ɻən35
+ʂən51 əɻ214 iɛn35 iɛ214
+uei51 əɻ214 pu35 ɕin51
 tɕiɛ35 tɕiɛ35 fan55 fan55
 mou35 y51 tsən51 iɛn35
-tɕʰi214 pu51 ər214 ʂou51
+tɕʰi214 pu51 əɻ214 ʂou51
 tɕi51 tɕʰi35 ny214 tɕʰiɛn55
-tɕiɑu55 rən35 xɑu214 xɑu214
-lɑu35 rən35 tsʰɑu214 tsʰɑu214
+tɕiɑu55 ɻən35 xɑu214 xɑu214
+lɑu35 ɻən35 tsʰɑu214 tsʰɑu214
 tsʰɑŋ55 tʰiɛn55 tsʰɑŋ55 tʰiɛn55
-ʂʅ51 pi214 tɕiɑu55 rən35
-tɕin55 pi51 lɑu35 rən35
-pi214 tsən51 rən35 tʂɤ214
+ʂʅ51 pi214 tɕiɑu55 ɻən35
+tɕin55 pi51 lɑu35 ɻən35
+pi214 tsən51 ɻən35 tʂɤ214
 ʂei35 ʂʅ51 y35 mou35
-tɕʰy214 pi214 tsən51 rən35
+tɕʰy214 pi214 tsən51 ɻən35
 tʰou35 pi51 tʂʰai35 xu214
 tʂʰai35 xu214 pu51 ʂʅ35
 tʰou35 pi51 iou214 pei214
@@ -3984,14 +3984,14 @@ iou214 pei214 pu35 ʂou51
 tʰou35 pi51 iou214 xɑu51
 iɑŋ35 yɛn35 tʂʅ55 tɑu51
 i214 y35 mu214 tɕʰiou55
-sɿ51 rən35 məŋ51 tsɿ214
+sɿ51 ɻən35 məŋ51 tsɿ214
 tsuo51 uei35 tsʰɿ214 ʂʅ55
 fan35 pai214 tɕyn55 tsɿ214
-tɕiŋ51 ər35 tʰiŋ55 tʂʅ55
+tɕiŋ51 əɻ35 tʰiŋ55 tʂʅ55
 ɕi35 ɕi35 ku214 fəŋ55
 uei35 fəŋ55 tɕi35 y214
 tɕiɑŋ55 kʰuŋ214 tɕiɑŋ55 tɕy51
-uei35 y35 y214 ru214
+uei35 y35 y214 ɻu214
 tɕiɑŋ55 an55 tɕiɑŋ55 tɕy51
 ny214 tʂuan214 tɕʰi51 y35
 ɕi35 ɕi35 ku214 fəŋ55
@@ -3999,7 +3999,7 @@ uei35 fəŋ55 tɕi35 tʰuei35
 tɕiɑŋ55 kʰuŋ214 tɕiɑŋ55 tɕy51
 tʂʅ51 y35 y35 xuai35
 tɕiɑŋ55 an55 tɕiɑŋ55 lɤ51
-tɕʰi51 y35 ru35 i35
+tɕʰi51 y35 ɻu35 i35
 ɕi35 ɕi35 ku214 fəŋ55
 uei35 ʂan55 tsʰuei55 uei35
 u35 tsʰɑu214 pu51 sɿ214
@@ -4017,17 +4017,17 @@ ai55 ai55 fu51 mu214
 pʰiŋ35 tʂʅ55 tɕʰiŋ51 i214
 uei35 lei35 tʂʅ55 tʂʰʅ214
 ɕiɛn55 min35 tʂʅ55 ʂəŋ55
-pu51 ru35 sɿ214 tʂʅ55 tɕiou214 i214
+pu51 ɻu35 sɿ214 tʂʅ55 tɕiou214 i214
 u35 fu51 xɤ35 xu51
 u35 mu214 xɤ35 ʂʅ51
 tʂʰu55 tsɤ35 ɕiɛn35 ɕy51
-ru51 tsɤ35 mi35 tʂʅ51
+ɻu51 tsɤ35 mi35 tʂʅ51
 fu51 ɕi55 ʂəŋ55 uo214
 mu214 ɕi55 tɕy55 uo214
 fu214 uo214 tʂʰu51 uo214
 tʂʰɑŋ35 uo214 y51 uo214
 ku51 uo214 fu51 uo214
-tʂʰu55 ru51 fu51 uo214
+tʂʰu55 ɻu51 fu51 uo214
 y51 pɑu51 tʂʅ55 tɤ35
 xɑu51 tʰiɛn55 uɑŋ214 tɕi35
 nan35 ʂan55 liɛ51 liɛ51
@@ -4040,10 +4040,10 @@ min35 muo51 pu51 ku214
 uo214 tu35 pu51 tsʰu51
 iou214 məŋ35 kuei214 sun55
 iou214 tɕiou51 tɕi35 pi214
-tʂou55 tɑu51 ru35 ti214
-tɕʰi35 tʂʅ35 ru35 ʂʅ214
+tʂou55 tɑu51 ɻu35 ti214
+tɕʰi35 tʂʅ35 ɻu35 ʂʅ214
 tɕyn55 tsɿ214 suo214 ly214
-ɕiɑu214 rən35 suo214 ʂʅ51
+ɕiɑu214 ɻən35 suo214 ʂʅ51
 tɕyɛn51 iɛn35 ku51 tʂʅ55
 ʂan55 iɛn55 tʂʰu55 ʂuɑŋ55
 ɕiɑu214 tuŋ55 ta51 tuŋ55
@@ -4057,18 +4057,18 @@ tɕi51 uɑŋ214 tɕi51 lai35
 iou214 liɛ51 kuei214 tɕʰyɛn35
 u35 tɕin51 xuo51 ɕin55
 tɕʰi51 tɕʰi51 u51 tʰan51
-ai55 uo214 tan51 rən35
+ai55 uo214 tan51 ɻən35
 ɕin55 ʂʅ51 xuo51 ɕin55
 ʂɑŋ51 kʰɤ214 tsai214 iɛ214
-ai55 uo214 tan51 rən35
+ai55 uo214 tan51 ɻən35
 i51 kʰɤ214 ɕi55 iɛ214
-tuŋ55 rən35 tʂʅ55 tsɿ214
+tuŋ55 ɻən35 tʂʅ55 tsɿ214
 tʂʅ35 lɑu35 pu51 lai35
-ɕi55 rən35 tʂʅ55 tsɿ214
+ɕi55 ɻən35 tʂʅ55 tsɿ214
 tsʰan51 tsʰan51 i55 fu35
-tʂou55 rən35 tʂʅ55 tsɿ214
+tʂou55 ɻən35 tʂʅ55 tsɿ214
 ɕyŋ35 pʰi35 ʂʅ51 tɕʰiou35
-sɿ55 rən35 tʂʅ55 tsɿ214
+sɿ55 ɻən35 tʂʅ55 tsɿ214
 pai214 liɑu35 ʂʅ51 ʂʅ51
 xuo51 i214 tɕʰi35 tɕiou214
 pu51 i214 tɕʰi35 tɕiɑŋ55
@@ -4077,7 +4077,7 @@ pu51 i214 tɕʰi35 tʂʰɑŋ35
 uei35 tʰiɛn55 iou214 xan51
 tɕiɛn55 i51 iou214 kuɑŋ55
 tɕʰi35 pi214 tʂʅ55 ny214
-tʂuŋ55 rʅ51 tɕʰi55 ɕiɑŋ55
+tʂuŋ55 ɻʅ51 tɕʰi55 ɕiɑŋ55
 suei55 tsɤ35 tɕʰi55 ɕiɑŋ55
 pu51 tʂʰəŋ35 pɑu51 tʂɑŋ55
 xuan214 pi214 tɕʰiɛn55 niou35
@@ -4096,13 +4096,13 @@ uei35 pei214 iou214 tou214
 ɕi55 piŋ214 tʂʅ55 tɕiɛ55
 sɿ51 yɛ51 uei35 ɕia51
 liou51 yɛ51 tsʰu35 ʂu214
-ɕiɛn55 tsu214 fei214 rən35
-xu35 niŋ35 rən214 y35
-tɕʰiou55 rʅ51 tɕʰi55 tɕʰi55
+ɕiɛn55 tsu214 fei214 ɻən35
+xu35 niŋ35 ɻən214 y35
+tɕʰiou55 ɻʅ51 tɕʰi55 tɕʰi55
 pai214 xuei51 tɕy51 fei35
 luan51 li35 muo51 i214
 yɛn35 tɕʰi35 ʂʅ51 kuei55
-tuŋ55 rʅ51 liɛ51 liɛ51
+tuŋ55 ɻʅ51 liɛ51 liɛ51
 pʰiɑu55 fəŋ55 fa55 fa55
 min35 muo51 pu51 ku214
 uo214 tu35 xɤ35 xai51
@@ -4112,7 +4112,7 @@ fei51 uei35 tsʰan35 tsei35
 muo51 tʂʅ55 tɕʰi35 iou35
 ɕiɑŋ55 pi214 tɕʰyɛn35 ʂuei214
 tsai214 tɕʰiŋ55 tsai214 tʂuo35
-uo214 rʅ51 kou51 xuo51
+uo214 ɻʅ51 kou51 xuo51
 xɤ35 yn35 nəŋ35 ku214
 tʰɑu55 tʰɑu55 tɕiɑŋ55 xan51
 nan35 kuo35 tʂʅ55 tɕi51
@@ -4154,7 +4154,7 @@ xuo51 tɕʰi55 tʂʰʅ35 iɛn214 iɑŋ214
 xuo51 uɑŋ35 ʂʅ51 iɑŋ55 tʂɑŋ214
 xuo51 tʂan51 lɤ51 in214 tɕiou214
 xuo51 tsʰan214 tsʰan214 uei51 tɕiou51
-xuo51 tʂʰu55 ru51 fəŋ55 i51
+xuo51 tʂʰu55 ɻu51 fəŋ55 i51
 xuo51 mi35 ʂʅ51 pu51 uei35
 u35 tɕiɑŋ55 ta51 tʂʰɤ55
 tʂʅ214 tsɿ51 tʂʰən35 ɕi55
@@ -4172,64 +4172,64 @@ miŋ35 miŋ35 ʂɑŋ51 tʰiɛn55
 tʂɑu51 lin35 ɕia51 tʰu214
 uo214 tʂəŋ55 tsʰu35 ɕi55
 tʂʅ51 y35 tɕʰiou35 iɛ51
-ər51 yɛ51 tʂʰu55 tɕi35
+əɻ51 yɛ51 tʂʰu55 tɕi35
 tsai214 li35 xan35 ʂu214
 ɕin55 tʂʅ55 iou55 i214
 tɕʰi35 tu35 ta51 kʰu214
-niɛn51 pi214 kuŋ51 rən35
-tʰi51 liŋ35 ru35 y214
+niɛn51 pi214 kuŋ51 ɻən35
+tʰi51 liŋ35 ɻu35 y214
 tɕʰi35 pu51 xuai35 kuei55
 uei51 tsʰɿ214 tsuei51 ku214
 ɕi55 uo214 uɑŋ51 i214
-rʅ51 yɛ51 fɑŋ55 tʂʰu35
+ɻʅ51 yɛ51 fɑŋ55 tʂʰu35
 xɤ35 yn35 tɕʰi35 xuan35
 suei51 y51 yn35 muo51
 niɛn51 uo214 tu35 ɕi55
 uo214 ʂʅ51 kʰuŋ214 ʂu51
 ɕin55 tʂʅ55 iou55 i214
 tan51 uo214 pu51 ɕia35
-niɛn51 pi214 kuŋ51 rən35
+niɛn51 pi214 kuŋ51 ɻən35
 tɕyɛn51 tɕyɛn51 xuai35 ku51
 tɕʰi214 pu51 xuai35 kuei55
 uei51 tsʰɿ214 tɕʰiɛn214 nu51
 ɕi55 uo214 uɑŋ214 i214
-rʅ51 yɛ51 fɑŋ55 ɑu51
+ɻʅ51 yɛ51 fɑŋ55 ɑu51
 xɤ35 yn35 tɕʰi35 xuan35
 tʂəŋ51 ʂʅ51 y51 tsʰu51
 suei51 ʂʅ51 yn35 muo51
 tsʰai214 ɕiɑu55 xuo51 ʂu55
 ɕin55 tʂʅ55 iou55 i214
 tsɿ51 i35 i55 tɕʰi55
-niɛn51 pi214 kuŋ51 rən35
+niɛn51 pi214 kuŋ51 ɻən35
 ɕiŋ55 iɛn35 tʂʰu55 su51
 tɕʰi214 pu51 xuai35 kuei55
 uei51 tsʰɿ214 fan214 fu51
-tɕiɛ55 ər214 tɕyn55 tsɿ214
+tɕiɛ55 əɻ214 tɕyn55 tsɿ214
 u35 xəŋ35 an55 tʂʰu214
-tɕiŋ51 kuŋ51 ər214 uei51
+tɕiŋ51 kuŋ51 əɻ214 uei51
 tʂəŋ51 tʂʅ35 ʂʅ51 y35
 ʂən35 tʂʅ55 tʰiŋ55 tʂʅ55
 ʂʅ51 ku214 i214 ny214
-tɕiɛ55 ər214 tɕyn55 tsɿ214
+tɕiɛ55 əɻ214 tɕyn55 tsɿ214
 u35 xəŋ35 an55 ɕi55
-tɕiŋ51 kuŋ51 ər214 uei51
+tɕiŋ51 kuŋ51 əɻ214 uei51
 xɑu214 ʂʅ51 tʂəŋ51 tʂʅ35
 ʂən35 tʂʅ55 tʰiŋ55 tʂʅ55
-tɕiɛ51 ər214 tɕiŋ214 fu35
+tɕiɛ51 əɻ214 tɕiŋ214 fu35
 ku214 tʂuŋ55 tɕiɑŋ55 tɕiɑŋ55
 xuai35 ʂuei214 tʰɑŋ55 tʰɑŋ55
 iou55 ɕin55 tɕʰiɛ214 ʂɑŋ55
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 xuai35 yn214 pu35 uɑŋ51
 ku214 tʂuŋ55 tɕiɛ55 tɕiɛ55
 xuai35 ʂuei214 tɕiɛ55 tɕiɛ55
 iou55 ɕin55 tɕʰiɛ214 pei55
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 tɕʰi35 tɤ35 pu51 xuei35
 ku214 tʂuŋ55 fa35 kɑu55
 xuai35 iou214 san55 tʂou55
 iou55 ɕin55 tɕʰiɛ214 tʂou35
-ʂu55 rən35 tɕyn55 tsɿ214
+ʂu55 ɻən35 tɕyn55 tsɿ214
 tɕʰi35 tɤ35 pu51 iou35
 ku214 tʂuŋ55 tɕʰin55 tɕʰin55
 ku214 sɤ51 ku214 sɤ51
@@ -4249,7 +4249,7 @@ i214 xəŋ55 i214 sɿ51
 i214 tʰuo214 i214 iou51
 i214 tɕiɛ51 tɕiŋ214 fu35
 tɕi51 tɕi51 tɕʰiɑŋ55 tɕʰiɑŋ55
-tɕiɛ35 ər214 niou35 iɑŋ35
+tɕiɛ35 əɻ214 niou35 iɑŋ35
 i214 uɑŋ214 tʂəŋ55 tʂʰɑŋ35
 xuo51 puo55 xuo51 xəŋ55
 xuo51 sɿ51 xuo51 tɕiɑŋ55
@@ -4278,11 +4278,11 @@ kuŋ55 tʂu51 tʂʅ51 kɑu51
 tsʰu35 lai51 ɕiɑu51 sun55
 pi51 fən55 ɕiɑu51 sɿ51
 ʂən35 ʂʅ51 in214 ʂʅ35
-pu214 ər214 pai214 fu35
-ru35 tɕi55 ru35 ʂʅ51
+pu214 əɻ214 pai214 fu35
+ɻu35 tɕi55 ɻu35 ʂʅ51
 tɕi51 tɕʰi35 tɕi51 tɕi51
 tɕi51 kʰuɑŋ55 tɕi51 tʂʰʅ51
-yŋ214 ɕi55 ər214 tɕi35
+yŋ214 ɕi55 əɻ214 tɕi35
 ʂʅ35 uan51 ʂʅ35 i51
 li214 i35 tɕi51 pei51
 tʂuŋ55 ku214 tɕi51 tɕiɛ51
@@ -4296,9 +4296,9 @@ tʂu55 tsai214 tɕyn55 fu51
 fei51 tʂʰɤ51 pu51 tʂʰʅ35
 tʂu55 fu51 ɕyŋ55 ti51
 pei51 iɛn35 iɛn55 sɿ55
-yɛ51 tɕy51 ru51 tsou51
+yɛ51 tɕy51 ɻu51 tsou51
 i214 suei35 xou51 lu51
-ər214 iɑu35 tɕi51 tɕiɑŋ55
+əɻ214 iɑu35 tɕi51 tɕiɑŋ55
 muo51 yɛn51 tɕy51 tɕʰiŋ51
 tɕi51 tsuei51 tɕi51 pɑu214
 ɕiɑu214 ta51 tɕi55 ʂou214
@@ -4347,7 +4347,7 @@ uan51 ʂou51 u35 tɕiɑŋ55
 tʂuo55 pi214 fu214 tʰiɛn35
 suei51 tɕʰy214 ʂʅ35 tɕʰiɛn55
 uo214 tɕʰy214 tɕʰi35 tʂʰən35
-ʂʅ35 uo214 nuŋ35 rən35
+ʂʅ35 uo214 nuŋ35 ɻən35
 tsɿ51 ku214 iou214 niɛn35
 tɕin55 ʂʅ51 nan35 mu214
 xuo51 yn35 xuo51 tsɿ214
@@ -4368,16 +4368,16 @@ tsəŋ55 sun55 lai35 tʂʅ214
 i214 tɕʰi35 fu51 tsɿ214
 iɛ51 pi214 nan35 mu214
 tʰiɛn35 tɕyn51 tʂʅ51 ɕi214
-rɑŋ214 tɕʰi35 tsuo214 iou51
+ɻɑŋ214 tɕʰi35 tsuo214 iou51
 tʂʰɑŋ35 tɕʰi35 tʂʅ214 fou214
 xɤ35 i51 tʂʰɑŋ35 mu214
 tʂuŋ55 ʂan51 tɕʰiɛ214 iou214
 tsəŋ55 sun55 pu51 nu35
 nuŋ35 fu55 kʰɤ51 min214
 tsəŋ214 sun55 tʂʅ55 tɕia51
-ru35 tsʰɿ35 ru35 liɑŋ35
+ɻu35 tsʰɿ35 ɻu35 liɑŋ35
 tsəŋ214 sun55 tʂʅ55 y214
-ru35 tʂʰʅ35 ru35 tɕiŋ55
+ɻu35 tʂʰʅ35 ɻu35 tɕiŋ55
 nai214 tɕʰiou35 tɕʰiɛn55 sɿ55 tsʰɑŋ55
 nai214 tɕʰiou35 uan51 sɿ55 ɕiɑŋ55
 ʂu214 tɕi51 tɑu51 liɑŋ35
@@ -4391,7 +4391,7 @@ i214 uo214 tʰan35 sɿ51
 tɕi51 tsai214 nan35 mu214
 puo55 tɕyɛ35 pai214 ku214
 tɕi51 tʰiŋ35 tɕʰiɛ214 ʂuo51
-tsəŋ55 sun55 ʂʅ51 ruo51
+tsəŋ55 sun55 ʂʅ51 ɻuo51
 tɕi51 fɑŋ55 tɕi51 tsɑu51
 tɕi51 tɕiɛn55 tɕi51 xɑu214
 pu51 lɑŋ35 pu51 iou214
@@ -4421,7 +4421,7 @@ i214 tɕiɛ51 tɕiŋ214 fu35
 tʂan55 pi214 luo51 i214
 uei35 ʂuei214 iɑŋ55 iɑŋ55
 tɕyn55 tsɿ214 tʂʅ51 tʂʅ214
-fu35 lu51 ru35 tsʰɿ35
+fu35 lu51 ɻu35 tsʰɿ35
 mei51 kɤ35 iou214 ʂʅ51
 i214 tsuo51 liou51 ʂʅ55
 tʂan55 pi214 luo51 i214
@@ -4453,7 +4453,7 @@ xuo51 xuɑŋ35 xuo51 pai35
 uo214 kou51 tʂʅ55 tsɿ214
 tʂʰəŋ35 tɕʰi35 sɿ51 luo51
 tʂʰəŋ35 tɕʰi35 sɿ51 luo51
-liou51 pʰei51 uo51 ruo51
+liou51 pʰei51 uo51 ɻuo51
 tsuo214 tʂʅ55 tsuo214 tʂʅ55
 tɕyn55 tsɿ214 i35 tʂʅ55
 iou51 tʂʅ55 iou51 tʂʅ55
@@ -4473,7 +4473,7 @@ pai214 pi51 uei35 ɕiɛn51
 pu51 tɕi35 pu51 nan35
 ʂou51 fu35 pu35 na51
 sɿ51 kuŋ55 tɕʰi35 tɕʰiou35
-tʂʅ214 tɕiou214 sɿ55 rou35
+tʂʅ214 tɕiou214 sɿ55 ɻou35
 pi214 tɕiɑu55 fei214 ɑu35
 uan51 fu35 lai35 tɕʰiou35
 yɛn55 iɑŋ55 y35 fei55
@@ -4494,9 +4494,9 @@ tɕyn55 tsɿ214 uan51 niɛn35
 fu35 lu51 suei35 tʂʅ55
 iou214 kʰuei214 tʂɤ214 piɛn51
 ʂʅ35 uei35 i55 xɤ35
-ər214 tɕiou214 tɕi51 tʂʅ214
-ər214 ɕiɑu35 tɕi51 tɕia55
-tɕʰi214 i55 i51 rən35
+əɻ214 tɕiou214 tɕi51 tʂʅ214
+əɻ214 ɕiɑu35 tɕi51 tɕia55
+tɕʰi214 i55 i51 ɻən35
 ɕyŋ55 ti51 fei214 tʰa55
 niɑu214 y35 ny214 luo35
 ʂʅ55 y35 suŋ55 pai214
@@ -4506,9 +4506,9 @@ tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 ʂu51 tɕi55 ʂuo55 i51
 iou214 kʰuei51 tʂɤ214 piɛn51
 ʂʅ35 uei35 xɤ35 tɕʰi55
-ər214 tɕiou214 tɕi51 tʂʅ214
-ər214 ɕiɑu35 tɕi51 ʂʅ35
-tɕʰi214 i55 i51 rən35
+əɻ214 tɕiou214 tɕi51 tʂʅ214
+əɻ214 ɕiɑu35 tɕi51 ʂʅ35
+tɕʰi214 i55 i51 ɻən35
 ɕyŋ55 ti51 tɕy51 lai35
 niɑu214 y35 ny214 luo35
 ʂʅ55 y35 suŋ55 ʂɑŋ51
@@ -4518,13 +4518,13 @@ tɕi51 tɕiɛn51 tɕyn55 tsɿ214
 ʂu51 tɕi55 iou214 tsɑŋ55
 iou214 kʰuei51 tʂɤ214 piɛn51
 ʂʅ35 uei35 tsai51 ʂou214
-ər214 tɕiou214 tɕi51 tʂʅ214
-ər214 ɕiɑu35 tɕi51 fu51
-tɕʰi214 i55 i51 rən35
+əɻ214 tɕiou214 tɕi51 tʂʅ214
+əɻ214 ɕiɑu35 tɕi51 fu51
+tɕʰi214 i55 i51 ɻən35
 ɕyŋ55 ti51 ʂəŋ55 tɕiou51
-ru35 pi214 y214 ɕyɛ214
+ɻu35 pi214 y214 ɕyɛ214
 ɕiɛn55 tɕi35 uei35 ɕiɛn51
-sɿ214 sɑŋ55 u35 rʅ51
+sɿ214 sɑŋ55 u35 ɻʅ51
 u35 tɕi55 ɕiɑŋ55 tɕiɛn51
 lɤ51 tɕiou214 tɕin55 ɕi55
 tɕyn55 tsɿ214 uei35 iɛn51
@@ -4539,7 +4539,7 @@ iou214 tɕi35 uei35 tɕiɑu55
 suei55 pi214 ʂuo51 ny214
 liŋ51 tɤ35 lai35 tɕiɑu55
 ʂʅ51 iɛn55 tɕʰiɛ214 y51
-xɑu214 ər214 u35 i51
+xɑu214 əɻ214 u35 i51
 suei55 u35 tʂʅ214 tɕiou214
 ʂʅ51 in214 ʂu51 tɕi55
 suei55 u35 tɕia55 ɕiɑu35
@@ -4550,13 +4550,13 @@ tʂʅ51 pi214 kɑu55 kɑŋ55
 ɕi55 tɕʰi35 tsuo51 ɕin55
 ɕi55 tɕʰi35 tsuo51 ɕin55
 tɕʰi35 iɛ51 ɕy214 ɕi55
-ɕiɛn55 uo214 kou51 ər214
+ɕiɛn55 uo214 kou51 əɻ214
 uo214 ɕin55 ɕiɛ214 ɕi55
 kɑu55 ʂan55 iɑŋ214 tʂʅ214
 tɕiŋ214 ɕiŋ35 ɕiŋ35 tʂʅ214
 sɿ51 mu214 fei55 fei55
-liou51 pʰei51 ru35 tɕʰin35
-kou51 ər214 ɕin55 xun55
+liou51 pʰei51 ɻu35 tɕʰin35
+kou51 əɻ214 ɕin55 xun55
 i214 uei51 uo214 ɕin55
 iŋ35 iŋ35 tɕʰiŋ55 iŋ35
 tʂʅ214 y35 fan35
@@ -4564,12 +4564,12 @@ tɕʰi214 ti51 tɕyn55 tsɿ214
 u35 ɕin51 tʂʰan35 iɛn35
 iŋ35 iŋ35 tɕʰiŋ55 iŋ35
 tʂʅ214 y35 tɕi35
-tʂʰan35 rən35 uɑŋ214 tɕi55
+tʂʰan35 ɻən35 uɑŋ214 tɕi55
 tɕiɑu55 luan51 sɿ51 kuo35
 iŋ35 iŋ35 tɕʰiŋ55 iŋ35
 tʂʅ214 y35 tɕi35
-tʂʰan35 rən35 uɑŋ214 tɕi55
-kou51 uo214 ər51 rən35
+tʂʰan35 ɻən35 uɑŋ214 tɕi55
+kou51 uo214 əɻ51 ɻən35
 pin55 tʂʅ55 tʂʰu55 iɛn35
 tsuo214 iou51 tʂʅ51 tʂʅ51
 piɛn55 tou51 iou214 tʂʰu214
@@ -4581,23 +4581,23 @@ tɕy214 tʂʰou35 i51 i51
 ta51 xou51 tɕi51 kʰɑŋ51
 kuŋ55 ʂʅ214 sɿ55 tʂɑŋ55
 ʂɤ51 fu55 tɕi51 tʰuŋ35
-ɕiɛn51 ər214 fa55 kuŋ55
+ɕiɛn51 əɻ214 fa55 kuŋ55
 fa55 pi214 iou214 ti35
-i214 tɕʰi35 ər214 tɕyɛ35
+i214 tɕʰi35 əɻ214 tɕyɛ35
 yɛ51 u214 ʂəŋ55 ku214
 yɛ51 tɕi51 xɤ35 tsou51
 tʂəŋ55 kʰan51 liɛ51 tsu214
 i214 tɕʰia51 pai214 li214
 pai214 li214 tɕi51 tʂʅ51
-iou214 rən35 iou214 lin35
-ɕi55 ər214 tʂʰun35 ku214
+iou214 ɻən35 iou214 lin35
+ɕi55 əɻ214 tʂʰun35 ku214
 tsɿ214 sun55 tɕʰi35 tan55
 tɕʰi35 tan55 yɛ55 lɤ51
-kɤ51 tsou51 ər214 nəŋ35
+kɤ51 tsou51 əɻ214 nəŋ35
 pin55 tsai214 ʂou214 tʂʰou35
-ʂʅ51 rən35 ru51 iou51
+ʂʅ51 ɻən35 ɻu51 iou51
 tʂuo35 pi214 kʰɑŋ55 tɕyɛ35
-i214 tsou51 ər214 ʂʅ35
+i214 tsou51 əɻ214 ʂʅ35
 pin55 tʂʅ55 tʂʰu55 iɛn35
 un55 un55 tɕʰi35 kuŋ55
 tɕʰi35 uei51 tsuei51 tʂʅ214
@@ -4618,11 +4618,11 @@ luan51 uo214 piɛn55 tou51
 ly214 u214 tɕʰi55 tɕʰi55
 ʂʅ51 yɛ55 tɕi51 tsuei51
 pu51 tʂʅ55 tɕʰi35 iou35
-tsʰɤ51 ər35 tʂʅ55 ɤ35
+tsʰɤ51 əɻ35 tʂʅ55 ɤ35
 ly214 u214 suo55 suo55
-tɕi51 tsuei51 ər35 tʂʰu55
+tɕi51 tsuei51 əɻ35 tʂʰu55
 piŋ51 ʂou51 tɕʰi35 fu35
-tsuei51 ər35 pu51 tʂʰu55
+tsuei51 əɻ35 pu51 tʂʰu55
 ʂʅ51 uei51 fa35 tɤ35
 tɕi51 tɕiou214 kʰuŋ214 tɕia55
 uei35 tɕʰi35 liŋ51 i35
@@ -4696,9 +4696,9 @@ i51 ʂʅ51 li51 i55
 pʰiɛn55 tɕʰi35 fan214 i214
 ɕyŋ55 ti51 xun55 in55
 u35 ɕy55 yɛn214 i214
-ər214 tʂʅ55 yɛn214 i214
-min35 ɕy55 ran35 i214
-ər214 tʂʅ55 tɕiɑu51 i214
+əɻ214 tʂʅ55 yɛn214 i214
+min35 ɕy55 ɻan35 i214
+əɻ214 tʂʅ55 tɕiɑu51 i214
 min35 ɕy55 ɕiɑu51 i214
 tsʰɿ214 liŋ51 ɕyŋ55 ti51
 tʂʰuo51 tʂʰuo51 iou214 y51
@@ -4706,23 +4706,23 @@ pu51 liŋ51 ɕyŋ55 ti51
 tɕiɑu55 ɕiɑŋ55 uei35 y51
 min35 tʂʅ55 u35 liɑŋ35
 ɕiɑŋ55 yɛn51 i51 fɑŋ55
-ʂou51 tɕyɛ35 pu51 rɑŋ51
+ʂou51 tɕyɛ35 pu51 ɻɑŋ51
 tʂʅ51 y35 i214 sɿ55 uɑŋ35
 lɑu214 ma214 fan214 uei35 tɕy55
 pu51 ku51 tɕʰi35 xou51
-ru35 ʂʅ35 i35 y51
-ru35 tʂuo35 kʰuŋ214 tɕʰy214
+ɻu35 ʂʅ35 i35 y51
+ɻu35 tʂuo35 kʰuŋ214 tɕʰy214
 u35 tɕiɑu51 nan35 ʂəŋ55 mu51
-ru35 tʰu35 tʰu35 fu51
+ɻu35 tʰu35 tʰu35 fu51
 tɕyn55 tsɿ214 iou214 xuei55 iou35
-ɕiɑu214 rən35 y35 ʂu214
+ɕiɑu214 ɻən35 y35 ʂu214
 y214 ɕyɛ214 piɑu55 piɑu55
 tɕiɛn51 ɕiɛn51 yɛ55 ɕiɑu55
 muo51 kʰən214 ɕia51 i35
 ʂʅ51 tɕy55 lou35 tɕiɑu55
 y214 ɕyɛ214 fu35 fu35
-tɕiɛn51 ɕiɛn51 rʅ51 liou35
-ru35 man35 ru35 mɑu35
+tɕiɛn51 ɕiɛn51 ɻʅ51 liou35
+ɻu35 man35 ɻu35 mɑu35
 uo214 ʂʅ51 yŋ51 iou55
 iou214 yn214 tʂɤ214 liou214
 pu35 ʂɑŋ51 ɕi55 iɛn55
@@ -4738,32 +4738,32 @@ pi214 y35 tɕiŋ51 tʂʅ55
 xou51 y35 mai51 iɛn55
 iou214 niɑu214 kɑu55 fei55
 i51 fu51 y35 tʰiɛn55
-pi214 rən35 tʂʅ55 ɕin55
+pi214 ɻən35 tʂʅ55 ɕin55
 y35 xɤ35 tɕʰi35 tʂən55
 xɤ35 y35 tɕiŋ51 tʂʅ55
 tɕy55 i214 ɕyŋ55 tɕin55
-pi214 tou55 rən35 ʂʅ51
+pi214 tou55 ɻən35 ʂʅ51
 xu35 tɕʰiou35 xuɑŋ35 xuɑŋ35
-tɕʰi35 ruŋ35 pu35 kai51
+tɕʰi35 ɻuŋ35 pu35 kai51
 tʂʰu55 iɛn35 iou214 tʂɑŋ55
 ɕiŋ35 kuei55 y35 tʂou55
 uan51 min35 suo214 uɑŋ51
-pi214 tu55 rən35 ʂʅ51
+pi214 tu55 ɻən35 ʂʅ51
 tʰai35 li51 tsɿ55 tsʰuo55
 pi214 tɕyn55 tsɿ214 ny214
-tʂʰou35 tʂʅ35 ru35 fa51
+tʂʰou35 tʂʅ35 ɻu35 fa51
 uo214 pu35 tɕiɛn51 ɕi55
 uo214 ɕin55 pu51 ʂuo55
-pi214 tu55 rən35 ʂʅ51
-tʂʰuŋ55 ər214 ɕiou51 ʂʅ35
+pi214 tu55 ɻən35 ʂʅ51
+tʂʰuŋ55 əɻ214 ɕiou51 ʂʅ35
 pi214 tɕyn55 tsɿ214 ny214
 uei51 tʂʅ55 in214 tɕi35
 uo214 pu35 tɕiɛn51 ɕi55
 uo214 ɕin55 yɛn51 tɕiɛ55
-pi214 tu55 rən35 ʂʅ51
-tʂʰuei35 tai51 ər35 li51
+pi214 tu55 ɻən35 ʂʅ51
+tʂʰuei35 tai51 əɻ35 li51
 pi214 tɕyn55 tsɿ214 ny214
-tɕyɛn214 fa51 ru35 tʂʰai51
+tɕyɛn214 fa51 ɻu35 tʂʰai51
 uo214 pu35 tɕiɛn51 ɕi55
 iɛn35 tsʰuŋ35 tʂʅ55 mai51
 fei214 i55 tʂʰuei35 tʂʅ55
@@ -4778,8 +4778,8 @@ y35 fa51 tɕʰy55 tɕy35
 puo35 iɛn35 kuei55 mu51
 tʂuŋ55 tʂʰɑu35 tsʰai214 lan35
 pu51 iŋ35 i55 tʂʰan55
-u214 rʅ51 uei35 tɕʰi55
-liou51 rʅ51 pu51 tʂan55
+u214 ɻʅ51 uei35 tɕʰi55
+liou51 ɻʅ51 pu51 tʂan55
 tʂʅ55 tsɿ214 y35 ʂou51
 iɛn35 tʂʰɑŋ51 tɕʰi35 kuŋ55
 tʂʅ55 tsɿ214 y35 tiɑu51
@@ -4792,7 +4792,7 @@ pʰəŋ35 pʰəŋ35 ʂu214 miɑu35
 in55 y214 kɑu55 tʂʅ55
 iou55 iou55 nan35 ɕiŋ35
 ʂɑu51 puo35 lɑu35 tʂʅ55
-uo214 rən51 uo214 niɛn214
+uo214 ɻən51 uo214 niɛn214
 uo214 tʂʰɤ55 uo214 niou35
 uo214 ɕiŋ35 tɕi51 tɕi35
 kai51 yn35 kuei55 tsai55
@@ -4811,7 +4811,7 @@ uɑŋ35 ɕin55 tsɤ35 niŋ35
 ɕi35 sɑŋ55 iou214 a55
 tɕʰi35 iɛ51 iou214 nan35
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
-tɕʰi35 lɤ51 ru35 xɤ35
+tɕʰi35 lɤ51 ɻu35 xɤ35
 ɕi35 sɑŋ55 iou214 a55
 tɕʰi35 iɛ51 iou214 uo51
 tɕi51 tɕiɛn51 tɕyn55 tsɿ214
@@ -4823,7 +4823,7 @@ tɤ35 in55 kʰuŋ214 tɕiɑu55
 ɕin55 xu55 ai51 i214
 ɕia35 pu35 uei51 i214
 tʂuŋ55 ɕin55 tsʰɑŋ35 tʂʅ55
-xɤ35 rʅ51 uɑŋ51 tʂʅ55
+xɤ35 ɻʅ51 uɑŋ51 tʂʅ55
 pai35 xua35 tɕiɛn55 ɕi55
 pai35 mɑu35 ʂu51 ɕi55
 tʂʅ55 tsɿ214 tʂʅ55 yɛn214
@@ -4835,10 +4835,10 @@ tʂʅ55 tsɿ214 pu51 iou35
 piɑu55 tʂʰʅ35 pei214 liou35
 tɕin51 pi214 tɑu51 tʰiɛn35
 ɕiɑu51 kɤ55 ʂɑŋ55 xuai35
-niɛn51 pi214 ʂuo51 rən35
+niɛn51 pi214 ʂuo51 ɻən35
 tɕʰiɑu35 pi214 sɑŋ55 ɕin55
 ɑŋ35 xuŋ55 y35 tʂʰən35
-uei35 pi214 ʂuo51 rən35
+uei35 pi214 ʂuo51 ɻən35
 ʂʅ35 lɑu35 uo214 ɕin55
 ku214 tʂuŋ55 y35 kuŋ55
 ʂəŋ55 un35 y35 uai51
@@ -4846,12 +4846,12 @@ niɛn51 tsɿ214 tsʰɑu214 tsʰɑu214
 ʂʅ51 uo214 mai51 mai51
 iou214 tɕʰiou55 tsai51 liɑŋ35
 iou214 xɤ51 tsai51 lin35
-uei35 pi214 ʂuo51 rən35
+uei35 pi214 ʂuo51 ɻən35
 ʂʅ51 lɑu35 uo214 ɕin55
 yɛn55 iɑŋ55 tsai51 liɑŋ35
 tɕi35 tɕʰi35 tsuo214 i51
 tʂʅ55 tsɿ214 u35 liɑŋ35
-ər51 san55 tɕʰi35 tɤ35
+əɻ51 san55 tɕʰi35 tɤ35
 iou214 pʰiɛn55 sɿ55 ʂʅ35
 ly214 tʂʅ55 pei55 ɕi55
 tʂʅ55 tsɿ214 tʂʅ55 yɛn214
@@ -4859,7 +4859,7 @@ pi214 uo214 tʂʅ55 ɕi55
 miɛn35 man35 xuɑŋ35 niɑu214
 tʂʅ214 y35 tɕʰiou55 a55
 tɑu51 tʂʅ55 yn35 yɛn214
-uo214 lɑu35 ru35 xɤ35
+uo214 lɑu35 ɻu35 xɤ35
 in214 tʂʅ55 ʂʅ35 tʂʅ55
 tɕiɑu55 tʂʅ55 xuei51 tʂʅ55
 miŋ51 pi214 xou51 tʂʰɤ55
@@ -4900,19 +4900,19 @@ tɕiɛn51 tɕiɛn51 tʂʅ55 ʂʅ35
 uei35 tɕʰi35 kɑu55 i214
 ʂan55 tʂʰuan55 iou55 yɛn214
 uei35 tɕʰi35 lɑu35 i214
-u214 rən35 tuŋ55 tʂəŋ55
+u214 ɻən35 tuŋ55 tʂəŋ55
 pu51 xuɑŋ35 tʂʰɑu35 i214
 tɕiɛn51 tɕiɛn51 tʂʅ55 ʂʅ35
 uei35 tɕʰi35 tsʰu51 i214
 ʂan55 tʂʰuan55 iou55 yɛn214
 xɤ35 tɕʰi35 muo51 i214
-u214 rən35 tuŋ55 tʂəŋ55
+u214 ɻən35 tuŋ55 tʂəŋ55
 pu51 xuɑŋ35 tʂʰu55 i214
 iou214 ʂʅ214 pai35 ti35
 tʂəŋ55 ʂɤ51 puo55 i214
 yɛ51 li35 y35 pi51
 pi214 pʰɑŋ55 tʰuo35 i214
-u214 rən35 tuŋ55 tʂəŋ55
+u214 ɻən35 tuŋ55 tʂəŋ55
 pu51 xuɑŋ35 tʰa55 i214
 tʰiɑu35 tʂʅ55 xua35
 yn35 tɕʰi35 xuɑŋ35 i214
@@ -4920,18 +4920,18 @@ yn35 tɕʰi35 xuɑŋ35 i214
 uei35 tɕʰi35 ʂɑŋ55 i214
 tʰiɑu35 tʂʅ55 xua35
 tɕʰi35 iɛ51 tɕʰiŋ55 tɕʰiŋ55
-tʂʅ55 uo214 ru35 tsʰɿ214
-pu51 ru35 u35 ʂəŋ55
+tʂʅ55 uo214 ɻu35 tsʰɿ214
+pu51 ɻu35 u35 ʂəŋ55
 tsɑŋ55 iɑŋ35 fən35 ʂou214
 san55 ɕiŋ55 tsai51 liou214
-rən35 kʰɤ214 i214 ʂʅ35
+ɻən35 kʰɤ214 i214 ʂʅ35
 ɕiɛn214 kʰɤ214 i214 pɑu214
 xɤ35 tsʰɑu214 pu51 xuɑŋ35
-xɤ35 rʅ51 pu51 ɕiŋ35
-xɤ35 rən35 pu51 tɕiɑŋ55
+xɤ35 ɻʅ51 pu51 ɕiŋ35
+xɤ35 ɻən35 pu51 tɕiɑŋ55
 tɕiŋ55 iŋ35 sɿ51 fɑŋ55
 xɤ35 tsʰɑu214 pu51 ɕyɛn35
-xɤ35 rən35 pu51 tɕin55
+xɤ35 ɻən35 pu51 tɕin55
 ai55 uo214 tʂəŋ55 fu55
 tu35 uei35 fei214 min35
 fei214 sɿ51 fei214 xu214
@@ -4981,8 +4981,8 @@ kuan51 tɕiɑŋ55 y35 tɕiŋ55
 tɕyɛ35 tsuo51 kuan51 tɕiɑŋ55
 tʂʰɑŋ35 fu35 fu214 ɕy214
 uɑŋ35 tʂʅ55 tɕin51 tʂʰən35
-u35 niɛn51 ər214 tsu214
-u35 niɛn51 ər214 tsu214
+u35 niɛn51 əɻ214 tsu214
+u35 niɛn51 əɻ214 tsu214
 y51 ɕiou55 tɕyɛ35 tɤ35
 yŋ214 iɛn35 pʰei51 miŋ51
 tsɿ51 tɕʰiou35 tuo55 fu35
@@ -4991,7 +4991,7 @@ kʰɤ51 pʰei51 ʂɑŋ51 ti51
 i35 tɕiɛn51 y35 in214
 tɕyn51 miŋ51 pu35 i51
 miŋ51 tʂʅ55 pu35 i51
-u35 ɤ51 ər214 kuŋ55
+u35 ɤ51 əɻ214 kuŋ55
 ɕyɛn55 tʂɑu55 i51 un35
 iou214 y35 in214 tsɿ51 tʰiɛn55
 ʂɑŋ51 tʰiɛn55 tʂʅ55 tsai214
@@ -5004,13 +5004,13 @@ tʰiɛn55 nan35 tʂʰən35 sɿ55
 pu35 i51 uei35 uɑŋ35
 tʰiɛn55 uei51 in214 ʂʅ51
 ʂʅ214 pu51 ɕiɛ35 sɿ51 fɑŋ55
-tʂʅ51 tʂuŋ51 ʂʅ51 rən51
+tʂʅ51 tʂuŋ51 ʂʅ51 ɻən51
 tsɿ51 pi214 in214 ʂɑŋ55
 lai35 tɕia51 y35 tʂou55
 yɛ55 pʰin35 y35 tɕiŋ55
 nai214 tɕi35 uɑŋ35 tɕi51
 uei35 tɤ35 tʂʅ55 ɕiŋ35
-ta51 rən51 iou214 ʂən55
+ta51 ɻən51 iou214 ʂən55
 ʂəŋ55 tsʰɿ214 un35 uɑŋ35
 uei35 tsʰɿ214 un35 uɑŋ35
 ɕiɑu214 ɕin55 i51 i51
@@ -5038,14 +5038,14 @@ y35 tʂou55 y35 tɕiŋ55
 tsuan214 ny214 uei35 ʂən55
 tʂɑŋ214 tsɿ214 uei35 ɕiŋ35
 tu214 ʂəŋ55 u214 uɑŋ35
-pɑu214 iou51 miŋ51 ər214
+pɑu214 iou51 miŋ51 əɻ214
 ɕiɛ51 fa35 ta51 ʂɑŋ55
 in214 ʂɑŋ55 tʂʅ55 ly214
-tɕʰi35 xuei51 ru35 lin35
+tɕʰi35 xuei51 ɻu35 lin35
 ʂʅ214 y35 mu51 iɛ214
 uei35 y35 xou35 ɕiŋ55
 ʂɑŋ51 ti51 lin35 ny214
-u35 ər51 ər214 ɕin55
+u35 əɻ51 əɻ214 ɕin55
 mu35 iɛ214 iɑŋ35 iɑŋ35
 tʰan35 tʂʰɤ55 xuɑŋ35 xuɑŋ35
 sɿ51 yɛn35 pʰəŋ35 pʰəŋ35
@@ -5067,7 +5067,7 @@ tʂʅ51 y35 tɕʰi35 ɕia51
 yɛn35 tɕi35 tɕiɑŋ55 ny214
 y51 lai35 ɕy55 y214
 tʂou55 yɛn35 xu55 xu55
-tɕin214 tʰu35 ru35 i35
+tɕin214 tʰu35 ɻu35 i35
 yɛn35 ʂʅ214 yɛn35 mou35
 yɛn35 tɕʰi51 uo214 kuei55
 yɛ55 tʂʅ214 yɛ55 ʂʅ35
@@ -5084,7 +5084,7 @@ pi214 li51 ʂʅ51 tɕia55
 tɕʰi35 ʂəŋ35 tsɤ35 tʂʅ35
 suo55 pan214 i214 tsai214
 tsuo51 miɑu51 i51 i51
-tɕiou51 tʂʅ55 rəŋ35 rəŋ35
+tɕiou51 tʂʅ55 ɻəŋ35 ɻəŋ35
 tu51 tʂʅ55 xuŋ55 xuŋ55
 tʂu51 tʂʅ55 təŋ55 təŋ55
 ɕiɑu55 ly214 fəŋ35 fəŋ35
@@ -5095,14 +5095,14 @@ kɑu55 mən51 iou214 kʰɑŋ51
 nai214 li51 iŋ51 mən35
 iŋ51 mən35 tɕiɑŋ55 tɕiɑŋ55
 nai214 li51 tʂuŋ214 tʰu35
-ruŋ35 tʂʰou214 iou55 ɕiŋ35
+ɻuŋ35 tʂʰou214 iou55 ɕiŋ35
 sɿ51 pu51 tʰiɛn214 tɕyɛ35 yn51
 i51 pu51 yn214 tɕyɛ35 un51
 y35 y51 pa35 i214
 ɕiŋ35 tɑu51 tuei51 i214
 kʰun55 i35 tʰuei51 i214
 uei35 tɕʰi35 xuei51 i214
-y35 ruei51 tʂʅ51 tɕyɛ35 tʂʰəŋ35
+y35 ɻuei51 tʂʅ51 tɕyɛ35 tʂʰəŋ35
 un35 uɑŋ35 tɕyɛ35 tɕyɛ35 ʂəŋ55
 y35 yɛ55 iou214 ʂu55 fu51
 y35 yɛ55 iou214 ɕiɛn55 xou51
@@ -5123,7 +5123,7 @@ liou51 ʂʅ55 tɕi35 tʂʅ55
 tʂuo55 pi214 yn35 xan51
 uei35 tʂɑŋ55 y35 tʰiɛn55
 tʂou55 uɑŋ35 ʂou51 kʰɑu214
-ɕia35 pu35 tsuo51 rən35
+ɕia35 pu35 tsuo51 ɻən35
 tʂuei55 tʂuo35 tɕʰi35 tʂɑŋ55
 tɕin55 y51 tɕʰi35 ɕiɑŋ55
 miɛn214 miɛn214 uo214 uɑŋ35
@@ -5139,7 +5139,7 @@ fu35 lu51 iou55 tɕiɑŋ51
 yɛn55 fei55 li51 tʰiɛn55
 y35 yɛ51 y35 yɛn55
 tɕʰi35 ti51 tɕyn55 tsɿ214
-ɕia35 pu35 tsuo51 rən35
+ɕia35 pu35 tsuo51 ɻən35
 tɕʰiŋ55 tɕiou214 tɕi51 tsai214
 ɕiŋ55 mu214 tɕi51 pei51
 i214 ɕiɑŋ214 i214 sɿ51
@@ -5152,7 +5152,7 @@ muo51 muo51 kɤ35 lei214
 ʂʅ55 y35 tʰiɑu35 mei35
 tɕʰi214 ti51 tɕyn55 tsɿ214
 tɕʰiou35 fu35 pu51 xuei35
-sɿ55 tɕʰi35 ta51 rən51
+sɿ55 tɕʰi35 ta51 ɻən51
 un35 uɑŋ35 tʂʅ55 mu214
 sɿ55 mei51 tʂou55 tɕiɑŋ55
 tɕiŋ55 ʂʅ51 tʂʅ55 fu51
@@ -5168,19 +5168,19 @@ yŋ55 yŋ55 tsai51 kuŋ55
 su51 su51 tsai51 miɑu51
 pu51 ɕiɛn214 i51 lin35
 u35 ʂɤ51 i51 pɑu214
-sɿ51 ruŋ35 tɕi35 pu51 tsʰan55
+sɿ51 ɻuŋ35 tɕi35 pu51 tsʰan55
 liɛ51 tɕia214 pu51 ɕia35
 pu51 un35 i51 ʂʅ51
-pu35 tɕiɛn51 i51 ru51
-sɿ51 tʂʰəŋ35 rən35 iou214 tɤ35
+pu35 tɕiɛn51 i51 ɻu51
+sɿ51 tʂʰəŋ35 ɻən35 iou214 tɤ35
 ɕiɑu214 tsɿ214 iou214 tsɑu51
-ku214 tʂʅ55 rən35 u35 i51
+ku214 tʂʅ55 ɻən35 u35 i51
 y51 mɑu35 sɿ55 ʂʅ51
 xuɑŋ35 i214 ʂɑŋ51 ti51
 lin35 ɕia51 iou214 xɤ51
 tɕiɛn55 kuan55 sɿ51 fɑŋ55
 tɕʰiou35 min35 tʂʅ55 muo51
-uei35 tsʰɿ214 ər51 kuo35
+uei35 tsʰɿ214 əɻ51 kuo35
 tɕʰi35 tʂəŋ51 pu35 xuo51
 uei35 pi214 sɿ51 kuo35
 yɛn35 tɕiou55 yɛn35 tu51
@@ -5194,7 +5194,7 @@ tɕʰi35 tsɿ214 tɕʰi35 i51
 tɕʰi35 kuan51 tɕʰi35 li51
 tɕʰi214 tʂʅ55 pi51 tʂʅ55
 tɕʰi35 tʂʰəŋ55 tɕʰi35 tɕy55
-rɑŋ214 tʂʅ55 tʰi55 tʂʅ55
+ɻɑŋ214 tʂʅ55 tʰi55 tʂʅ55
 tɕʰi35 iɛn214 tɕʰi35 tʂɤ51
 ti51 tɕʰiɛn55 miŋ35 tɤ35
 tʂʰuan51 i35 tsai214 lu51
@@ -5225,19 +5225,19 @@ tɕʰi35 tɤ35 mi35 xuei214
 tɕi51 ʂou51 ti51 tʂʅ214
 ʂʅ55 y35 sun55 tsɿ214
 ti51 uei35 un35 uɑŋ35
-u35 ran35 pʰan51 yɛn35
-u35 ran35 ɕin55 ɕiɛn51
+u35 ɻan35 pʰan51 yɛn35
+u35 ɻan35 ɕin55 ɕiɛn51
 tan51 ɕiɛn55 təŋ55 y35 an51
-mi51 rən35 pu51 kuŋ55
+mi51 ɻən35 pu51 kuŋ55
 kan214 tɕy51 ta51 pɑŋ55
-tɕʰin55 ruan214 tsʰu35 kuŋ51
+tɕʰin55 ɻuan214 tsʰu35 kuŋ51
 uɑŋ35 xɤ51 sɿ55 nu51
 yɛn35 tʂəŋ214 tɕʰi35 ly214
 i214 an51 tsʰu35 ly214
 i214 tu214 y35 tʂou55 xu51
 i214 tuei51 y35 tʰiɛn55 ɕia51
 i55 tɕʰi35 tsai51 tɕiŋ55
-tɕʰin55 tsɿ51 ruan214 tɕiɑŋ55
+tɕʰin55 tsɿ51 ɻuan214 tɕiɑŋ55
 tʂʅ51 uo214 kɑu55 kɑŋ55
 u35 ʂʅ214 uo214 liŋ35
 uo214 liŋ35 uo214 a55
@@ -5255,10 +5255,10 @@ pu51 tʂʰɑŋ35 ɕia51 i214 kɤ35
 pu51 ʂʅ35 pu51 tʂʅ55
 ʂun51 ti51 tʂʅ55 tsɤ35
 ti51 uei51 un35 uɑŋ35
-ɕyn35 ər35 tʂʰou35 fɑŋ55
-tʰuŋ35 ər35 ɕyŋ55 ti51
-i214 ər214 kou55 yɛn35
-y35 ər35 lin35 tʂʰuŋ55
+ɕyn35 əɻ35 tʂʰou35 fɑŋ55
+tʰuŋ35 əɻ35 ɕyŋ55 ti51
+i214 əɻ214 kou55 yɛn35
+y35 əɻ35 lin35 tʂʰuŋ55
 i214 fa35 tʂʰuŋ35 yŋ55
 lin35 tʂʰuŋ55 ɕiɛn35 ɕiɛn35
 tʂʰuŋ35 yŋ55 iɛn35 iɛn35
@@ -5275,7 +5275,7 @@ sɿ51 fɑŋ55 i214 u35 fu35
 tɕiŋ55 ʂʅ214 liŋ35 tʰai35
 tɕiŋ55 tʂʅ55 iŋ35 tʂʅ55
 ʂu51 min35 kuŋ55 tʂʅ55
-pu35 rʅ51 tʂʰəŋ35 tʂʅ55
+pu35 ɻʅ51 tʂʰəŋ35 tʂʅ55
 tɕiŋ55 ʂʅ214 u51 tɕi35
 ʂu51 min35 tsɿ214 lai35
 uɑŋ35 tsai51 liŋ35 tʰai35
@@ -5283,7 +5283,7 @@ iou55 lu51 iou55 fu35
 iou55 lu51 tʂuo35 tʂuo35
 pai35 niɑu214 xɤ51 xɤ51
 uɑŋ35 tsai51 liŋ35 tʂɑu214
-y35 rən51 y35 yɛ51
+y35 ɻən51 y35 yɛ51
 tɕy51 iɛ51 uei35 tsʰuŋ55
 pən55 ku214 uei35 yŋ55
 y35 lun35 ku214 tʂuŋ55
@@ -5304,7 +5304,7 @@ tʂʰəŋ35 uɑŋ35 tʂʅ55 fu35
 ɕia51 tʰu214 tʂʅ55 ʂʅ51
 yŋ214 iɛn35 ɕiɑu51 sɿ55
 ɕiɑu51 sɿ55 uei35 tsɤ35
-mei51 tsɿ55 i55 rən35
+mei51 tsɿ55 i55 ɻən35
 iŋ55 xou35 ʂun51 tɤ35
 yŋ214 iɛn35 ɕiɑu51 sɿ55
 tʂɑu55 tsai55 sɿ51 fu35
@@ -5358,7 +5358,7 @@ i214 iɛn55 i51 tsɿ214
 u214 uɑŋ35 tʂəŋ55 tsai55
 tɕyɛ35 tʂʰu55 ʂəŋ55 min35
 ʂʅ35 uei35 tɕiɑŋ55 yɛn35
-ʂəŋ55 min35 ru35 xɤ35
+ʂəŋ55 min35 ɻu35 xɤ35
 kʰɤ51 in55 kʰɤ51 sɿ51
 i214 fu35 u35 tsɿ214
 ly214 ti51 u214 min214 ɕin55
@@ -5367,13 +5367,13 @@ tsai214 tʂən51 tsai214 su51
 tsai214 ʂəŋ55 tsai214 y51
 ʂʅ51 uei35 xou51 tɕi51
 tan51 mi35 tɕyɛ35 yɛ51
-ɕiɛn55 ʂəŋ55 ru35 ta35
+ɕiɛn55 ʂəŋ55 ɻu35 ta35
 pu35 tʂʰɤ51 pu35 fu51
 u35 tsɿ55 u35 xai51
 i214 xɤ51 tɕyɛ35 liŋ35
 ʂɑŋ51 ti51 pu51 niŋ35
 pu51 kʰɑŋ55 in55 sɿ51
-tɕy55 ran35 ʂəŋ55 tsɿ214
+tɕy55 ɻan35 ʂəŋ55 tsɿ214
 tan51 tʂʅ51 tʂʅ55 ai51 ɕiɑŋ51
 niou35 iɑŋ35 fei35 tsɿ51 tʂʅ55
 tan51 tʂʅ51 tʂʅ55 pʰiŋ35 lin35
@@ -5387,8 +5387,8 @@ tɕyɛ35 ʂəŋ55 tsai214 lu51
 tan51 tʂʅ51 pʰu35 fu35
 kʰɤ51 tɕʰi35 kʰɤ51 i35
 i214 tɕiou51 kʰou214 ʂʅ35
-i51 tʂʅ55 rən214 ʂu55
-rən214 ʂu55 pʰei51 pʰei51
+i51 tʂʅ55 ɻən214 ʂu55
+ɻən214 ʂu55 pʰei51 pʰei51
 xɤ35 tɕʰi35 suei51 suei51
 ma35 mai51 məŋ214 məŋ214
 kua55 tiɛ35 pəŋ214 pəŋ214
@@ -5408,11 +5408,11 @@ uei35 mən35 uei35 tɕʰi214
 xəŋ35 tʂʅ55 tɕy51 pʰi55
 ʂʅ51 xuo51 ʂʅ51 mu214
 xəŋ35 tʂʅ55 mən35 tɕʰi214
-ʂʅ51 rən51 ʂʅ51 fu51
+ʂʅ51 ɻən51 ʂʅ51 fu51
 i214 kuei55 tʂɑu51 sɿ51
-tan51 uo214 sɿ51 ru35 xɤ35
+tan51 uo214 sɿ51 ɻu35 xɤ35
 xuo51 tʂʰuŋ55 xuo51 y35
-xuo51 puo214 xuo51 rou35
+xuo51 puo214 xuo51 ɻou35
 ʂʅ51 tʂʅ55 sou214 sou214
 tʂəŋ55 tʂʅ55 fu35 fu35
 tsai214 mou35 tsai214 uei35
@@ -5433,7 +5433,7 @@ niou35 iɑŋ35 u51 tɕiɛn51 ly214
 fɑŋ55 pɑu55 fɑŋ55 tʰi214
 uei35 iɛ51 ni35 ni35
 tɕʰi55 tɕʰi55 ɕyŋ55 ti51
-muo51 yɛn214 tɕy51 ər214
+muo51 yɛn214 tɕy51 əɻ214
 xuo51 sɿ51 tʂʅ55 iɛn35
 xuo51 ʂou51 tʂʅ55 tɕi55
 sɿ51 iɛn35 ʂɤ51 ɕi35
@@ -5450,10 +5450,10 @@ sɿ51 xou35 tɕi51 tɕyn55
 ɕy51 pin55 i214 ɕiɛn35
 tun55 kuŋ55 tɕi51 kou51
 tɕi51 tɕia55 sɿ51 xou35
-sɿ51 xou35 ru35 ʂu51
+sɿ51 xou35 ɻu35 ʂu51
 ɕy51 pin55 i214 pu51 u214
 tsəŋ55 sun55 uei35 tʂu214
-tɕiou214 li214 uei35 ru35
+tɕiou214 li214 uei35 ɻu35
 tʂuo35 i214 ta51 tou214
 i214 tɕʰi35 xuɑŋ35 kou214
 xuɑŋ35 kou214 tʰai35 pei55
@@ -5463,12 +5463,12 @@ i214 tɕiɛ51 tɕiŋ214 fu35
 tɕi51 tsuei51 i214 tɕiou214
 tɕi51 pɑu214 i214 tɤ35
 tɕyn55 tsɿ214 uan51 niɛn35
-tɕiɛ51 ər214 tɕiŋ214 fu35
+tɕiɛ51 əɻ214 tɕiŋ214 fu35
 tɕi51 tsuei51 i214 tɕiou214
-ər214 ɕiɑu35 tɕi51 tɕiɑŋ55
+əɻ214 ɕiɑu35 tɕi51 tɕiɑŋ55
 tɕyn55 tsɿ214 uan51 niɛn35
-tɕiɛ51 ər214 tʂɑu55 miŋ35
-tʂɑu55 miŋ35 iou214 ruŋ35
+tɕiɛ51 əɻ214 tʂɑu55 miŋ35
+tʂɑu55 miŋ35 iou214 ɻuŋ35
 kɑu55 liɑŋ214 liŋ51 tʂuŋ55
 liŋ51 tʂuŋ55 iou214 tʂʰu51
 kuŋ55 ʂʅ55 tɕia55 kɑu51
@@ -5479,35 +5479,35 @@ pʰəŋ35 iou214 iou55 ʂɤ51
 uei55 i35 kʰuŋ214 ʂʅ35
 tɕyn55 tsɿ214 iou214 ɕiɑu51 tsɿ214
 ɕiɑu51 tsɿ214 pu35 kʰuei51
-yŋ214 ɕi55 ər214 lei51
+yŋ214 ɕi55 əɻ214 lei51
 tɕʰi35 lei51 uei35 xɤ35
 ʂʅ51 tɕia55 tʂʅ55 xu35
 tɕyn55 tsɿ214 uan51 niɛn35
 yŋ214 ɕi55 tsuo51 in51
 tɕʰi35 in51 uei35 xɤ35
-tʰiɛn55 pei51 ər214 lu51
+tʰiɛn55 pei51 əɻ214 lu51
 tɕyn55 tsɿ214 uan51 niɛn35
 tɕiŋ214 miŋ51 iou214 pʰu35
 tɕʰi35 pʰu35 uei35 xɤ35
-li35 ər214 ny214 ʂʅ51
-li35 ər214 ny214 ʂʅ51
+li35 əɻ214 ny214 ʂʅ51
+li35 əɻ214 ny214 ʂʅ51
 tsʰuŋ55 i214 sun55 tsɿ214
 fu35 i55 tsai51 tɕiŋ55
 kuŋ55 ʂʅ55 lai35 iɛn55 lai35 niŋ35
-ər214 tɕiou214 tɕi51 tɕʰiŋ55
-ər214 ɕiɑu35 tɕi51 ɕin55
+əɻ214 tɕiou214 tɕi51 tɕʰiŋ55
+əɻ214 ɕiɑu35 tɕi51 ɕin55
 kuŋ55 ʂʅ55 iɛn55 in214
 fu35 lu51 lai35 tʂʰəŋ35
 fu35 i55 tsai51 ʂa55
 kuŋ55 ʂʅ55 lai35 iɛn55 lai35 i35
-ər214 tɕiou214 tɕi51 tuo55
-ər214 ɕiɑu35 tɕi51 tɕia55
+əɻ214 tɕiou214 tɕi51 tuo55
+əɻ214 ɕiɑu35 tɕi51 tɕia55
 kuŋ55 ʂʅ55 iɛn55 in214
 fu35 lu51 lai35 uei35
 fu35 i55 tsai51 tʂu214
 kuŋ55 ʂʅ55 lai35 iɛn55 lai35 tʂʰu214
-ər214 tɕiou214 tɕi51 ɕy214
-ər214 ɕiɑu35 i55 fu214
+əɻ214 tɕiou214 tɕi51 ɕy214
+əɻ214 ɕiɑu35 i55 fu214
 kuŋ55 ʂʅ55 iɛn55 in214
 fu35 lu51 lai35 ɕia51
 fu35 i55 tsai51 tsʰuŋ35
@@ -5524,7 +5524,7 @@ kuŋ55 ʂʅ55 iɛn55 in214
 u35 iou214 xou51 tɕiɛn55
 tɕia214 lɤ51 tɕyn55 tsɿ214
 ɕiɛn214 ɕia214 liŋ51 tɤ35
-i35 min35 i35 rən35
+i35 min35 i35 ɻən35
 ʂou51 lu51 y35 tʰiɛn55
 pɑu214 iou51 miŋ51 tʂʅ55
 tsɿ51 tʰiɛn55 ʂən55 tʂʅ55
@@ -5560,12 +5560,12 @@ tu214 kuŋ55 liou35
 y35 ɕy55 sɿ55 yɛn35
 tɕi51 ʂu51 tɕi51 fan35
 tɕi51 ʂun51 nai214 ɕyɛn55
-ər35 u35 yŋ214 tʰan51
+əɻ35 u35 yŋ214 tʰan51
 tʂʅ51 tsɤ35 tsai51 iɛn214
 fu51 tɕiɑŋ51 tsai51 yɛn35
 xɤ35 i214 tʂou55 tʂʅ55
 uei35 y51 tɕi35 iɑu35
-piŋ214 pəŋ214 ruŋ35 tɑu55
+piŋ214 pəŋ214 ɻuŋ35 tɑu55
 tu214 kuŋ55 liou35
 ʂʅ51 pi214 pai214 tɕʰyɛn35
 tʂan55 pi214 pʰu214 yɛn35
@@ -5605,7 +5605,7 @@ yɛn35 tʂuŋ51 yɛn35 iou214
 tɕia55 tɕʰi35 xuɑŋ35 tɕiɛn51
 su51 tɕʰi35 kuo51 tɕiɛn51
 tʂʅ214 ly214 nai214 mi51
-ruei51 tɕy55 tʂʅ55 tɕi35
+ɻuei51 tɕy55 tʂʅ55 tɕi35
 tɕyŋ214 tʂuo35 pi214 ɕiŋ35 lɑu214
 i51 pi214 tʂu51 tsɿ55
 kʰɤ214 i214 fən55 tʂʰʅ51
@@ -5626,28 +5626,28 @@ pʰiɑu55 fəŋ55 tsɿ51 nan35
 tɕʰi214 ti51 tɕyn55 tsɿ214
 lai35 iou35 lai35 kɤ55
 i214 ʂʅ214 tɕʰi35 in55
-pʰan51 xuan51 ər214 iou35 i214
-iou55 iou35 ər214 ɕiou55 i214
+pʰan51 xuan51 əɻ214 iou35 i214
+iou55 iou35 əɻ214 ɕiou55 i214
 tɕʰi214 ti51 tɕyn55 tsɿ214
-pi214 ər214 mi35 ər214 ɕiŋ51
+pi214 əɻ214 mi35 əɻ214 ɕiŋ51
 sɿ51 ɕiɛn55 kuŋ55 tɕʰiou35 i214
-ər214 tʰu214 y214 pan214 tʂɑŋ55
+əɻ214 tʰu214 y214 pan214 tʂɑŋ55
 i51 kʰuŋ214 tʂʅ55 xou51 i214
 tɕʰi214 ti51 tɕyn55 tsɿ214
-pi214 ər214 mi35 ər214 ɕiŋ51
-pai214 ʂən35 ər214 tʂu214 i214
-ər214 ʂou51 miŋ51 tʂʰɑŋ35 i214
-fu35 lu51 ər214 kʰɑŋ55 i214
+pi214 əɻ214 mi35 əɻ214 ɕiŋ51
+pai214 ʂən35 əɻ214 tʂu214 i214
+əɻ214 ʂou51 miŋ51 tʂʰɑŋ35 i214
+fu35 lu51 əɻ214 kʰɑŋ55 i214
 tɕʰi214 ti51 tɕyn55 tsɿ214
-pi214 ər214 mi35 ər214 ɕiŋ51
-tʂʰun35 ku214 ər214 tʂʰɑŋ35 i214
+pi214 əɻ214 mi35 əɻ214 ɕiŋ51
+tʂʰun35 ku214 əɻ214 tʂʰɑŋ35 i214
 iou214 fəŋ35 iou214 i51
 iou214 ɕiɑu51 iou214 tɤ35
 i214 in214 i214 i51
 tɕʰi214 ti51 tɕyn55 tsɿ214
 sɿ51 fɑŋ55 uei35 tsɤ35
 yŋ35 yŋ35 ɑŋ35 ɑŋ35
-ru35 kuei55 ru35 tʂɑŋ55
+ɻu35 kuei55 ɻu35 tʂɑŋ55
 liŋ51 un35 liŋ51 uɑŋ51
 tɕʰi214 ti51 tɕyn55 tsɿ214
 sɿ51 fɑŋ55 uei35 kɑŋ55
@@ -5660,9 +5660,9 @@ mei51 y35 tʰiɛn55 tsɿ214
 fəŋ51 xuɑŋ35 y35 fei55
 xuei51 xuei51 tɕʰi35 y214
 i51 fu51 y35 tʰiɛn55
-ai214 ai214 uɑŋ35 tuo55 tɕi35 rən35
+ai214 ai214 uɑŋ35 tuo55 tɕi35 ɻən35
 uei35 tɕyn55 tsɿ214 miŋ51
-mei51 y35 ʂu51 rən35
+mei51 y35 ʂu51 ɻən35
 fəŋ51 xuɑŋ35 miŋ35 i214
 y35 pi214 kɑu55 kɑŋ55
 u35 tʰuŋ35 ʂəŋ55 i214
@@ -5683,7 +5683,7 @@ u35 tsuŋ51 kuei214 suei35
 i214 tɕin214 u35 liɑŋ35
 ʂʅ51 ɤ51 kʰou51 nyɛ51
 tsʰan214 pu35 uei51 miŋ35
-rou35 yɛn214 nəŋ35 ər214
+ɻou35 yɛn214 nəŋ35 əɻ214
 i214 tiŋ51 uo214 uɑŋ35
 min35 i51 lɑu35 tʂʅ214
 tɕʰi51 kʰɤ214 ɕiɑu214 ɕiou55
@@ -5693,7 +5693,7 @@ u35 tsuŋ51 kuei214 suei35
 i214 tɕin214 xun55 nɑu35
 ʂʅ51 ɤ51 kʰou51 nyɛ51
 u35 pi214 min35 iou55
-u35 tɕʰi51 ər214 lɑu35
+u35 tɕʰi51 əɻ214 lɑu35
 i214 uei35 uɑŋ35 ɕiou55
 min35 i51 lɑu35 tʂʅ214
 tɕʰi51 kʰɤ214 ɕiɑu214 ɕi55
@@ -5713,8 +5713,8 @@ u35 tsuŋ55 kuei214 suei35
 i214 tɕin214 tʂʰou214 li51
 ʂʅ51 ɤ51 kʰou51 nyɛ51
 u35 pi214 tʂəŋ55 pai51
-ruŋ35 suei55 ɕiɑu214 tsɿ214
-ər35 ʂʅ51 xuŋ35 ta51
+ɻuŋ35 suei55 ɕiɑu214 tsɿ214
+əɻ35 ʂʅ51 xuŋ35 ta51
 min35 i51 lɑu35 tʂʅ214
 tɕʰi51 kʰɤ214 ɕiɑu214 an55
 xuei51 tsʰɿ214 tʂuŋ55 kuo35
@@ -5727,53 +5727,53 @@ uɑŋ35 y51 y51 ny214
 ʂʅ51 yŋ51 tan51 tɕiɛn51
 ʂɑŋ51 ti51 pan214 pan214
 ɕia51 min35 tsʰu51 tan55
-tʂʰu55 xua51 pu51 ran35
+tʂʰu55 xua51 pu51 ɻan35
 uei35 iou35 pu51 yɛn214
 mi35 ʂəŋ51 kuan214 kuan214
 pu51 ʂʅ35 y35 tan214
 iou35 tʂʅ55 uei51 yɛn214
 ʂʅ51 yŋ51 ta51 tɕiɛn51
 tʰiɛn55 tʂʅ55 fɑŋ55 nan35
-u35 ran35 ɕiɛn51 ɕiɛn51
+u35 ɻan35 ɕiɛn51 ɕiɛn51
 tʰiɛn55 tʂʅ55 fɑŋ55 tɕyɛ35
-u35 ran35 ɕiɛ51 ɕiɛ51
+u35 ɻan35 ɕiɛ51 ɕiɛ51
 tsʰɿ35 tʂʅ55 tɕi35 i51
 min35 tʂʅ55 tɕʰia51 i214
 tsʰɿ35 tʂʅ55 i51 i214
 min35 tʂʅ55 muo51 i214
 uo214 suei55 i51 ʂʅ51
-tɕi35 ər214 tʰuŋ35 liɑu35
-uo214 tɕi35 ər35 mou35
+tɕi35 əɻ214 tʰuŋ35 liɑu35
+uo214 tɕi35 əɻ35 mou35
 tʰiŋ55 uo214 ɕiɑu55 ɕiɑu55
 uo214 iɛn35 uei35 fu35
 u51 i214 uei35 ɕiɑu51
 ɕiɛn55 min35 iou214 iɛn35
-yn35 y35 tʂʰu35 rɑu35
+yn35 y35 tʂʰu35 ɻɑu35
 tʰiɛn55 tʂʅ55 fɑŋ55 nyɛ51
-u35 ran35 ɕyɛ51 ɕyɛ51
+u35 ɻan35 ɕyɛ51 ɕyɛ51
 lɑu214 fu55 kuan51 kuan51
 ɕiɑu214 tsɿ214 tɕyɛ35 tɕyɛ35
 fei214 uo214 iɛn35 mɑu51
-ər214 yŋ51 iou55 ɕyɛ51
+əɻ214 yŋ51 iou55 ɕyɛ51
 tuo55 tɕiɑŋ55 xɤ51 xɤ51
 pu51 kʰɤ214 tɕiou51 iɑu51
 tʰiɛn55 tʂʅ55 fɑŋ55 tɕʰi35
 u35 uei35 kʰua55 pʰi35
 uei55 i35 tsʰu51 mi35
-ʂan51 rən35 tsai214 ʂʅ55
+ʂan51 ɻən35 tsai214 ʂʅ55
 min35 tʂʅ55 fɑŋ55 tiɛn51 ʂʅ214
 tsɤ35 muo51 uo214 kan214 kʰuei35
 sɑŋ55 luan51 miɛ51 tsɿ55
 tsʰəŋ35 muo51 xuei51 uo214 ʂʅ55
 tʰiɛn55 tʂʅ55 iou214 min35
-ru35 ɕyn55 ru35 tʂʰʅ35
-ru35 tʂɑŋ55 ru35 kuei55
-ru35 tɕʰy214 ru35 ɕiɛ35
-ɕiɛ35 u35 rʅ51 i51
+ɻu35 ɕyn55 ɻu35 tʂʰʅ35
+ɻu35 tʂɑŋ55 ɻu35 kuei55
+ɻu35 tɕʰy214 ɻu35 ɕiɛ35
+ɕiɛ35 u35 ɻʅ51 i51
 iou214 min35 kʰuŋ214 i51
 min35 tʂʅ55 tuo55 pi51
 u35 tsɿ51 li51 pi51
-tɕia51 rən35 uei35 fan55
+tɕia51 ɻən35 uei35 fan55
 ta51 ʂʅ55 uei35 yɛn35
 ta51 pɑŋ55 uei35 piŋ214
 ta51 tsuŋ55 uei35 xan51
@@ -5786,9 +5786,9 @@ u35 kan214 ɕi51 y51
 tɕiŋ51 tʰiɛn55 tʂʅ55 y35
 u35 kan214 tʂʰʅ35 tɕʰy55
 xɑu51 tʰiɛn55 yɛ55 miŋ35
-tɕi35 ər214 tʂʰu55 uɑŋ35
+tɕi35 əɻ214 tʂʰu55 uɑŋ35
 xɑu51 tʰiɛn55 yɛ55 tan51
-tɕi35 ər214 iou35 iɛn214
+tɕi35 əɻ214 iou35 iɛn214
 tɑŋ51 tɑŋ51 ʂɑŋ51 ti51
 ɕia51 min35 tʂʅ55 pi51
 tɕi35 uei55 ʂɑŋ51 ti51
@@ -5807,47 +5807,47 @@ tʰiɛn55 tɕiɑŋ51 tʰɑu55 tɤ35
 ny214 ɕiŋ55 ʂʅ51 li51
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
-ər35 piŋ214 i51 lei51
+əɻ35 piŋ214 i51 lei51
 tɕiɑŋ51 y51 tuo55 tuei51
 liou35 iɛn35 i214 tuei51
-kʰou51 rɑŋ214 ʂʅ51 nei51
+kʰou51 ɻɑŋ214 ʂʅ51 nei51
 xou35 tsuo51 xou35 tʂu51
 mi35 tɕiɛ51 mi35 tɕiou55
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
 ny214 pʰɑu35 ɕiɑu55 y35 tʂuŋ55 kuo35
 liɛn214 yɛn51 i214 uei35 tɤ35
-pu51 miŋ35 ər214 tɤ35
+pu51 miŋ35 əɻ214 tɤ35
 ʂʅ35 u35 pei55 u35 tsʰɤ51
-ər214 tɤ35 pu51 miŋ35
+əɻ214 tɤ35 pu51 miŋ35
 i214 u35 pʰei35 u35 tɕʰiŋ55
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
-tʰiɛn55 pu51 miɛn214 ər214 i214 tɕiou214
+tʰiɛn55 pu51 miɛn214 əɻ214 i214 tɕiou214
 pu35 i51 tsʰuŋ35 ʂʅ51
-tɕi51 tɕʰiɛn55 ər214 tʂʅ214
+tɕi51 tɕʰiɛn55 əɻ214 tʂʅ214
 mi35 miŋ35 mi35 xuei51
 ʂʅ51 xɑu35 ʂʅ51 xu55
 pi214 tʂou51 tsuo51 iɛ51
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
-ru35 tʰiɑu35 ru35 tʰɑŋ35
-ru35 fei51 ru35 kəŋ55
+ɻu35 tʰiɑu35 ɻu35 tʰɑŋ35
+ɻu35 fei51 ɻu35 kəŋ55
 ɕiɑu214 ta51 tɕin51 sɑŋ55
-rən35 ʂɑŋ51 xu55 iou35 ɕiŋ35
+ɻən35 ʂɑŋ51 xu55 iou35 ɕiŋ35
 nei51 pi51 y35 tʂuŋ55 kuo35
 tʰan35 tɕi35 kuei214 fɑŋ55
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
 fei214 ʂɑŋ51 ti51 pu51 ʂʅ35
 in55 pu35 yŋ51 tɕiou51
-suei55 u35 lɑu214 tʂʰəŋ35 rən35
+suei55 u35 lɑu214 tʂʰəŋ35 ɻən35
 ʂɑŋ51 iou214 tiɛn214 ɕiŋ35
 tsʰəŋ35 ʂʅ51 muo51 tʰiŋ55
 ta51 miŋ51 i214 tɕʰiŋ55
 un35 uɑŋ35 yɛ55 tsɿ55
 tsɿ55 ny214 in55 ʂɑŋ55
-rən35 i51 iou214 iɛn35
+ɻən35 i51 iou214 iɛn35
 tiɛn55 pʰei51 tʂʅ55 tɕiɛ55
 tʂʅ55 iɛ51 uei51 iou214 xai51
 pən214 ʂʅ51 ɕiɛn55 puo55
@@ -5855,13 +5855,13 @@ in55 tɕiɛn51 pu51 yɛn214
 tsai51 ɕia51 xou51 tʂʅ55 ʂʅ51
 i51 i51 uei55 i35
 uei35 tɤ35 tʂʅ55 y35
-rən35 i51 iou214 iɛn35
+ɻən35 i51 iou214 iɛn35
 mi35 tʂɤ35 pu51 y35
-ʂu51 rən35 tʂʅ55 y35
+ʂu51 ɻən35 tʂʅ55 y35
 i51 tʂʅ35 uei35 tɕi35
-tʂɤ35 rən35 tʂʅ55 y35
+tʂɤ35 ɻən35 tʂʅ55 y35
 i51 uei35 sɿ55 li51
-u35 tɕiŋ51 uei35 rən35
+u35 tɕiŋ51 uei35 ɻən35
 sɿ51 fɑŋ55 tɕʰi35 ɕyn51 tʂʅ55
 iou214 tɕiɑu51 tɤ35 ɕiŋ35
 sɿ51 kuo35 ʂun51 tʂʅ55
@@ -5878,21 +5878,21 @@ fu35 niɛn51 tɕyɛ35 ʂɑu51
 uɑŋ214 fu55 tɕʰiou35 ɕiɛn55 uɑŋ35
 kʰɤ51 kuŋ51 miŋ35 ɕiŋ35
 sɿ51 xuɑŋ35 tʰiɛn55 fu35 ʂɑŋ51
-ru35 pi214 tɕʰyɛn35 liou35
+ɻu35 pi214 tɕʰyɛn35 liou35
 u35 lun35 ɕy55 i214 uɑŋ35
 su51 ɕiŋ55 iɛ51 mei51
 sa214 sɑu214 tʰiŋ35 nei51
 uei35 min35 tʂʅ55 tʂɑŋ55
-ɕiou55 ər214 tʂʰɤ55 ma214
-kuŋ55 ʂʅ214 ruŋ35 piŋ55
-yŋ51 tɕiɛ51 ruŋ35 tsuo51
+ɕiou55 əɻ214 tʂʰɤ55 ma214
+kuŋ55 ʂʅ214 ɻuŋ35 piŋ55
+yŋ51 tɕiɛ51 ɻuŋ35 tsuo51
 yŋ51 tʰi51 man35 fɑŋ55
-tʂʅ51 ər214 rən35 min35
-tɕin214 ər214 xou35 tu51
+tʂʅ51 əɻ214 ɻən35 min35
+tɕin214 əɻ214 xou35 tu51
 yŋ51 tɕiɛ51 pu51 y35
-ʂən51 ər214 tʂʰu55 xua51
-tɕiŋ51 ər214 uei55 i35
-u35 pu51 rou35 tɕia55
+ʂən51 əɻ214 tʂʰu55 xua51
+tɕiŋ51 əɻ214 uei55 i35
+u35 pu51 ɻou35 tɕia55
 pai35 kuei55 tʂʅ55 tiɛn51
 ʂɑŋ51 kʰɤ214 muo35 iɛ214
 sɿ55 iɛn35 tʂʅ55 tiɛn51
@@ -5907,34 +5907,34 @@ xuei51 y35 miŋ35 iou214
 ʂu51 min35 ɕiɑu214 tsɿ214
 tsɿ214 sun55 ʂəŋ35 ʂəŋ35
 uan51 min35 mi35 pu51 tʂʰəŋ35
-ʂʅ51 ər214 iou214 tɕyn55 tsɿ214
-tɕi35 rou35 ər214 iɛn35
+ʂʅ51 əɻ214 iou214 tɕyn55 tsɿ214
+tɕi35 ɻou35 əɻ214 iɛn35
 pu51 ɕia35 iou214 tɕʰiɛn55
-ɕiɑŋ55 tsai51 ər214 ʂʅ51
+ɕiɑŋ55 tsai51 əɻ214 ʂʅ51
 ʂɑŋ51 pu35 kʰuei51 y35 u55 lou51
 u35 yɛ55 pu51 ɕiɛn214
 muo51 y35 yn35 kou51
 ʂən35 tʂʅ55 kɤ35 sɿ55
 pu51 kʰɤ214 tu51 sɿ55
 ʂən214 kʰɤ214 ʂɤ51 sɿ55
-pi51 ər214 uei35 tɤ35
+pi51 əɻ214 uei35 tɤ35
 pi214 tsɑŋ55 pi214 tɕia55
-ʂu55 ʂən51 ər214 tʂʅ214
+ʂu55 ʂən51 əɻ214 tʂʅ214
 pu51 tɕʰiɛn55 y35 i35
 pu51 tɕiɛn51 pu51 tsei35
 ɕiɛn55 pu51 uei35 tsɤ35
 tʰou35 uo214 i214 tʰɑu35
 pɑu51 tʂʅ55 i214 li214
-pi214 tʰuŋ35 ər35 tɕiɑu214
+pi214 tʰuŋ35 əɻ35 tɕiɑu214
 ʂʅ35 xuŋ35 ɕiɑu214 tsɿ214
-rən214 ran214 rou35 mu51
+ɻən214 ɻan214 ɻou35 mu51
 iɛn35 min35 tʂʅ55 sɿ55
-un55 un55 kuŋ55 rən35
+un55 un55 kuŋ55 ɻən35
 uei35 tɤ35 tʂʅ55 tɕi55
-tɕʰi35 uei35 tʂɤ35 rən35
+tɕʰi35 uei35 tʂɤ35 ɻən35
 kɑu51 tʂʅ55 xua51 iɛn35
 ʂun51 tɤ35 tʂʅ55 ɕiŋ35
-tɕʰi35 uei35 y35 rən35
+tɕʰi35 uei35 y35 ɻən35
 fu51 uei51 uo214 tɕiɛn51
 min35 kɤ51 iou214 ɕin55
 y35 xu55 ɕiɑu214 tsɿ214
@@ -5942,23 +5942,23 @@ uei51 tʂʅ55 tsɑŋ55 fou214
 fei214 ʂou214 ɕiɛ35 tʂʅ55
 iɛn35 ʂʅ51 tʂʅ55 ʂʅ51
 fei214 miɛn51 miŋ51 tʂʅ55
-iɛn35 tʰi35 tɕʰi35 ər214
+iɛn35 tʰi35 tɕʰi35 əɻ214
 tɕiɛ51 yɛ55 uei51 tʂʅ55
 i51 tɕi51 pɑu51 tsɿ214
 min35 tʂʅ55 mi35 iŋ35
-ʂei35 su51 tʂʅ55 ər35 muo51 tʂʰəŋ35
+ʂei35 su51 tʂʅ55 əɻ35 muo51 tʂʰəŋ35
 xɑu51 tʰiɛn55 kʰuŋ214 tʂɑu55
 uo214 ʂəŋ55 mi35 lɤ51
-ʂʅ51 ər214 məŋ51 məŋ51
+ʂʅ51 əɻ214 məŋ51 məŋ51
 uo214 ɕin55 tsʰan214 tsʰan214
-xuei51 ər214 tʂun55 tʂun55
+xuei51 əɻ214 tʂun55 tʂun55
 tʰiŋ55 uo214 miɑu214 miɑu214
 fei214 yŋ51 uei35 tɕiɑu51
 fu51 yŋ51 uei35 nyɛ51
 tɕiɛ51 yɛ55 uei51 tʂʅ55
 i51 y51 tɕi51 mɑu51
 y35 xu55 ɕiɑu214 tsɿ214
-kɑu51 ər214 tɕiou51 tʂʅ214
+kɑu51 əɻ214 tɕiou51 tʂʅ214
 tʰiŋ55 yŋ51 uo214 mou35
 ʂu51 u35 ta51 xuei214
 tʰiɛn55 fɑŋ55 tɕiɛn55 nan35
@@ -5967,7 +5967,7 @@ tɕʰy214 pʰi51 pu51 yɛn214
 xɑu51 tʰiɛn55 pu35 tʰɤ51
 xuei35 y51 tɕʰi35 tɤ35
 pi214 min35 tɑu51 tɕi35
-uan214 pi214 sɑŋ55 rou35
+uan214 pi214 sɑŋ55 ɻou35
 tɕʰi35 ɕia51 xou35 ɕyn35
 ly214 tsʰai214 tɕʰi35 liou35
 muo51 tsʰɿ214 ɕia51 min35
@@ -6001,13 +6001,13 @@ tuo55 uo214 kou51 min35
 kʰuŋ214 tɕi35 uo214 y214
 uei35 mou35 uei35 pi51
 luan51 kʰuɑŋ51 sɿ55 ɕiɑu55
-kɑu51 ər214 iou55 ɕy51
-xuei51 ər214 ɕy51 tɕyɛ35
-ʂei35 nəŋ35 tʂʅ35 rɤ51
+kɑu51 əɻ214 iou55 ɕy51
+xuei51 əɻ214 ɕy51 tɕyɛ35
+ʂei35 nəŋ35 tʂʅ35 ɻɤ51
 ʂʅ51 pu51 i214 tʂuo35
 tɕʰi35 xɤ35 nəŋ35 ʂu55
 tsai214 ɕy55 tɕi35 ni51
-ru35 pi214 su51 fəŋ55
+ɻu35 pi214 su51 fəŋ55
 i51 kʰuŋ214 tʂʅ55 ai51
 min35 iou214 su51 ɕin55
 pʰiŋ35 yn35 pu51 tai214
@@ -6024,7 +6024,7 @@ tɕy51 tʂuei51 tsʰu51 xuɑŋ55
 mi35 iou214 ly214 li51
 i214 niɛn51 tɕʰyŋ35 tsʰɑŋ55
 uei35 tsʰɿ214 xuei51 tɕyn55
-min35 rən35 suo214 tʂan55
+min35 ɻən35 suo214 tʂan55
 piŋ214 ɕin55 ɕyɛn55 iou35
 kʰɑu214 ʂən51 tɕʰi35 ɕiɑŋ55
 uei35 pi214 pu35 ʂun51
@@ -6035,42 +6035,42 @@ tʂan55 pi214 tʂuŋ55 lin35
 ʂən55 ʂən55 tɕʰi35 lu51
 pʰəŋ35 iou214 i214 tsən51
 pu51 ɕy55 i214 ku214
-rən35 i51 iou214 iɛn35
+ɻən35 i51 iou214 iɛn35
 tɕin51 tʰuei51 uei35 ku214
-uei35 tsʰɿ214 ʂəŋ51 rən35
+uei35 tsʰɿ214 ʂəŋ51 ɻən35
 tʂan55 iɛn35 pai214 li214
-uei35 pi214 y35 rən35
+uei35 pi214 y35 ɻən35
 fu51 kʰuɑŋ35 i214 ɕi214
 fei214 iɛn35 pu51 nəŋ35
 xu35 sɿ55 uei51 tɕi51
-uei35 tsʰɿ214 liɑŋ35 rən35
+uei35 tsʰɿ214 liɑŋ35 ɻən35
 fu35 tɕʰiou35 fu35 ti35
-uei35 pi214 rən214 ɕin55
+uei35 pi214 ɻən214 ɕin55
 ʂʅ51 ku51 ʂʅ51 fu51
 min35 tʂʅ55 tʰan55 luan51
 niŋ35 uei35 tʰu35 tu35
 ta51 fəŋ55 iou214 suei51
 iou214 kʰuŋ51 ta51 ku214
-uei35 tsʰɿ214 liɑŋ35 rən35
+uei35 tsʰɿ214 liɑŋ35 ɻən35
 tsuo51 uei35 ʂʅ51 ku214
 uei35 pi214 pu35 ʂun51
 tʂəŋ55 i214 tʂuŋ55 kou51
 ta51 fəŋ55 iou214 suei51
-tʰan55 rən35 pai51 lei51
+tʰan55 ɻən35 pai51 lei51
 tʰiŋ55 iɛn35 tsɤ35 tuei51
-suŋ51 iɛn35 ru35 tsuei51
+suŋ51 iɛn35 ɻu35 tsuei51
 fei214 yŋ51 tɕʰi35 liɑŋ35
 fu51 pi214 uo214 pei51
-tɕiɛ55 ər214 pʰəŋ35 iou214
-y35 tɕʰi214 pu51 tʂʅ55 ər35 tsuo51
-ru35 pi214 fei55 tʂʰuŋ35
+tɕiɛ55 əɻ214 pʰəŋ35 iou214
+y35 tɕʰi214 pu51 tʂʅ55 əɻ35 tsuo51
+ɻu35 pi214 fei55 tʂʰuŋ35
 ʂʅ35 i51 i51 xuo51
 tɕi51 tʂʅ55 in55 ny214
 fan214 y35 lai35 xɤ51
 min35 tʂʅ55 uɑŋ214 tɕi35
 tʂʅ35 liɑŋ35 ʂan51 pei51
 uei35 min35 pu35 li51
-ru35 yn35 pu35 kʰɤ51
+ɻu35 yn35 pu35 kʰɤ51
 min35 tʂʅ55 xuei35 y51
 tʂʅ35 tɕiŋ51 yŋ51 li51
 min35 tʂʅ55 uei51 li51
@@ -6078,11 +6078,11 @@ tʂʅ35 tɑu51 uei35 kʰou51
 liɑŋ35 yɛ55 pu51 kʰɤ214
 fu51 pei214 ʂan51 li51
 suei55 yɛ55 fei214 y35
-tɕi51 tsuo51 ər214 kɤ55
+tɕi51 tsuo51 əɻ214 kɤ55
 tʂuo55 pi214 yn35 xan51
 tʂɑu55 xuei35 y35 tʰiɛn55
 uɑŋ35 yɛ55 y35 xu35
-xɤ35 ku55 tɕin55 tʂʅ55 rən35
+xɤ35 ku55 tɕin55 tʂʅ55 ɻən35
 tʰiɛn55 tɕiɑŋ51 sɑŋ55 luan51
 tɕi55 tɕin214 tɕiɛn51 tʂən55
 mi35 ʂən35 pu51 tɕy214
@@ -6102,7 +6102,7 @@ niŋ35 tiŋ55 uo214 kuŋ55
 xan51 tɕi51 ta51 ʂən35
 tsɤ35 pu51 kʰɤ214 tʰuei55
 tɕiŋ55 tɕiŋ55 iɛ51 iɛ51
-ru35 tʰiŋ35 ru35 lei35
+ɻu35 tʰiŋ35 ɻu35 lei35
 tʂou55 y35 li35 min35
 mi35 iou214 tɕiɛ35 i35
 xɑu51 tʰiɛn55 ʂɑŋ51 ti51
@@ -6118,13 +6118,13 @@ mi35 tʂan55 mi35 ku51
 tɕʰyn35 kuŋ55 ɕiɛn55 tʂəŋ55
 tsɤ35 pu51 uo214 tʂu51
 fu51 mu214 ɕiɛn55 tsu214
-xu35 niŋ35 rən214 y35
+xu35 niŋ35 ɻən214 y35
 xan51 tɕi51 ta51 ʂən35
 ti35 ti35 ʂan55 tʂʰuan55
 xan51 pa35 uei35 nyɛ51
-ru35 tʰan35 ru35 fən35
+ɻu35 tʰan35 ɻu35 fən35
 uo214 ɕin55 tan51 ʂu214
-iou55 ɕin55 ru35 ɕyn55
+iou55 ɕin55 ɻu35 ɕyn55
 tɕʰyn35 kuŋ55 ɕiɛn55 tʂəŋ55
 tsɤ35 pu51 uo214 un35
 xɑu51 tʰiɛn55 ʂɑŋ51 ti51
@@ -6145,16 +6145,16 @@ tɕy55 tsai55 ʂu51 tʂəŋ55
 tɕiou51 tsai55 tʂuŋ214 tsai214
 tɕʰy51 ma214 ʂʅ55 ʂʅ51
 ʂan51 fu55 tsuo214 iou51
-mi35 rən35 pu51 tʂou55
+mi35 ɻən35 pu51 tʂou55
 u35 pu51 nəŋ35 tʂʅ214
 tʂan55 ɑŋ35 xɑu51 tʰiɛn55
-yn35 ru35 xɤ35 li214
+yn35 ɻu35 xɤ35 li214
 tʂan55 ɑŋ35 xɑu51 tʰiɛn55
 iou214 xuei51 tɕʰi35 ɕiŋ55
 tai51 fu55 tɕyn55 tsɿ214
 tʂɑu55 tɕia214 u35 iŋ35
 ta51 miŋ51 tɕin51 tʂʅ214
-u35 tɕʰi51 ər214 tʂʰəŋ35
+u35 tɕʰi51 əɻ214 tʂʰəŋ35
 xɤ35 tɕʰiou35 uei35 uo214
 i214 li51 ʂu51 tʂəŋ55
 tʂan55 ɑŋ35 xɑu51 tʰiɛn55
@@ -6177,12 +6177,12 @@ təŋ55 ʂʅ51 nan35 pɑŋ55
 ʂʅ51 tʂʅ35 tɕʰi35 kuŋ55
 uɑŋ35 miŋ51 ʂən55 puo35
 ʂʅ51 ʂʅ51 nan35 pɑŋ55
-in55 ʂʅ51 ɕiɛ51 rən35
-i214 tsuo51 ər214 yŋ55
+in55 ʂʅ51 ɕiɛ51 ɻən35
+i214 tsuo51 əɻ214 yŋ55
 uɑŋ35 miŋ51 ʂɑu51 puo35
 tʂʰɤ51 ʂən55 puo35 tʰu214 tʰiɛn35
 uɑŋ35 miŋ51 fu51 y51
-tɕʰiɛn55 tɕʰi35 sɿ55 rən35
+tɕʰiɛn55 tɕʰi35 sɿ55 ɻən35
 ʂən55 puo35 tʂʅ55 kuŋ55
 ʂɑu51 puo35 ʂʅ51 iŋ35
 iou214 tʂʰu51 tɕʰi35 tʂʰəŋ35
@@ -6193,10 +6193,10 @@ sɿ51 mu214 tɕyɛ35 tɕyɛ35
 kou55 iŋ55 tʂuo35 tʂuo35
 uɑŋ35 tɕʰiɛn214 ʂən55 puo35
 lu51 tʂʰɤ55 tʂʰəŋ35 ma214
-uo214 tʰu35 ər214 tɕy55
-muo51 ru35 nan35 tʰu214
-ɕi55 ər214 tɕiɛ51 kuei55
-i214 tsuo51 ər214 pɑu214
+uo214 tʰu35 əɻ214 tɕy55
+muo51 ɻu35 nan35 tʰu214
+ɕi55 əɻ214 tɕiɛ51 kuei55
+i214 tsuo51 əɻ214 pɑu214
 uɑŋ214 tɕin51 uɑŋ35 tɕiou51
 nan35 tʰu214 ʂʅ51 pɑu214
 ʂən55 puo35 ɕin51 mai51
@@ -6208,16 +6208,16 @@ tʂʰɤ51 ʂən55 puo35 tʰu214 tɕiɑŋ55
 i214 tʂʅ51 tɕʰi35 tʂɑŋ55
 ʂʅ51 tʂʰuan35 tɕʰi35 ɕiŋ35
 ʂən55 puo35 puo55 puo55
-tɕi51 ru51 y35 ɕiɛ51
+tɕi51 ɻu51 y35 ɕiɛ51
 tʰu35 y51 tʂʰan214 tʂʰan214
 tʂou55 pɑŋ55 ɕiɛn35 ɕi214
-ruŋ35 iou214 liɑŋ35 xan51
+ɻuŋ35 iou214 liɑŋ35 xan51
 pu51 ɕiɛn214 ʂən55 puo35
 uɑŋ35 tʂʅ55 yɛn35 tɕiou51
 un35 u214 ʂʅ51 ɕiɛn51
 ʂən55 puo35 tʂʅ55 tɤ35
-rou35 xuei51 tɕʰiɛ214 tʂʅ35
-rou35 tsʰɿ214 uan51 pɑŋ55
+ɻou35 xuei51 tɕʰiɛ214 tʂʅ35
+ɻou35 tsʰɿ214 uan51 pɑŋ55
 un35 y35 sɿ51 kuo35
 tɕi35 fu214 tsuo51 suŋ51
 tɕʰi35 ʂʅ55 kʰuŋ214 ʂuo51
@@ -6232,16 +6232,16 @@ tʂɑu55 tɕia214 y35 ɕia51
 pɑu214 tsɿ55 tʰiɛn55 tsɿ214
 ʂəŋ55 tʂuŋ51 ʂan55 fu214
 tʂuŋ51 ʂan55 fu214 tʂʅ55 tɤ35
-rou35 tɕia55 uei35 tsɤ35
+ɻou35 tɕia55 uei35 tsɤ35
 liŋ51 i35 liŋ51 sɤ51
 ɕiɑu214 ɕin55 i51 i51
 ku214 ɕyn51 ʂʅ51 ʂʅ51
 uei55 i35 ʂʅ51 li51
-tʰiɛn55 tsɿ214 ʂʅ51 ruo51
+tʰiɛn55 tsɿ214 ʂʅ51 ɻuo51
 miŋ35 miŋ51 ʂʅ214 fu51
 uɑŋ35 miŋ51 tʂuŋ51 ʂan55 fu214
 ʂʅ51 ʂʅ51 pai214 pi51
-tsuan214 ruŋ35 tsu214 kʰɑu214
+tsuan214 ɻuŋ35 tsu214 kʰɑu214
 uɑŋ35 kuŋ55 ʂʅ51 pɑu214
 tʂʰu55 na51 uɑŋ35 miŋ51
 uɑŋ35 tʂʅ55 xou35 ʂɤ35
@@ -6249,22 +6249,22 @@ fu51 tʂəŋ51 y35 uai51
 sɿ51 fɑŋ55 yɛn35 fa55
 su51 su51 uɑŋ35 miŋ51
 tʂuŋ51 ʂan55 fu214 tɕiɑŋ55 tʂʅ55
-pɑŋ55 kuo35 ruo51 fou214
+pɑŋ55 kuo35 ɻuo51 fou214
 tʂuŋ51 ʂan55 fu214 miŋ35 tʂʅ55
 tɕi51 miŋ35 tɕʰiɛ214 tʂɤ35
 i214 pɑu214 tɕʰi35 ʂən55
 su51 iɛ51 fei214 tɕiɛ214
-i214 ʂʅ51 i55 rən35
-rən35 i51 iou214 iɛn35
-rou35 tsɤ35 ru35 tʂʅ55
+i214 ʂʅ51 i55 ɻən35
+ɻən35 i51 iou214 iɛn35
+ɻou35 tsɤ35 ɻu35 tʂʅ55
 kɑŋ55 tsɤ35 tʰu214 tʂʅ55
 uei35 tʂuŋ51 ʂan55 fu214
-rou35 i51 pu51 ru35
+ɻou35 i51 pu51 ɻu35
 kɑŋ55 i51 pu51 tʰu214
 pu51 u214 tɕin55 kua214
 pu35 uei51 tɕʰiɑŋ35 y51
-rən35 i51 iou214 iɛn35
-tɤ35 iou35 ru35 mɑu35
+ɻən35 i51 iou214 iɛn35
+tɤ35 iou35 ɻu35 mɑu35
 min35 ɕiɛn214 kʰɤ35 tɕy214 tʂʅ55
 uo214 i35 tʰu35 tʂʅ55
 uei35 tʂuŋ51 ʂan55 fu214 tɕy214 tʂʅ55
@@ -6284,7 +6284,7 @@ pa55 luan35 tɕiɛ55 tɕiɛ55
 tʂuŋ51 ʂan55 fu214 tsʰu35 tɕʰi35
 ʂʅ51 tʂʰuan35 tɕʰi35 kuei55
 tɕi35 fu214 tsuo51 suŋ51
-mu51 ru35 tɕʰiŋ55 fəŋ55
+mu51 ɻu35 tɕʰiŋ55 fəŋ55
 tʂuŋ51 ʂan55 fu214 yŋ214 xuai35
 i214 uei51 tɕʰi35 ɕin55
 i51 i51 liɑŋ35 ʂan55
@@ -6292,18 +6292,18 @@ uei35 y214 tiɛn51 tʂʅ55
 iou214 tʂuo55 tɕʰi35 tɑu51
 xan51 xou35 ʂou51 miŋ51
 uɑŋ35 tɕʰin55 miŋ51 tʂʅ55
-tsuan214 ruŋ35 tsu214 kʰɑu214
+tsuan214 ɻuŋ35 tsu214 kʰɑu214
 u35 fei51 tʂən51 miŋ51
 su51 iɛ51 fei214 tɕiɛ214
-tɕʰiɛn35 kuŋ51 ər214 uei51
+tɕʰiɛn35 kuŋ51 əɻ214 uei51
 tʂən51 miŋ51 pu35 i51
 kan51 pu51 tʰiŋ35 fɑŋ55
-i214 tsuo214 ruŋ35 pi51
+i214 tsuo214 ɻuŋ35 pi51
 sɿ51 mu214 i51 i51
 kʰuŋ214 ɕiou55 tɕʰiɛ214 tʂɑŋ55
-xan35 xou35 ru51 tɕin51
+xan35 xou35 ɻu51 tɕin51
 i214 tɕʰi35 tɕiɛ51 kuei55
-ru51 tɕin51 y35 uɑŋ35
+ɻu51 tɕin51 y35 uɑŋ35
 uɑŋ35 ɕi55 xan35 xou35
 ʂu55 tɕʰi35 suei35 tʂɑŋ55
 tiɛn51 fu35 tsʰuo51 xəŋ35
@@ -6332,13 +6332,13 @@ pai214 liɑŋ214 pʰəŋ35 pʰəŋ35
 pa55 luan35 tɕʰiɑŋ55 tɕʰiɑŋ55
 pu51 ɕiɛn214 tɕʰi35 kuɑŋ55
 tʂu55 ti51 tsʰuŋ55 tʂʅ55
-tɕʰi35 tɕʰi35 ru35 yn35
+tɕʰi35 tɕʰi35 ɻu35 yn35
 xan35 xou35 ku51 tʂʅ55
 lan51 tɕʰi35 iŋ35 mən35
 kuei51 fu51 kʰuŋ214 u214
 mi35 kuo35 pu35 tɑu51
 uei35 xan35 tɕi35 ɕiɑŋ55 iou55
-muo51 ru35 xan35 lɤ51
+muo51 ɻu35 xan35 lɤ51
 kʰuŋ214 lɤ35 xan35 tʰu214
 tʂʰuan55 tsɤ35 ɕy55 ɕy55
 fɑŋ35 ɕy51 fu214 fu214
@@ -6389,11 +6389,11 @@ un35 u214 ʂou51 miŋ51
 ʂɑu51 kuŋ55 uei35 xan51
 u35 yɛ55 y35 ɕiɑu214 tsɿ214
 ʂɑu51 kuŋ55 ʂʅ51 sɿ51
-tʂɑu51 min214 ruŋ35 kuŋ55
-yŋ51 ɕi55 ər214 tʂʅ214
-li35 ər214 kuei55 tsan51
+tʂɑu51 min214 ɻuŋ35 kuŋ55
+yŋ51 ɕi55 əɻ214 tʂʅ214
+li35 əɻ214 kuei55 tsan51
 tɕy51 tʂʰɑŋ51 i55 iou214
-kɑu51 y35 un35 rən35
+kɑu51 y35 un35 ɻən35
 ɕi55 ʂan55 tʰu214 tʰiɛn35
 y35 tʂou55 ʂou51 miŋ51
 tsɿ51 ʂɑu51 tsu214 miŋ51
@@ -6412,7 +6412,7 @@ uɑŋ35 miŋ51 tɕʰiŋ55 ʂʅ51
 nan35 tʂuŋ51 ta51 tsu214
 ta51 ʂʅ55 xuɑŋ35 fu51
 tʂəŋ214 uo214 liou51 ʂʅ55
-i214 ɕiou55 uo214 ruŋ35
+i214 ɕiou55 uo214 ɻuŋ35
 tɕi51 tɕiŋ51 tɕi51 tɕiɛ51
 xuei51 tsʰɿ214 nan35 kuo35
 uɑŋ35 uei51 in214 ʂʅ51
@@ -6429,21 +6429,21 @@ uɑŋ35 ʂu55 pɑu214 tsuo51
 fei214 ʂɑu51 fei214 iou35
 ɕy35 fɑŋ55 i51 sɑu55
 tʂən51 tɕiŋ55 ɕy35 fɑŋ55
-ru35 lei35 ru35 tʰiŋ35
+ɻu35 lei35 ɻu35 tʰiŋ35
 ɕy35 fɑŋ55 tʂən51 tɕiŋ55
 uɑŋ35 fən51 tɕyɛ35 u214
-ru35 tʂən51 ru35 nu51
+ɻu35 tʂən51 ɻu35 nu51
 tɕin51 tɕyɛ35 xu214 tʂʰən35
-xan214 ru35 ɕiɑu55 xu214
+xan214 ɻu35 ɕiɑu55 xu214
 pʰu55 tun55 xuai35 fən35
-rəŋ35 tʂʅ35 tʂʰou214 lu214
+ɻəŋ35 tʂʅ35 tʂʰou214 lu214
 tɕiɛ35 pi214 xuai35 pʰu214
 uɑŋ35 ʂʅ55 tʂʅ55 suo214
 uɑŋ35 ly214 tʰan55 tʰan55
-ru35 fei55 ru35 xan35
-ru35 tɕiɑŋ55 ru35 xan51
-ru35 ʂan55 tʂʅ55 pɑu55
-ru35 tʂʰuan55 tʂʅ55 liou35
+ɻu35 fei55 ɻu35 xan35
+ɻu35 tɕiɑŋ55 ɻu35 xan51
+ɻu35 ʂan55 tʂʅ55 pɑu55
+ɻu35 tʂʰuan55 tʂʅ55 liou35
 miɛn35 miɛn35 i51 i51
 pu35 tsʰɤ51 pu51 kʰɤ35
 tʂuo35 tʂəŋ55 ɕy35 kuo35
@@ -6465,9 +6465,9 @@ mɑu35 tsei35 mɑu35 tɕi35
 mi35 iou214 i35 tɕiɛ51
 tsuei51 ku214 pu51 ʂou55
 mi35 iou214 i35 tʂʰou55
-rən35 iou214 tʰu214 tʰiɛn35
+ɻən35 iou214 tʰu214 tʰiɛn35
 ny214 fan214 iou214 tʂʅ55
-rən35 iou214 min35 rən35
+ɻən35 iou214 min35 ɻən35
 ny214 fu51 ʂuo55 tʂʅ55
 tsʰɿ214 i35 u35 tsuei51
 ny214 fan214 ʂou55 tʂʅ55
@@ -6480,32 +6480,32 @@ uei35 ɕiɑu55 uei35 tʂʰʅ55
 fu51 iou214 tʂʰɑŋ35 ʂɤ35
 uei35 li51 tʂʅ55 tɕiɛ55
 luan35 fei214 tɕiɑŋ51 tsɿ51 tʰiɛn55
-ʂəŋ55 tsɿ51 fu51 rən35
+ʂəŋ55 tsɿ51 fu51 ɻən35
 fei214 tɕiɑu51 fei214 xuei51
 ʂʅ35 uei35 fu51 sɿ51
-tɕy35 rən35 tʂʅ51 tʰɤ51
+tɕy35 ɻən35 tʂʅ51 tʰɤ51
 tsən51 ʂʅ214 tɕiŋ51 pei55
 tɕʰi214 yɛ55 pu51 tɕi35
 i55 xu35 uei35 tʰɤ51
-ru35 tɕia214 san55 pei51
+ɻu35 tɕia214 san55 pei51
 tɕyn55 tsɿ214 ʂʅ51 ʂʅ35
 fu51 u35 kuŋ55 ʂʅ51
 ɕiou55 tɕʰi35 tsʰan35 tʂʅ55
 tʰiɛn55 xɤ35 i214 tsʰɿ51
 xɤ35 ʂən35 pu35 fu51
-ʂɤ51 ər214 tɕiɛ51 ti35
+ʂɤ51 əɻ214 tɕiɛ51 ti35
 uei35 y35 ɕy55 tɕi51
 pu35 ti51 pu51 ɕiɑŋ35
 uei55 i35 pu35 lei51
-rən35 tʂʅ55 yn35 uɑŋ35
+ɻən35 tʂʅ55 yn35 uɑŋ35
 pɑŋ55 kuo35 tʰiɛn214 tsʰuei51
 tʰiɛn55 tʂʅ55 tɕiɑŋ51 uɑŋ214
 uei35 tɕʰi35 iou55 i35
-rən35 tʂʅ55 yn35 uɑŋ35
+ɻən35 tʂʅ55 yn35 uɑŋ35
 ɕin55 tʂʅ55 iou55 i214
 tʰiɛn55 tʂʅ55 tɕiɑŋ51 uɑŋ214
 uei35 tɕʰi35 tɕi55 i214
-rən35 tʂʅ55 yn35 uɑŋ35
+ɻən35 tʂʅ55 yn35 uɑŋ35
 ɕin55 tʂʅ55 pei55 i214
 pi51 fei51 tɕiɛn51 tɕʰyɛn35
 uei35 tɕʰi35 ʂən55 i214
@@ -6516,7 +6516,7 @@ pu35 tsɿ51 uo214 xou51
 miɑu214 miɑu214 xɑu51 tʰiɛn55
 u35 pu35 kʰɤ51 kuŋ214
 u35 tʰiɛn214 xuɑŋ35 tsu214
-ʂʅ51 tɕiou51 ər214 xou51
+ʂʅ51 tɕiou51 əɻ214 xou51
 min35 tʰiɛn55 tɕi35 uei55
 tʰiɛn55 tu214 tɕiɑŋ51 sɑŋ55
 tiɛn55 uo214 tɕi55 tɕin214
@@ -6532,15 +6532,15 @@ tsʰəŋ35 pu51 tʂʅ55 tɕʰi35 tiɛn51
 tɕiŋ55 tɕiŋ55 iɛ51 iɛ51
 kʰuŋ214 tʂʰən35 pu51 niŋ35
 uo214 uei51 kʰuŋ214 piɛn214
-ru35 pi214 suei51 xan51
+ɻu35 pi214 suei51 xan51
 tsʰɑu214 pu35 kʰuei51 mɑu51
-ru35 pi214 tɕʰi55 tʂʰa35
+ɻu35 pi214 tɕʰi55 tʂʰa35
 uo214 ɕiɑŋ55 tsʰɿ214 pɑŋ55
 u35 pu35 kʰuei51 tʂʅ214
 uei35 ɕi55 tʂʅ55 fu51
-pu51 ru35 ʂʅ35
+pu51 ɻu35 ʂʅ35
 uei35 tɕin55 tʂʅ55 tɕiou51
-pu51 ru35 tsɿ55
+pu51 ɻu35 tsɿ55
 pi214 ʂu55 sɿ55 pai51
 xu35 pu35 tsɿ51 tʰi51
 tʂʅ35 ɕyŋ55 sɿ55 in214
@@ -6552,11 +6552,11 @@ pʰu214 sɿ55 xai51 i214
 tʂʅ35 ɕyŋ55 sɿ55 xuŋ35
 pu51 tsai55 uo214 kuŋ55
 ɕi55 ɕiɛn55 uɑŋ35 ʂou51 miŋ51
-iou214 ru35 ʂɑu51 kuŋ55
-rʅ51 pi51 kuo35 pai214 li214
-tɕin55 iɛ214 rʅ51 tsʰu51 kuo35 pai214 li214
+iou214 ɻu35 ʂɑu51 kuŋ55
+ɻʅ51 pi51 kuo35 pai214 li214
+tɕin55 iɛ214 ɻʅ51 tsʰu51 kuo35 pai214 li214
 y35 xu55 ai55 tsai55
-uei35 tɕin55 tʂʅ55 rən35
+uei35 tɕin55 tʂʅ55 ɻən35
 pu35 ʂɑŋ51 iou214 tɕiou51
 u55 mu51 tɕʰiŋ55 miɑu51
 su51 yŋ55 ɕiɛn214 ɕiɑŋ55
@@ -6565,7 +6565,7 @@ piŋ214 un35 tʂʅ55 tɤ35
 tuei51 yɛ51 tsai51 tʰiɛn55
 tɕyn51 pən55 tsou214 tsai51 miɑu51
 pu51 ɕiɛn214 pu51 tʂʰəŋ35
-u35 ʂɤ51 y35 rən35 sɿ55
+u35 ʂɤ51 y35 ɻən35 sɿ55
 uei35 tʰiɛn55 tʂʅ55 miŋ51
 y35 mu51 pu51 i214
 y35 pʰiŋ55 pu51 ɕiɛn214
@@ -6583,11 +6583,11 @@ liɛ51 un35 pi51 kuŋ55
 ɕi55 tsɿ55 tʂʅ214 fu35
 xuei51 uo214 u35 tɕiɑŋ55
 tsɿ214 sun55 pɑu214 tʂʅ55
-u35 fəŋ55 mi35 y35 ər214 pɑŋ55
+u35 fəŋ55 mi35 y35 əɻ214 pɑŋ55
 uei35 uɑŋ35 tɕʰi35 tʂʰuŋ35 tʂʅ55
-niɛn51 tsɿ55 ruŋ35 kuŋ55
+niɛn51 tsɿ55 ɻuŋ35 kuŋ55
 tɕi51 ɕy51 tɕʰi35 xuɑŋ35 tʂʅ55
-u35 tɕiŋ51 uei35 rən35
+u35 tɕiŋ51 uei35 ɻən35
 sɿ51 fɑŋ55 tɕʰi35 ɕyn51 tʂʅ55
 pu51 ɕia214 uei35 tɤ35
 pai214 pi51 tɕʰi35 ɕiŋ35 tʂʅ55
@@ -6596,11 +6596,11 @@ tʰiɛn55 tsuo51 kɑu55 ʂan55
 ta51 uɑŋ35 xuɑŋ35 tʂʅ55
 pi214 tsuo51 i214
 un35 uɑŋ35 kʰɑŋ55 tʂʅ55
-pi214 tsʰu35 i214 
+pi214 tsʰu35 i214
 tɕʰi35 iou214 i35 tʂʅ55 ɕiŋ35
 tsɿ214 sun55 pɑu214 tʂʅ55
 xɑu51 tʰiɛn55 iou214 tʂʰəŋ35 miŋ51
-ər51 xou51 ʂou51 tʂʅ55
+əɻ51 xou51 ʂou51 tʂʅ55
 tʂʰəŋ35 uɑŋ35 pu51 kan214 kʰɑŋ55
 su51 iɛ51 tɕi55 miŋ51 iou51 mi51
 y35 tɕi55 ɕi55
@@ -6610,7 +6610,7 @@ uo214 tɕiɑŋ55 uo214 ɕiɑŋ214
 uei35 iɑŋ35 uei35 niou35
 uei35 tʰiɛn55 tɕʰi35 iou51 tʂʅ55
 i35 ʂʅ51 ɕiŋ35 un35 uɑŋ35 tʂʅ55 tiɛn214
-rʅ51 tɕiŋ35 sɿ51 fɑŋ55
+ɻʅ51 tɕiŋ35 sɿ51 fɑŋ55
 i55 ku214 un35 uɑŋ35
 tɕi51 iou51 ɕiɑŋ214 tʂʅ55
 uo214 tɕʰi35 su51 iɛ51
@@ -6621,7 +6621,7 @@ xɑu51 tʰiɛn55 tɕʰi35 tsɿ214 tʂʅ55
 ʂʅ35 iou51 ɕy51 iou214 tʂou55
 puo35 iɛn35 tʂən51 tʂʅ55
 muo51 pu35 tʂən51 tiɛ35
-xuai35 rou35 pai214 ʂən35
+xuai35 ɻou35 pai214 ʂən35
 tɕi35 xɤ35 tɕʰiɑu35 yɛ51
 yn214 uɑŋ35 uei35 xou51
 miŋ35 tʂɑu55 iou214 tʂou55
@@ -6640,7 +6640,7 @@ iɛn55 iou214 sɿ51 fɑŋ55
 tɕin55 tɕin55 tɕʰi35 miŋ35
 tʂuŋ55 ku214 xuɑŋ35 xuɑŋ35
 tɕʰiŋ51 kuan214 tɕiɑŋ55 tɕiɑŋ55
-tɕiɑŋ51 fu35 rɑŋ35 rɑŋ35
+tɕiɑŋ51 fu35 ɻɑŋ35 ɻɑŋ35
 tɕiɑŋ51 fu35 tɕiɛn214 tɕiɛn214
 uei55 i35 fan214 fan214
 tɕi51 tsuei51 tɕi51 pɑu214
@@ -6648,38 +6648,38 @@ fu35 lu51 lai35 fan214
 sɿ55 un35 xou51 tɕi51
 kʰɤ51 pʰei51 pi214 tʰiɛn55
 li51 uo214 tʂəŋ55 min35
-muo51 fei214 ər214 tɕi35
+muo51 fei214 əɻ214 tɕi35
 i35 uo214 lai35 mou35
 ti51 miŋ51 ly51 y51
-u35 tsʰɿ214 tɕiɑŋ55 ər214 tɕiɛ51
+u35 tsʰɿ214 tɕiɑŋ55 əɻ214 tɕiɛ51
 tʂʰən35 tʂʰɑŋ35 y35 ʂʅ35 ɕia51
 tɕiɛ55 tɕiɛ55 tʂʰən35 kuŋ55
-tɕiŋ51 ər214 tsai51 kuŋ55
-uɑŋ35 li35 ər214 tʂʰəŋ35
-lai35 tsɿ55 lai35 ru35
+tɕiŋ51 əɻ214 tsai51 kuŋ55
+uɑŋ35 li35 əɻ214 tʂʰəŋ35
+lai35 tsɿ55 lai35 ɻu35
 tɕiɛ55 tɕiɛ55 pɑu214 tɕiɛ51
 uei35 muo51 tʂʅ55 tʂʰun55
 i51 iou51 xɤ35 tɕʰiou35
-ru35 xɤ35 ɕin55 y35
+ɻu35 xɤ35 ɕin55 y35
 y35 xuɑŋ35 lai35 mou35
 tɕiɑŋ55 ʂou51 tɕyɛ35 miŋ35
 miŋ35 tʂɑu55 ʂɑŋ51 ti51
 tɕʰi51 yŋ51 kʰɑŋ55 niɛn35
-miŋ51 uo214 tʂuŋ51 rən35
+miŋ51 uo214 tʂuŋ51 ɻən35
 tʂʅ51 nai214 tɕʰiɛn35 puo35
 iɛn55 kuan55 tʂʅ51 ai51
 i55 ɕi55 tʂʰəŋ35 uɑŋ35
-tɕi51 tʂɑu55 tɕia214 ər214
+tɕi51 tʂɑu55 tɕia214 əɻ214
 ly51 ʂʅ35 nuŋ35 fu55
 puo55 tɕyɛ35 pai214 ku214
-tɕyn51 fa55 ər214 sɿ55
+tɕyn51 fa55 əɻ214 sɿ55
 tʂuŋ55 san55 ʂʅ35 li214
-i51 fu35 ər214 kəŋ55
+i51 fu35 əɻ214 kəŋ55
 ʂʅ35 tɕʰiɛn55 uei35 ou214
 tʂən51 lu51 y35 fei55
 y35 pi214 ɕi55 yŋ55
 uo214 kʰɤ51 li51 tʂʅ214
-i51 iou214 sɿ55 ruŋ35
+i51 iou214 sɿ55 ɻuŋ35
 tsai51 pi214 u35 ɤ214
 tsai51 tsʰɿ214 u35 i35
 ʂu51 tɕi55 su51 iɛ51
@@ -6718,7 +6718,7 @@ y35 tɕiɛn51 kuɑŋ214 mu214
 ɕiɑŋ55 y35 sɿ51 sɿ51
 tɕia214 tsai55 xuɑŋ35 kʰɑu214
 suei35 y35 ɕiɑu51 tsɿ214
-ɕyɛn55 tʂɤ35 uei35 rən35
+ɕyɛn55 tʂɤ35 uei35 ɻən35
 un35 u214 uei35 xou51
 iɛn55 tɕi35 xuɑŋ35 tʰiɛn55
 kʰɤ51 tʂʰɑŋ55 tɕyɛ35 xou51
@@ -6758,7 +6758,7 @@ yn214 un35 un35 uɑŋ35
 kʰɤ51 kʰai55 tɕyɛ35 xou51
 sɿ51 u214 ʂou51 tʂʅ55
 ʂəŋ51 in55 ɤ51 liou35
-tɕʰi35 tiŋ51 ər214 kuŋ55
+tɕʰi35 tiŋ51 əɻ214 kuŋ55
 min214 y35 ɕiɑu214 tsɿ214
 tsɑu55 tɕia55 pu35 tsɑu51
 tɕʰyŋ35 tɕʰyŋ35 tsai51 tɕiou51
@@ -6787,15 +6787,15 @@ tʰiɛn55 uei35 ɕiɛn214 sɿ55
 miŋ51 pu35 i51 tsai55
 u35 yɛ55 kɑu55 kɑu55 tsai51 ʂɑŋ51
 tʂʅ51 tɕiɑŋ55 tɕyɛ35 ʂʅ51
-rʅ51 tɕiɛn55 tsai51 tsɿ55
+ɻʅ51 tɕiɛn55 tsai51 tsɿ55
 uei35 y35 ɕiɑu214 tsɿ214
 pu51 tsʰuŋ55 tɕiŋ51 tʂʅ214
-rʅ51 tɕiou51 yɛ51 tɕiɑŋ55
+ɻʅ51 tɕiou51 yɛ51 tɕiɑŋ55
 ɕyɛ35 iou214 tɕi55 ɕi55 y35 kuɑŋ55 miŋ35
 fuo35 ʂʅ35 tsɿ214 tɕiɛn55
 ʂʅ51 uo214 ɕiɛn214 tɤ35 ɕiŋ35
 y35 tɕʰi35 tʂʰəŋ35
-ər35 pi51 xou51 xuan51
+əɻ35 pi51 xou51 xuan51
 muo51 y35 pʰiŋ35 fəŋ55
 tsɿ51 tɕʰiou35 ɕin55 ʂʅ51
 tʂɑu51 yn214 pi214 tʰɑu35 tʂʰuŋ35
@@ -6832,7 +6832,7 @@ iou214 tɕiɑu55 tɕʰi35 ɕin55
 xu35 kʰɑu214 tʂʅ55 niŋ35
 fei214 tɕʰiɛ214 iou214 tɕʰiɛ214
 fei214 tɕin55 sɿ55 tɕin55
-tʂən51 ku214 ru35 tsɿ55
+tʂən51 ku214 ɻu35 tsɿ55
 tsʰɤ51 tsʰɤ51 liɑŋ35 sɿ51
 tʂʰu51 tsai214 nan35 mu214
 puo55 tɕyɛ35 pai214 kʰɤ35
@@ -6847,22 +6847,22 @@ tʰu35 liɑu214 ɕiou214 tʂʅ214
 ʂu214 tɕi51 mɑu51 tʂʅ214
 xuo51 tʂʅ55 tʂʅ51 tʂʅ51
 tɕi55 tʂʅ55 li51 li51
-tɕʰi35 tʂʰuŋ35 ru35 yŋ55
-tɕʰi35 pi214 ru35 tʂʅ51
+tɕʰi35 tʂʰuŋ35 ɻu35 yŋ55
+tɕʰi35 pi214 ɻu35 tʂʅ51
 i214 kʰai55 pai214 ʂʅ51
 pai214 ʂʅ51 iŋ35 tʂʅ214
 fu51 tsɿ214 niŋ35 tʂʅ214
-ʂa55 ʂʅ35 run35 mu214
+ʂa55 ʂʅ35 ɻun35 mu214
 iou214 tɕiou51 tɕʰi35 tɕiɑu214
 i214 sɿ51 i214 ɕy51
-ɕy51 ku214 tʂʅ55 rən35
+ɕy51 ku214 tʂʅ55 ɻən35
 sɿ55 i55 tɕʰi35 fou35
 tsai214 piɛn51 tɕʰiou35 tɕʰiou35
 tsɿ51 tʰɑŋ35 tsʰu35 tɕi55
 tsɿ51 iɑŋ35 tsʰu35 niou35
 nai51 tiŋ214 tɕi35 tsɿ55
 sɿ51 kuŋ55 tɕʰi35 tɕʰiou35
-tʂʅ214 tɕiou214 sɿ55 rou35
+tʂʅ214 tɕiou214 sɿ55 ɻou35
 pu51 u214 pu51 ɑu35
 xu35 kʰɑu214 tʂʅ55 ɕiou55
 y35 ʂuo51 uɑŋ35 ʂʅ55
@@ -6872,7 +6872,7 @@ tsun55 iɑŋ214 ʂʅ35 xuei51
 uo214 luŋ35 ʂou51 tʂʅ55
 tɕʰiɑu55 tɕʰiɑu55 uɑŋ35 tʂʅ55 tsɑu51
 tsai214 yŋ51 iou214 sɿ51
-ʂʅ35 uei35 ər214 kuŋ55 yn214 ʂʅ55
+ʂʅ35 uei35 əɻ214 kuŋ55 yn214 ʂʅ55
 suei35 uan51 pɑŋ55
 lou35 fəŋ55 niɛn35
 tʰiɛn55 miŋ51 fei214 tɕiɛ214
@@ -6992,7 +6992,7 @@ tɕi51 tsuo51 pʰan51 kuŋ55
 xuai35 i35 iou55 fu35
 tɕiɑu214 tɕiɑu214 xu214 tʂʰən35
 tsai51 pʰan51 ɕiɛn51 kuo35
-ʂu55 un51 ru35 kɑu55 tʰɑu35
+ʂu55 un51 ɻu35 kɑu55 tʰɑu35
 tsai51 pʰan51 ɕiɛn51 tɕʰiou35
 tɕi51 tɕi51 tuo55 ʂʅ51
 kʰɤ51 kuɑŋ214 tɤ35 ɕin55
@@ -7004,11 +7004,11 @@ pu35 kɑu51 y35 ɕyŋ55
 tsai51 pʰan51 ɕiɛn51 kuŋ55
 tɕiɑu214 kuŋ55 tɕʰi35 tɕʰiou35
 ʂu51 ʂʅ214 tɕʰi35 sou55
-ruŋ35 tʂʰɤ55 kʰuŋ214 puo35
+ɻuŋ35 tʂʰɤ55 kʰuŋ214 puo35
 tʰu35 y51 u35 i51
 tɕi51 kʰɤ51 xuai35 i35
 kʰuŋ214 ʂu55 pu35 ni51
-ʂʅ35 ku51 ər214 iou35
+ʂʅ35 ku51 əɻ214 iou35
 xuai35 i35 tsʰu51 xuo51
 pʰiɛn55 pi214 fei55 ɕiɑu55
 tɕi35 y35 pʰan51 lin35
@@ -7043,14 +7043,14 @@ tʂʅ51 y35 un35 u214
 tsuan214 ta51 uɑŋ35 tʂʅ55 ɕy51
 tʂʅ51 tʰiɛn55 tʂʅ55 tɕiɛ51
 y35 mu51 tʂʅ55 iɛ214
-u35 ər51 u35 y35
+u35 əɻ51 u35 y35
 ʂɑŋ51 ti51 lin35 ny214
 tun55 ʂɑŋ55 tʂʅ55 ly214
 kʰɤ51 ɕiɛn35 tɕyɛ35 kuŋ55
 uɑŋ35 yɛ55 ʂu55 fu51
-tɕiɛn51 ər214 yɛn35 tsɿ214
+tɕiɛn51 əɻ214 yɛn35 tsɿ214
 pi214 xou35 y35 lu214
-ta51 tʂʅ55 ər214 y214
+ta51 tʂʅ55 əɻ214 y214
 uei35 tʂou55 ʂʅ51 fu214
 nai214 miŋ51 lu214 kuŋ55
 pi214 xou35 y35 tuŋ55
@@ -7059,7 +7059,7 @@ tʰu214 tʰiɛn35 fu51 yŋ55
 tʂou55 kuŋ55 tʂʅ55 sun55
 tʂuɑŋ55 kuŋ55 tʂʅ55 tsɿ214
 luŋ35 tɕʰi35 tʂʰəŋ35 sɿ51
-liou51 pʰei51 ər214 ər214
+liou51 pʰei51 əɻ214 əɻ214
 tʂʰun55 tɕʰiou55 fei214 tɕiɛ214
 ɕiɑŋ214 sɿ51 pu35 tʰɤ51
 xuɑŋ35 xuɑŋ35 xou51 ti51
@@ -7069,37 +7069,37 @@ xuɑŋ35 tsu214 xou51 tɕi51
 tɕiɑŋ35 fu35 tɕi51 tuo55
 tʂou55 kuŋ55 xuɑŋ35 tsu214
 i51 tɕʰi35 fu35 ny214
-tɕʰiou55 ər35 tsai214 tʂʰɑŋ35
-ɕia51 ər35 pi51 xəŋ35
+tɕʰiou55 əɻ35 tsai214 tʂʰɑŋ35
+ɕia51 əɻ35 pi51 xəŋ35
 pai214 mu214 ɕiŋ55 kɑŋ55
 ɕi55 tsun55 tɕiɑŋ55 tɕiɑŋ55
 mɑu35 pʰɑu35 tsɿ51 kəŋ55
 piɛn55 tou51 ta51 fɑŋ35
 uan51 u214 iɑŋ35 iɑŋ35
 ɕiɑu51 sun55 iou214 tɕʰiŋ51
-pi214 ər214 tʂʰʅ51 ər35 tʂʰɑŋ55
-pi214 ər214 ʂou51 ər35 tsɑŋ55
+pi214 əɻ214 tʂʰʅ51 əɻ35 tʂʰɑŋ55
+pi214 əɻ214 ʂou51 əɻ35 tsɑŋ55
 pɑu214 pi214 tuŋ55 fɑŋ55
 lu214 pɑŋ55 ʂʅ51 tʂʰɑŋ35
 pu51 kʰuei55 pu51 pəŋ55
 pu35 tʂən51 pu51 tʰəŋ35
 san55 ʂou51 tsuo51 pʰəŋ35
-ru35 kɑŋ55 ru35 liŋ35
+ɻu35 kɑŋ55 ɻu35 liŋ35
 kuŋ55 tʂʰɤ55 tɕʰiɛn55 tʂʰəŋ35
 tʂu55 iŋ55 ly51 tʰəŋ35
-ər51 mɑu35 tʂʰuŋ35 kuŋ55
+əɻ51 mɑu35 tʂʰuŋ35 kuŋ55
 kuŋ55 tʰu35 san55 uan51
 pei51 tʂou51 tʂu55 tɕʰin55
 tʂəŋ55 tʰu35 tsəŋ55 tsəŋ55
-ruŋ35 ti35 ʂʅ51 iŋ55
+ɻuŋ35 ti35 ʂʅ51 iŋ55
 tɕiŋ55 ʂu55 ʂʅ51 tʂʰəŋ35
 tsɤ35 muo51 uo214 kan214 tʂʰəŋ35
-pi214 ər214 tʂʰɑŋ55 ər35 tʂʰʅ51
-pi214 ər214 ʂou51 ər35 fu51
+pi214 əɻ214 tʂʰɑŋ55 əɻ35 tʂʰʅ51
+pi214 əɻ214 ʂou51 əɻ35 fu51
 xuɑŋ35 fa55 tʰai35 pei55
 ʂou51 ɕy55 y35 ʂʅ51
-pi214 ər214 tʂʰɑŋ55 ər35 ta51
-pi214 ər214 tɕʰi35 ər35 ai51
+pi214 əɻ214 tʂʰɑŋ55 əɻ35 ta51
+pi214 əɻ214 tɕʰi35 əɻ35 ai51
 uan51 iou214 tɕʰiɛn55 suei51
 mei35 ʂou51 u35 iou214 xai51
 tʰai51 ʂan55 iɛn35 iɛn35
@@ -7117,7 +7117,7 @@ xuai35 i35 man35 muo51
 tɕi35 pi214 nan35 i35
 muo51 pu35 ʂuai51 tsʰuŋ55
 muo51 kan214 pu35 nuo51
-lu214 xou35 ʂʅ51 ruo51
+lu214 xou35 ʂʅ51 ɻuo51
 tʰiɛn55 ɕi55 kuŋ55 tʂʰun35 ku214
 mei35 ʂou51 pɑu214 lu214
 tɕy55 tʂʰɑŋ35 y35 ɕy214
@@ -7127,7 +7127,7 @@ liŋ51 tɕʰi55 ʂou51 mu214
 i35 ta51 fu55 ʂu51 ʂʅ51
 pɑŋ55 kuo35 ʂʅ51 iou214
 tɕi51 tuo55 ʂou51 tʂʅ214
-xuɑŋ35 fa51 ər35 tʂʰʅ214
+xuɑŋ35 fa51 əɻ35 tʂʰʅ214
 tsʰu35 lai35 tʂʅ55 suŋ55
 ɕin55 fu214 tʂʅ55 pa214
 ʂʅ51 tuan51 ʂʅ51 tu51
@@ -7137,7 +7137,7 @@ lu51 tɕʰin214 kʰuŋ214 ʂuo51
 ɕin55 miɑu51 i51 i51
 ɕi55 sɿ55 suo214 tsuo51
 kʰuŋ214 man51 tɕʰiɛ214 ʂuo51
-uan51 min35 ʂʅ51 ruo51
+uan51 min35 ʂʅ51 ɻuo51
 i55 y35 na51 y35
 tʂʅ51 uo214 tʰɑu35 ku214
 tsou51 ku214 tɕiɛn214 tɕiɛn214
@@ -7163,7 +7163,7 @@ tʰɑŋ55 sun55 tʂʅ55 tɕiɑŋ55
 tɕiɛ55 tɕiɛ55 liɛ51 tsu214
 iou214 tʂʅ51 sɿ55 xu51
 ʂən55 ɕi55 u35 tɕiɑŋ55
-tɕi35 ər214 sɿ55 suo214
+tɕi35 əɻ214 sɿ55 suo214
 tɕi51 tsai214 tɕʰiŋ55 ku55
 lai51 uo214 sɿ55 tʂʰəŋ35
 i51 iou214 xɤ35 kəŋ55
@@ -7177,13 +7177,13 @@ pa55 luan35 tsʰɑŋ55 tsʰɑŋ55
 i214 kɤ35 i214 ɕiɑŋ214
 uo214 ʂou51 miŋ35 pʰu214 tɕiɑŋ55
 tsɿ51 tʰiɛn55 tɕiɑŋ51 kʰɑŋ55
-fəŋ55 niɛn35 rɑŋ35 rɑŋ35
+fəŋ55 niɛn35 ɻɑŋ35 ɻɑŋ35
 lai35 kɤ35 lai35 ɕiɑŋ214
 tɕiɑŋ51 fu35 u35 tɕiɑŋ55
 ku51 y35 tʂəŋ55 tʂʰɑŋ35
 tʰɑŋ55 sun55 tʂʅ55 tɕiɑŋ55
 tʰiɛn55 miŋ51 ɕyɛn35 niɑu214
-tɕiɑŋ51 ər35 ʂəŋ55 ʂɑŋ55
+tɕiɑŋ51 əɻ35 ʂəŋ55 ʂɑŋ55
 tʂai35 in55 tʰu214 mɑŋ35 mɑŋ35
 ku214 ti51 miŋ51 u214 tʰɑŋ55
 tʂəŋ55 y51 pi214 sɿ51 fɑŋ55
@@ -7222,7 +7222,7 @@ xai214 uai51 iou214 tɕiɛ35
 ti51 miŋ51 pu51 uei35
 tʂʅ51 y35 tʰɑŋ55 tɕʰi35
 tʰɑŋ55 tɕiɑŋ51 pu51 tʂʰʅ35
-ʂəŋ51 tɕiŋ51 rʅ51 tɕi55
+ʂəŋ51 tɕiŋ51 ɻʅ51 tɕi55
 tʂɑu55 tɕia214 tʂʰʅ35 tʂʰʅ35
 ʂɑŋ51 ti51 ʂʅ51 tʂʅ55
 ti51 miŋ51 u214 y35 tɕiou214 uei35
@@ -7230,7 +7230,7 @@ ti51 miŋ51 u214 y35 tɕiou214 uei35
 uei35 ɕia51 kuo35 tʂuei51 liou35
 xɤ35 tʰiɛn55 tʂʅ55 ɕiou55
 pu35 tɕiŋ51 pu51 tɕʰiou35
-pu51 kɑŋ55 pu51 rou35
+pu51 kɑŋ55 pu51 ɻou35
 fu55 tʂəŋ51 iou55 iou55
 pai214 lu51 ʂʅ51 tɕʰiou35
 ʂou51 ɕiɑu214 kuŋ51 ta51 kuŋ51
@@ -7242,7 +7242,7 @@ pu51 nan214 pu51 suŋ214
 pai214 lu51 ʂʅ51 tsuŋ214
 u214 uɑŋ35 tsai214 pʰei51
 iou214 tɕʰiɛn35 piŋ214 yɛ51
-ru35 xuo214 liɛ51 liɛ51
+ɻu35 xuo214 liɛ51 liɛ51
 tsɤ35 muo51 uo214 kan214 xɤ35
 pɑu55 iou214 san55 niɛ51
 muo51 suei51 muo51 ta35
@@ -7257,7 +7257,7 @@ tɕiɑŋ51 y35 tɕʰiŋ55 ʂʅ51
 ʂʅ35 tsuo214 iou51 ʂɑŋ55 uɑŋ35
 tʰa51 pi214 in55 u214
 fən51 fa35 tɕiŋ55 tʂʰu214
-mi35 ru51 tɕʰi35 tsu214
+mi35 ɻu51 tɕʰi35 tsu214
 pʰou35 tɕiŋ55 tʂʅ55 ly214
 iou214 tsai214 iou214 suo214
 tʰɑŋ55 sun55 tʂʅ55 ɕy51
