@@ -11,6 +11,12 @@ STRUCTURE
 - programs for conversion from the romanisation systems to IPA
 - dialects: Taiwanese Hokkien, Taiwanese Hakka, Cantonese
 
-3) disambiguate.py:
+3) find_rhymes.py:
+- search for rhymes in the different IPA versions
+- looks for rhymes in the same stanza, +-5 lines from the current
+- writes down the rhyming pair, the type of the rhyme (inexact, exact) and rhyming (paired, crossed, encircling)
+- counts some relevant statistics
+
+4) disambiguate.py:
 - semi-automatic disambiguation of the words in the rhyming position
 - user has to choose one of the pronunciations, comparing it with the Mandarin pronunciation and if possible with rhyming characters in Mandarin version of Shijing
