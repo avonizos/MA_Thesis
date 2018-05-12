@@ -7,10 +7,8 @@
 import codecs
 import urllib
 import urllib2
-import re
 from time import sleep
-import time
-
+from lxml import html
 
 class Converter:
     def __init__(self):
@@ -23,12 +21,10 @@ class Converter:
             'Connection': 'keep-alive'}
         with codecs.open('../txt/shijing_original/characters_trad.txt', 'r', 'utf-8') as f:
             self.source = f.readlines()
-        self.out = codecs.open('../txt/shijing_original/hokkien_1.txt', 'w', 'utf-8')
+        self.out = codecs.open('../txt/shijing_original/hokkien.txt', 'w', 'utf-8')
         self.text = ''
 
     def read_source(self):
-        start_time = time.time()
-
         counter = 0
         sleep_c = 0
         for line in self.source:
@@ -44,9 +40,6 @@ class Converter:
             self.out.write('\n')
             counter += 1
             sleep_c += 1
-
-            print("CURRENT --- %s seconds ---" % (time.time() - start_time))
-
 
     def make_request(self, line):
         result = '-'
@@ -64,25 +57,34 @@ class Converter:
         except:
            sleep(300)
            response = urllib2.urlopen(req)
+
         raw_data = response.read()
         response.close()
 
-        sound = re.findall(u'tlsound">[\r\n\t]*(.*)[\r\n\t]*</', raw_data)
-        if sound is not None:
-             if len(sound) > 1:
-                 result = sound[0]
-                 result += '(' + sound[1]
+        tree = html.fromstring(raw_data)
+        if len(tree.cssselect('td.tlsound')) > 0:
+            sound = tree.cssselect('td.tlsound')
+            if len(sound) > 1:
+                 result = sound[0].text_content().split()[0]
+                 if '/' in result:
+                     result = result.replace('/', '(')
+                 if '(' in result:
+                     result += ',' + sound[1].text_content().split()[0]
+                 else:
+                     result += '(' + sound[1].text_content().split()[0]
                  if len(sound) > 2:
                      for res in sound[2:]:
-                         result += ', ' + res
-                 result += ')'
-             if len(sound) == 1:
-                 if sound is not None and len(sound) != 0:
-                     result = sound[0]
-
+                         result += ',' + res.text_content().split()[0]
+            result += ')'
+            if len(sound) == 1:
+                 if '/' in result:
+                    result = result.replace('/', '(')
+                 result = sound[0].text_content().split()[0]
+                 if '(' in result:
+                    result += ')'
         print result
 
-        result = result.decode('utf-8')
+        # result = result.decode('utf-8')
         self.out.write(result + ' ')
 
 c = Converter()

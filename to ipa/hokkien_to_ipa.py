@@ -4,6 +4,10 @@
 # Python program for converting the Taiwanese Hokkien
 # version of Shijing from romanisation system into IPA
 
+# There are several bugs:
+# when there are many options, might not convert nn -> to nasal vowels, ng -> velar nasal
+# sometimes does not convert symbol /
+
 import codecs
 import re
 

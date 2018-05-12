@@ -114,6 +114,7 @@ class Converter:
                         if query_text.encode("utf-8") in char:
                             new_query = char
                             break
+
                     if new_query != '' and len(new_query) == 6:
                         flag = 1
                         if query_text.encode("utf-8") == new_query[3:6]:
