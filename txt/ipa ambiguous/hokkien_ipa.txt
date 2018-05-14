@@ -433,7 +433,7 @@ kɔ21 ᵑɡua51(ŋɔ51) tɕik̚2 tɕʰə21(ɕau21,tɕʰau21)
 ᵑɡiəʔ5(ᵑɡiɔk̚2) lɔŋ33 tɕʰə21(ɕau21,tɕʰau21) -
 tiŋ21(tiɔŋ55,tiɔŋ21) ɕim55 ɕi33 tə33
 tɕɔŋ55 hɔŋ55 tɕʰã51 -
-hui33 ʑan,lian24 kʰiŋ51 lai24
+hui33 ʑan24 kʰiŋ51 lai24
 ᵐbɔk̚5(mai21,ᵐbəʔ5) iŋ51(ɔŋ51) ᵐbɔk̚5(mai21,ᵐbəʔ5) lai24
 iu55 iu55 ᵑɡua51(ŋɔ51) su55(ɕi55,su21)
 tɕɔŋ55 hɔŋ55 tɕʰã51 -
@@ -743,8 +743,8 @@ put̚2(puʔ2) sut̚2(sap̚2) - ia33
 ᵑɡik̚5(ᵑɡiɔk̚5,ᵑɡiɔk̚5) tɕi55 - ia33
 tɕʰũ33(ɕɔŋ51,ɕɔŋ21,ɕɔŋ33,ɕũ33) tɕi55 - ia33
 iɔŋ24 tɕʰã51 tɕi55 - ia33
-hɔ24(ɔ24,ɔ24) ʑan,lian24 ʑ,li24 tʰian55(tʰĩ55) ia33
-hɔ24(ɔ24,ɔ24) ʑan,lian24 ʑ,li24 te21 ia33
+hɔ24(ɔ24,ɔ24) ʑan24 ʑ,li24 tʰian55(tʰĩ55) ia33
+hɔ24(ɔ24,ɔ24) ʑan24 ʑ,li24 te21 ia33
 - - - -
 ki24 tɕi55 tʰian51(tian51,tian51) ia33
 bɔŋ24 he55(hit̚2,pi51) tsə21 -
@@ -795,7 +795,7 @@ baŋ33(bɔŋ33) tsʰə51(tsʰɔ51,tsʰɔ51) i51(u51) tŋ̍24(tɔŋ24)
 kiŋ51 san55(suã55) i51(u51) kiã55(kiŋ55)
 haŋ24(kaŋ21) kuan55(kuan21) - saŋ51(sŋ̍55,sɔŋ55,sɔŋ55)
 pəʔ2(pɔk̚2,pəʔ2) un24 ki24 kiat̚2(ʑi21,kiat̚2)
-tɕɔŋ55 ʑan,lian24 ín,un51 tsɔŋ55
+tɕɔŋ55 ʑan24 ín,un51 tsɔŋ55
 liŋ24 hɔ33(u51) ki21 lan24(liŋ24)
 biŋ33(mia33) he55(hit̚2,pi51) kuã55 ʑin24(lin24,laŋ24,ʑn,lin24)
 ɕiŋ55(tsʰẽ,tɕʰẽ55,san55) gian24 - ka21
@@ -1677,7 +1677,7 @@ kʰə51(kʰɔ55,kʰɔ51,kʰua51) i51 paŋ24(pʰaŋ33,hɔŋ24) -
 iau55(iau21) tɕi55 - tɕi55
 hə51(hɔ̃21) ʑin24(lin24,laŋ24,ʑn,lin24) hɔk̚5 tɕi55
 hə51(hɔ̃21) ʑin24(lin24,laŋ24,ʑn,lin24) tʰe24(tʰeʔ5) tʰe24(tʰeʔ5)
-uan51 ʑan,lian24 tsə51 pʰik̚2
+uan51 ʑan24 tsə51 pʰik̚2
 pʰue21(pue33) ki24 tɕʰũ33(ɕɔŋ51,ɕɔŋ21,ɕɔŋ33,ɕũ33) -
 i24(ui24) ɕi33 - ɕim55
 ɕi33 i51 ui24(ui33) tɕʰi21(tɕʰaʔ2)
@@ -1985,7 +1985,7 @@ tsʰai51 liŋ24 tsʰai51 liŋ24
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 kɔ51 ik̚5 ᵐbə24(ᵐbu24) ɕin21
 ɕa21 - ɕa21 -
-kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan,lian24
+kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan24
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 hɔ24(ɔ24,ɔ24) tik̚2(tit̚2) -
 tsʰai51 kʰɔ51(ku55) tsʰai51 kʰɔ51(ku55)
@@ -1993,7 +1993,7 @@ tsʰai51 kʰɔ51(ku55) tsʰai51 kʰɔ51(ku55)
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 kɔ51 ik̚5 ᵐbə24(ᵐbu24) i51(u51)
 ɕa21 - ɕa21 -
-kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan,lian24
+kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan24
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 hɔ24(ɔ24,ɔ24) tik̚2(tit̚2) -
 tsʰai51 - tsʰai51 -
@@ -2001,7 +2001,7 @@ tsʰai51 - tsʰai51 -
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 kɔ51 ik̚5 ᵐbə24(ᵐbu24) tɕiŋ24(tɕɔŋ24,tɕʰɔŋ55)
 ɕa21 - ɕa21 -
-kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan,lian24
+kɔ51 ik̚5 ᵐbə24(ᵐbu24) ʑan24
 ʑin24(lin24,laŋ24,ʑn,lin24) tɕi55 ui24(ui33) gian24
 hɔ24(ɔ24,ɔ24) tik̚2(tit̚2) -
 iu51(u33) tɕʰa55(ki,ku55) lin24 lin24
@@ -2051,7 +2051,7 @@ liŋ24(liɔŋ24,giŋ24,lɔŋ55,liŋ24) tun51 tɕi55 haʔ5(hap̚5,kap̚2,kaʔ2)
 gian24 liam33 kun55 ʑi51(li51,tɕi51,tsu51)
 un55 ki24 tsai33 ip̚2
 hŋ̍55(hɔŋ55,pŋ̍55,pŋ̍55) hə24(ua24,hə24) ui24(ui33) ki24(ki55)
-hɔ24(ɔ24,ɔ24) ʑan,lian24 ᵑɡua51(ŋɔ51) liam33 tɕi55
+hɔ24(ɔ24,ɔ24) ʑan24 ᵑɡua51(ŋɔ51) liam33 tɕi55
 - - kʰaŋ51(kʰɔŋ51,kʰɔŋ51) -
 - mau24(mɔ24) - -
 bɔŋ24 huaʔ5(huat̚5) iu51(u33) uan51
@@ -2246,7 +2246,7 @@ hu51(pɔ51) i51 su55(suʔ2) tɕi55
 hu55 ia33 put̚2(puʔ2) liɔŋ24
 kɔk̚2 ʑin24(lin24,laŋ24,ʑn,lin24) ti55(tsai55) tɕi55
 ti55(tsai55) ʑ,li24 put̚2(puʔ2) i51
-tsui24(sui24) ɕik̚2 ʑan,lian24 aʔ
+tsui24(sui24) ɕik̚2 ʑan24 aʔ
 bɔŋ33(ᵐbɔ33,ᵐbɔ33) bun24(m̩ŋ̍24) iu51(u33) mue24(m̩̩24,mui24,mui24)
 iu51(u33) hiəʔ5 - tɕi51
 hu55 ia33 put̚2(puʔ2) liɔŋ24
@@ -2504,7 +2504,7 @@ ban33 ɕu33 ᵐbə24(ᵐbu24) kiɔŋ55
 ᵐba33(lai33,tɕʰi55) hiəʔ5 ᵐba33(lai33,tɕʰi55) hiəʔ5
 ki21 tsʰu51 ᵑɡua51(ŋɔ51) ʑi51(li51,tɕi51,tsu51)
 ᵐbə24(ᵐbu24) hui51 ᵑɡua51(ŋɔ51) ɕik̚2
-in55(un55,un55) su55(suʔ2) kʰin,kʰûn24 su55(suʔ2)
+in55(un55,un55) su55(suʔ2) kʰin24 su55(suʔ2)
 - ʑi51(li51,tɕi51,tsu51) tɕi55 bin51 su55(suʔ2)
 - tʰian55(tʰĩ55) tɕi55 ᵐbi33(ᵐbue,ᵐbe33) im55(iam55) hɔ33(u51)
 tʰiat̚2 he55(hit̚2,pi51) saŋ51(sŋ̍55,sɔŋ55,sɔŋ55) tʰɔ51
@@ -2716,7 +2716,7 @@ ham33(hə24,hə33,hue24) ᵑɡak̚5(lɔk̚5,ŋau33,ᵑɡak̚5) tɕʰã51 -
 ᵑɡi24 ni33(nia33) ɕik̚2 ka55(ke55)
 ᵑɡak̚5(lɔk̚5,ŋau33,ᵑɡak̚5) ni33(nia33) tsʰe55 -
 ɕi33 kiu21 ɕi33 tɔ24
-- ki24 ʑan,lian24 hɔ̃ʔ
+- ki24 ʑan24 hɔ̃ʔ
 huaʔ5(huat̚5) ᵐbak̚5(ᵐbɔk̚5) tiŋ55 tiŋ55
 tɕau51(niau51) biŋ24 ĩ55 ĩ55
 tsʰut̚2 tsu33 iu55 kɔk̚2
@@ -2932,11 +2932,11 @@ i24(ui24) ki24 kai55 aʔ
 ᵐbut̚5(mih,mn̍gʔ5,miʔ2) ki24 iu51(u33) aʔ
 i24(ui24) ki24 ɕi24 aʔ
 lam24 iu51(u33) ka55 hi24(hu24,ᵑɡu24,hi24)
-- ʑan,lian24 ta21(tau21) ta21(tau21)
+- ʑan24 ta21(tau21) ta21(tau21)
 kun55 ʑi51(li51,tɕi51,tsu51) iu51(u33) tɕu51
 ka55 pin55 ɕik̚2(ɕit̚2) ĩ21(ian21,ian55) i51 ᵑɡak̚5(lɔk̚5,ŋau33,ᵑɡak̚5)
 lam24 iu51(u33) ka55 hi24(hu24,ᵑɡu24,hi24)
-- ʑan,lian24 - -
+- ʑan24 - -
 kun55 ʑi51(li51,tɕi51,tsu51) iu51(u33) tɕu51
 ka55 pin55 ɕik̚2(ɕit̚2) ĩ21(ian21,ian55) i51 -
 lam24 iu51(u33) - ᵐbak̚5(ᵐbɔk̚5)
@@ -2944,7 +2944,7 @@ kam55 - - tɕi55
 kun55 ʑi51(li51,tɕi51,tsu51) iu51(u33) tɕu51
 ka55 pin55 ɕik̚2(ɕit̚2) ĩ21(ian21,ian55) - tɕi55
 pʰian55 pʰian55 tɕa51 tsui55
-- ʑan,lian24 lai24 su55(ɕi55,su21)
+- ʑan24 lai24 su55(ɕi55,su21)
 kun55 ʑi51(li51,tɕi51,tsu51) iu51(u33) tɕu51
 ka55 pin55 ɕik̚2(ɕit̚2) ĩ21(ian21,ian55) iu33 su55(ɕi55,su21)
 lam24 san55(suã55) iu51(u33) tai24
@@ -3301,7 +3301,7 @@ i51 iŋ51 tã55(kim55,kin55) ɕaʔ5(ɕik̚5)
 sɔ51 ui33 i55 ʑin24(lin24,laŋ24,ʑn,lin24)
 i24 - ka55 kʰeʔ2(kʰik̚2)
 - - peʔ5(pik̚5,peʔ5) -
-- ʑan,lian24 lai24 su55(ɕi55,su21)
+- ʑan24 lai24 su55(ɕi55,su21)
 ni33(nia33) kaŋ55(kɔŋ55) ni33(nia33) hau24(hɔ24,hau24)
 iat̚2(ik̚5,it̚5) u33 ᵐbə24(ᵐbu24) ki24(ki55)
 ɕin33 ni33(nia33) iu55 iu24
@@ -3559,7 +3559,7 @@ ik̚5 put̚2(puʔ2) ᵑɡua51(ŋɔ51) lat̚5(lik̚5,li51)
 ɕim55 tɕi55 iu55 aʔ
 zu,lu24 hik̚5 kat̚2(kiat̚2) tɕi55
 tã55(kim55,kin55) - tɕi55 tɕã21(tɕiŋ21,tɕã55)
-hɔ24(ɔ24,ɔ24) ʑan,lian24 le33(li33,le33) aʔ
+hɔ24(ɔ24,ɔ24) ʑan24 le33(li33,le33) aʔ
 - tɕi55 hŋ̍55(hɔŋ55,pŋ̍55,pŋ̍55) iɔŋ24
 liŋ24 hik̚5 ᵐbiat̚5 tɕi55
 - - tsɔŋ55 tɕu55
@@ -3633,7 +3633,7 @@ put̚2(puʔ2) tɕik̚2 ᵑɡua51(ŋɔ51) ᵐbɔ24
 tʰiat̚2 ᵑɡua51(ŋɔ51) tɕʰũ24 ɔk̚2
 tsʰan24(tian24,tian24) tsut̚2 u55 lai24
 uat̚5 hɔ33 put̚2(puʔ2) -
-le51 tɕik̚2 ʑan,lian24 aʔ
+le51 tɕik̚2 ʑan24 aʔ
 hɔŋ24 hu33 kʰaŋ51(kʰɔŋ51,kʰɔŋ51) ɕã21(ɕiŋ21)
 tsəʔ2(tsɔk̚2) tə55(tɔ55) - ã21(hiã21,hiɔŋ21,ŋ̍21,hiaŋ21)
 tik̚5 sam55(sã55,sam21) iu51(u33) su33(tai33)
@@ -4661,7 +4661,7 @@ lɔ33 tɕʰa55(ki,ku55) ɕiŋ24(ɕiŋ33) ᵐbe51(ma51,ma55,ma51)
 iu33 hə24(ua24,hə24) hɔ33 tɕi55
 hian24 - kip̚5 -
 pi55 hui21 - tsuan24(tsuã24)
-gian24 tsʰai51 ki24 kʰin,kʰûn24
+gian24 tsʰai51 ki24 kʰin24
 kun55 ʑi51(li51,tɕi51,tsu51) lai24 tiau24(tiau55)
 gian24 kuan55(kuan21) ki24 ki24
 ki24 ki24 - -
@@ -4697,7 +4697,7 @@ pʰian55 ki24 huan51(piŋ51) aʔ
 hiã55(hiŋ55) te33(ti33) hun33(hŋ̍55,hun55) in55
 ᵐbə24(ᵐbu24) - hŋ̍33(uan51) aʔ
 ni33(nia33) tɕi55 hŋ̍33(uan51) aʔ
-bin24 - ʑan,lian24 aʔ
+bin24 - ʑan24 aʔ
 ni33(nia33) tɕi55 ka21(kau21) aʔ
 bin24 - hau33 aʔ
 tsʰu51 liŋ33 hiã55(hiŋ55) te33(ti33)
@@ -5225,8 +5225,8 @@ ki24 tik̚2 - hue51(hui51)
 ki21 ɕu33 te21 tɕi51
 ɕi55(ɕi21,ɕi55) - sun55(sŋ̍55) ʑi51(li51,tɕi51,tsu51)
 te21 ui33 bun24 ɔŋ24
-ᵐbə24(ᵐbu24) ʑan,lian24 puan33 uan33
-ᵐbə24(ᵐbu24) ʑan,lian24 him55 -
+ᵐbə24(ᵐbu24) ʑan24 puan33 uan33
+ᵐbə24(ᵐbu24) ʑan24 him55 -
 tan21(tan33) ɕan55(ɕiŋ55,ɕin55) tiŋ55 - huã33(gan33)
 ᵐbat̚5(ᵐbit̚5) ʑin24(lin24,laŋ24,ʑn,lin24) put̚2(puʔ2) kiɔŋ55
 kam51(kã51) kī,ku33 ta55(tai33,tua33) paŋ55
@@ -5373,7 +5373,7 @@ put̚2(puʔ2) - put̚2(puʔ2) hu21
 i51 - - liŋ24
 ɕɔŋ33(tɕʰũ33,tɕũ33,ɕaŋ33,ɕɔŋ51) te21 put̚2(puʔ2) liŋ24
 put̚2(puʔ2) kʰŋ̍55(kʰɔŋ55,kʰŋ̍55) - tsʰai33(sai33,su33)
-ki55(ku55,ku55) ʑan,lian24 sẽ55(sĩ55,ɕiŋ55,tsʰẽ,tɕʰẽ55) ʑi51(li51,tɕi51,tsu51)
+ki55(ku55,ku55) ʑan24 sẽ55(sĩ55,ɕiŋ55,tsʰẽ,tɕʰẽ55) ʑi51(li51,tɕi51,tsu51)
 tan21(tan33) ti21 tɕi55 ai21 haŋ33
 ᵑɡu24(ᵑɡiu24,ᵑɡu24) iũ24(iɔŋ24,iũ24) - ʑ,li33 tɕi55
 tan21(tan33) ti21 tɕi55 pẽ24(pĩ24,piã24,piŋ24) lim24(na24,na51,lim24)
@@ -5727,16 +5727,16 @@ i51 kin51 - -
 ɕi33 iŋ33(iɔŋ33) ta55(tai33,tua33) -
 ɕɔŋ33(tɕʰũ33,tɕũ33,ɕaŋ33,ɕɔŋ51) te21 pan51 pan51
 e33(ha33,he33,e55) bin24 tsut̚2 tan55
-tsʰut̚2 ue33 put̚2(puʔ2) ʑan,lian24
+tsʰut̚2 ue33 put̚2(puʔ2) ʑan24
 ui24(ui33) iau51(iu55,iu24) put̚2(puʔ2) hŋ̍33(uan51)
 - ɕã21(ɕiŋ21) kŋ̍51(kɔŋ51,kuan51) kŋ̍51(kɔŋ51,kuan51)
 put̚2(puʔ2) ɕit̚5(tsat̚5) - -
 iau51(iu55,iu24) tɕi55 ᵐbi33(ᵐbue,ᵐbe33) hŋ̍33(uan51)
 ɕi33 iŋ33(iɔŋ33) ta55(tai33,tua33) -
 tʰian55(tʰĩ55) tɕi55 hŋ̍55(hɔŋ55,pŋ̍55,pŋ̍55) lan33(lan24)
-ᵐbə24(ᵐbu24) ʑan,lian24 hian21 hian21
+ᵐbə24(ᵐbu24) ʑan24 hian21 hian21
 tʰian55(tʰĩ55) tɕi55 hŋ̍55(hɔŋ55,pŋ̍55,pŋ̍55) -
-ᵐbə24(ᵐbu24) ʑan,lian24 tsʰua33(ɕat̚2) tsʰua33(ɕat̚2)
+ᵐbə24(ᵐbu24) ʑan24 tsʰua33(ɕat̚2) tsʰua33(ɕat̚2)
 ɕi24(su24) tɕi55 tɕʰip̚2(tɕip̚5) aʔ
 bin24 tɕi55 - aʔ
 ɕi24(su24) tɕi55 - aʔ
@@ -5750,7 +5750,7 @@ tʰiã55(tʰiŋ21,tʰiŋ55) ᵑɡua51(ŋɔ51) hiau55 hiau55
 ɕan55(ɕiŋ55,ɕin55) bin24 iu51(u33) gian24
 sun24 - - ᵑɡiə24
 tʰian55(tʰĩ55) tɕi55 hŋ̍55(hɔŋ55,pŋ̍55,pŋ̍55) ᵑɡik̚5(ᵑɡiəʔ5,ᵑɡiɔk̚5)
-ᵐbə24(ᵐbu24) ʑan,lian24 ᵑɡiəʔ5(ᵑɡiɔk̚2) ᵑɡiəʔ5(ᵑɡiɔk̚2)
+ᵐbə24(ᵐbu24) ʑan24 ᵑɡiəʔ5(ᵑɡiɔk̚2) ᵑɡiəʔ5(ᵑɡiɔk̚2)
 lau51(lau33,lə51,nɔ51) hu55 kuan21 kuan21
 ɕau51(ɕə51) ʑi51(li51,tɕi51,tsu51) - -
 hui51 ᵑɡua51(ŋɔ51) gian24 -
@@ -6882,7 +6882,7 @@ pə51 iu51(u33) - su33
 kʰik̚2 tiã33(tiŋ33) - ka55(ke55)
 - tɕau55 - tʰian55(tʰĩ55)
 hɔŋ24 i51 - tɕi55
-bun24 ɔŋ24 ki21 kʰin,kʰûn24 tɕi51
+bun24 ɔŋ24 ki21 kʰin24 tɕi51
 ᵑɡua51(ŋɔ51) in21(iŋ55,iŋ21,iŋ55) ɕu33 tɕi55
 hu55 ɕi24 - su55(ɕi55,su21)
 ᵑɡua51(ŋɔ51) - i24(ui24) kiu24 tiã33(tiŋ33)
@@ -6955,7 +6955,7 @@ kun55 ʑi51(li51,tɕi51,tsu51) iu51(u33) kʰak̚2(kʰɔk̚2)
 - sun55(sŋ̍55) ʑi51(li51,tɕi51,tsu51)
 - - ᵑɡak̚5(lɔk̚5,ŋau33,ᵑɡak̚5) -
 su55(ɕi55,su21) ᵑɡak̚5(lɔk̚5,ŋau33,ᵑɡak̚5) - sui51(tsui51,tsui51)
-pəʔ5(pɔk̚5,pɔk̚5) tsʰai51 ki24 kʰin,kʰûn24
+pəʔ5(pɔk̚5,pɔk̚5) tsʰai51 ki24 kʰin24
 lɔ51(luʔ2,lɔ51) hau24(hɔ24,hau24) le33 tɕi51
 gian24 kuan55(kuan21) ki24 ki24
 ki24 ki24 - -

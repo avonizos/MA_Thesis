@@ -250,19 +250,19 @@ ko44 yoŋ53 tsi44 pʰuŋ53
 sou212 si44 ŋu32(ŋou242) tsuŋ32
 uoi32 sie53 uoi32 sie53
 tʰɔy212 siʔ5(sieʔ5) tsøy242 kuŋ44
-yŋ 44 ki44(ki53) -
+yŋ44 ki44(ki53) -
 tsɑi242 na44(naŋ53) saŋ44 tsi44 yoŋ53
 ho53 sy44 uoi53 sy44
 mouʔ5 kaŋ32 høyʔ5 huoŋ53
 tsiŋ32 tsiŋ32 kuŋ44 tsy32
 kuoi44 tsai44 kuoi44 tsai44
-yŋ 44 ki44(ki53) -
+yŋ44 ki44(ki53) -
 tsɑi242 na44(naŋ53) saŋ44 tsi44 tsʰɑiʔ23
 ho53 sy44 uoi53 sy44
 mouʔ5 kaŋ32 huoŋ53 sɛiʔ23
 tsiŋ32 tsiŋ32 kuŋ44 tsy32
 kuoi44 tsai44 kuoi44 tsai44
-yŋ 44 ki44(ki53) -
+yŋ44 ki44(ki53) -
 tsɑi242 na44(naŋ53) saŋ44 tsi44 kiɑ242
 ho53 sy44 uoi53 sy44
 mouʔ5 høyʔ5 huoŋ53 tsʰy32
@@ -399,7 +399,7 @@ huɔŋ242(uoŋ32) sɔyŋ212 y53 naŋ53
 tsieŋ44 uɔŋ242 huʔ5 kiʔ5
 siʔ5 lo53 ŋuai32(ŋo32) siŋ44
 tøyŋ242 sɛi242(tsy44) ɛiŋ242 tsi32
-ki44(ki53) siŋ44 sɑi212(sɑiʔ23,sɛiʔ23) yoŋ 44
+ki44(ki53) siŋ44 sɑi212(sɑiʔ23,sɛiʔ23) yoŋ44
 tsyŋ44 uŋ44 tsʰia32 hiɛ242
 søyʔ23 sɛiŋ242 ki44(ki53) siŋ44
 sɛiŋ44(sieŋ44) kuŋ44 tsi44 sy44
@@ -627,7 +627,7 @@ sy44 sy44 y53(y32) tso53
 kɑ212 ŋyoŋ53 tsʰouʔ23(tsʰouʔ23) ieu53
 i32 sia32 ŋuai32(ŋo32) ieu44
 tsʰouʔ23(tsʰouʔ23) tsøy242 pɔyʔ23 muoŋ53
-ieu44 siŋ44 yŋ 44 yŋ 44
+ieu44 siŋ44 yŋ44 yŋ44
 tsyŋ44 - tsʰia32 piŋ53
 mouʔ5 ti44 ŋuai32(ŋo32) kaŋ44
 i32 yoŋ44(yoŋ53) tsai44
@@ -794,14 +794,14 @@ i32 uɔŋ242 tsʰu32 i32
 uɔŋ242 tsʰu32 y53(y32) touŋ53
 kiŋ32 saŋ44 y53(y32) kiŋ44
 kɔuŋ212(houŋ53) kuaŋ44(kuɑŋ212) y53 souŋ44
-puʔ5(puɔʔ 23) huŋ53(uŋ53) ki44(ki53) kɛiʔ23
+puʔ5(puɔʔ23) huŋ53(uŋ53) ki44(ki53) kɛiʔ23
 tsyŋ44 yoŋ53 yŋ32 tsouŋ44
 liŋ53 y32 kɛi212 liŋ53
 miɑŋ242(mɛiŋ242) pi32 kuaŋ44 iŋ53
 siŋ44 ŋyoŋ53 syʔ5 kɑ212
 suɔi212(suɔʔ23) y53 souŋ44 tieŋ53
 pʰi32 tiʔ5 ia32 iŋ53
-piŋ32 siŋ44 sɑi212(sɑiʔ23,sɛiʔ23) yoŋ 44
+piŋ32 siŋ44 sɑi212(sɑiʔ23,sɛiʔ23) yoŋ44
 - piŋ32 saŋ44 tsʰieŋ44
 - tɔyŋ212 tsɑi242 tuŋ44
 mouʔ5 tsi44 kaŋ32 tsi32
@@ -921,7 +921,7 @@ hiŋ53 hɑu242(hɛu53) tsi44 i53
 tʰaŋ53 køyŋ44(køyŋ32,kuŋ44) mi53 sy44
 tsʰieu32 y53 ieu53 i53
 hu44 y53 ŋiʔ5(ŋiŋ53) tsie44
-liaŋ32(liŋ 32) y53 - tsi53
+liaŋ32(liŋ32) y53 - tsi53
 tsʰi32(kʰi32) y53 pu53 sɛ44
 tsiŋ53 sau32(sieu32) ŋo53 mi53
 kʰieu32 tsʰiɛu212 tsʰiɑŋ212(tsʰiɛŋ212) hi44
@@ -956,7 +956,7 @@ pouʔ23 kiɛŋ212(hiɛŋ242) houʔ23 kuaŋ44
 kʰɛiʔ23 tʰɑ242 lieŋ53 lieŋ53
 kɛi212 kiɛŋ212(hiɛŋ242) houʔ23 kuaŋ44
 tsai32(tsɑi212) tsʰiɛu212 tsai32(tsɑi212) ŋyoŋ53
-i32 puʔ5(puɔʔ 23) i32 siɛ242
+i32 puʔ5(puɔʔ23) i32 siɛ242
 tʰɛ53 mo44(mo53,u53) kʰiɛu242 ŋyoŋ53
 i32 i32 tsʰia44(ky44) lai53
 i32 ŋuai32(ŋo32) huoi32 tsʰieŋ44
@@ -1495,13 +1495,13 @@ ia32 ieu32(ou242) mɑŋ242 tsʰau32
 liŋ53 lou212 - hi44
 ieu32(ou242) mi32 ɛiʔ23 iŋ53
 tsʰiaŋ44(tsʰiŋ44) yoŋ53(yoŋ53) uaŋ32 hi44
-hai 53 hɑu242 souŋ44(suoŋ44,suɔŋ212) ŋøy242
+hai53 hɑu242 souŋ44(suoŋ44,suɔŋ212) ŋøy242
 sɛiʔ23 ŋuai32(ŋo32) ŋuɔŋ242 hi44
 ia32 ieu32(ou242) mɑŋ242 tsʰau32
 liŋ53 lou212 - -
 ieu32(ou242) mi32 ɛiʔ23 iŋ53
 uaŋ32 y53 tsʰiaŋ44(tsʰiŋ44) yoŋ53
-hai 53 hɑu242 souŋ44(suoŋ44,suɔŋ212) ŋøy242
+hai53 hɑu242 souŋ44(suoŋ44,suɔŋ212) ŋøy242
 y53(y32) tsi32(tsy32) hieʔ5 tsouŋ44
 tsiŋ53 y53(y32) uoi32
 puŋ44(huoŋ44) huɑŋ212 huɑŋ212 hi44
@@ -1518,7 +1518,7 @@ tsaiŋ242 tsi44 i32 tshuɔʔ23 yoʔ5
 tsiŋ53 y53(y32) uoi32
 lieu53 ki44(ki53) tsʰiaŋ44(tsʰiŋ44) i32
 søy242 y53(y32) ny32
-yŋ 44 ki44(ki53) iŋ53 hi44
+yŋ44 ki44(ki53) iŋ53 hi44
 ny32 uaʔ5 kuaŋ44(kuɑŋ212) hu44
 søy242 uaʔ5 kɛi212 tsʰia32
 tsʰia32 uoŋ32 kuaŋ44(kuɑŋ212) hu44
@@ -1886,9 +1886,9 @@ y53 tsʰy32 luoŋ53 iŋ53 ho53
 tieu53 mɛu53(miɛu53) souʔ23 tsʰy44
 saŋ44 siŋ44 tsɑi242 ŋy53
 kiŋ44 siʔ5 ho53 siʔ5
-kiɛŋ212(hiɛŋ242) tsʰy32 hai 53 hɑu242
+kiɛŋ212(hiɛŋ242) tsʰy32 hai53 hɑu242
 tsi32(tsy32) hi44 tsi32(tsy32) hi44
-y53 tsʰy32 hai 53 hɑu242 ho53
+y53 tsʰy32 hai53 hɑu242 ho53
 tieu53 mɛu53(miɛu53) souʔ23 tsʰu32
 saŋ44 siŋ44 tsɑi242 hou242
 kiŋ44 siʔ5 ho53 siʔ5
@@ -2487,7 +2487,7 @@ tsia44 ŋuai32(ŋo32) nuŋ53 hu44
 ŋuai32(ŋo32) kɑ212 kɛi212 tuŋ53
 tsʰuɔŋ242(suɔŋ242) iʔ5 tsɛiʔ23 kyŋ44 kuŋ44
 tɑu212(tieu212) i32 y53 mau53
-sieu44 i32 sɔuʔ 23(sɔʔ23) -
+sieu44 i32 sɔuʔ23(sɔʔ23) -
 kɛiʔ23 ki44(ki53) siŋ53(sɛiŋ242) ouʔ23
 ki44(ki53) sy32 pɔ212(puɔ212) pɑʔ23(pɑiʔ23) kouʔ23
 nɛi242 tsi44 niʔ5 tsʰøyʔ5(tsouʔ5) piŋ44 tsʰɔyŋ212(tsʰyŋ44,tsʰyŋ44) tsʰɔyŋ212
@@ -2775,7 +2775,7 @@ kɛiʔ23 kyoŋ44 uoi53(uɔi242) -
 sɛi242 øyŋ242 hɑ212(hɑu212) hyoŋ32
 - sy53 - suoŋ53
 y53 køyŋ44(køyŋ32,kuŋ44) sɛiŋ44(sieŋ44) uoŋ53
-kuŋ44 uaʔ5 puʔ5(puɔʔ 23) i32
+kuŋ44 uaʔ5 puʔ5(puɔʔ23) i32
 uɑŋ242(muʔ5) siɛu242 mo44(mo53,u53) kyoŋ44
 siŋ53 tsi44 tɑu212(tiɛu212) i32
 i53 i32 to44 houʔ23
@@ -2910,7 +2910,7 @@ pʰi32 tsai32(tsɑi212) pʰi32 lai53
 ieu44 siŋ44 kʰuŋ32 kiɛu242
 ki44 siɛ242 pouʔ23 tsɛi212
 i53 to44 uoi53(uɔi242) souʔ23
-puʔ5(puɔʔ 23) siɛ242 hieʔ5 tsi32
+puʔ5(puɔʔ23) siɛ242 hieʔ5 tsi32
 ɑ242(huɔi242,kuɔi212) ŋyoŋ53 køyŋ242 tsi32
 tiŋ44(tsiŋ44) hu44 i32 tsi32
 ŋy53 lɑ242(lɛ53) y53 -
@@ -3133,7 +3133,7 @@ puŋ44(huoŋ44) søyʔ23(tsøyʔ23) lyʔ5(sɔuʔ23) tsi32
 - iŋ53 huaʔ5(pʰuaʔ5) ku32
 tiŋ53 sa44(sy44) køyʔ23 ly32
 hieŋ32 yŋ32 puŋ44(huoŋ44) søyʔ23
-huaʔ5(pʰuaʔ5) ku32 yoŋ 44 yoŋ 44
+huaʔ5(pʰuaʔ5) ku32 yoŋ44 yoŋ44
 tsiŋ32 ly32 - -
 tsʰuŋ32(tsʰuŋ32) i32 maŋ53 kiŋ53
 tɑi242(tuɑi242) paŋ44 uoi53(uɔi242) -
@@ -3260,7 +3260,7 @@ niŋ53(nɛiŋ242) mouʔ5 tsi44 tiŋ44
 tsaŋ53 ŋyoŋ53 ki44(ki53) hiŋ44
 houʔ5 miŋ53 y53 kau32(kieu32) ko44
 siaŋ44(siŋ44) uŋ53 y53 ia32
-ŋy53 tsieŋ53 tsɑi242 yoŋ 44
+ŋy53 tsieŋ53 tsɑi242 yoŋ44
 høyʔ5 tsɑi242 y53 tsy32
 louʔ5(ŋouʔ5) pi32 tsi44 huoŋ53
 uoŋ242 ieu32(ou242) søy242 taŋ53
@@ -3270,7 +3270,7 @@ kʰo32 i32 uoi53(uɔi242) tsʰɔ212
 houʔ5 miŋ53 y53 kau32(kieu32) ko44
 siaŋ44(siŋ44) uŋ53 y53 tʰieŋ44
 ŋy53 tsɑi242 y53 tsy32
-høyʔ5 tsieŋ53 tsɑi242 yoŋ 44
+høyʔ5 tsieŋ53 tsɑi242 yoŋ44
 louʔ5(ŋouʔ5) pi32 tsi44 huoŋ53
 uoŋ242 ieu32(ou242) søy242 taŋ53
 ki44(ki53) ɑ242(kiɑ242,hɑ242) mi53 kouʔ23
@@ -3485,7 +3485,7 @@ suoi53 piŋ32 kuɔʔ23 siŋ53
 pouʔ23 tsøy242 uoi53(uɔi242) tsɛiŋ212
 tsouʔ23 lo53 pɑʔ23(pɑiʔ23) sɛiŋ212
 kɑ212 pi32 sɛi212(søy212) mu32
-sɛi212(søy212) mu32 hɔuŋ242 liaŋ32(liŋ 32)
+sɛi212(søy212) mu32 hɔuŋ242 liŋ32
 ŋuai32(ŋo32) tsieŋ44 sɛi212(søy212) puŋ44
 tsʰøyʔ23 tsʰøyʔ23 mi53 su32 pʰɛiŋ212
 puŋ44(huoŋ44) mɑu242 i32 ɔuʔ23
@@ -3587,7 +3587,7 @@ pi32 ieu32(ou242) tsi32 tsieu32
 kɑʔ23 pi32 ki44(ki53) liŋ53
 huŋ44(uoŋ44) iŋ44 kʰuŋ32 uŋ53
 nɑiŋ242(niɛŋ242,nɑiŋ242) ŋuai32(ŋo32) tuʔ5 hi44
-ieu44 siŋ44 yŋ 44 yŋ 44
+ieu44 siŋ44 yŋ44 yŋ44
 - - pi32 ieu32(ou242) ouʔ23
 souʔ23 souʔ23 puŋ44(huoŋ44) ieu32(ou242) kouʔ23
 miŋ53 kiŋ44 tsi44 mo44(mo53,u53) lyʔ5
@@ -3755,7 +3755,7 @@ pouʔ23 kaŋ32 huŋ53 o53
 iŋ53 ti44 ki44(ki53) ɛiʔ23
 mouʔ5 ti44 ki44(ki53) tʰa44
 tsʰiɛŋ212(tsiɛŋ212) tsʰiɛŋ212(tsiɛŋ212) kiŋ44 kiŋ44
-y53 liŋ53 tsʰiŋ44 yoŋ 44
+y53 liŋ53 tsʰiŋ44 yoŋ44
 y53 ly32 pouʔ5(poʔ5) piŋ44
 uaŋ32 pi32 miŋ53 kieu44
 hɑŋ242 puoi44(hi44) lɑ242 tʰieŋ44
@@ -3785,7 +3785,7 @@ kau44 kau44 souŋ44 hou242
 lyʔ5(sɔuʔ23) tuoŋ53 tɔuʔ23 sœyʔ23
 ai44 ŋuai32(ŋo32) tɛiŋ53 kua32
 ŋi53 ŋɑŋ242(ŋiɑŋ242) ŋi53 ŋuoʔ5
-ouʔ23 tsʰuɔʔ23(sœyʔ23,syk5) tsʰouʔ23(tsʰouʔ23) puʔ5(puɔʔ 23)
+ouʔ23 tsʰuɔʔ23(sœyʔ23,syk5) tsʰouʔ23(tsʰouʔ23) puʔ5
 tsøy242 ho53 nɛiŋ53 kouʔ23
 uŋ44 uŋ44 kyŋ44 iŋ53
 y53 tsiʔ5 y53 muʔ5
@@ -3819,7 +3819,7 @@ tʰieŋ44 tsi44 tsʰaŋ44(saŋ44,sɛiŋ44) ŋo32
 ŋuai32(ŋo32) siŋ53 aŋ44 tsɑi242
 - pi32 lieu32 sy44
 miŋ53 tieu44 - -
-ieu32(ou242) - tsia32 yoŋ 44
+ieu32(ou242) - tsia32 yoŋ44
 huaŋ53 uoi32 - -
 pʰi32 pi32 tsieu44 lieu53
 pouʔ23 ti44 su32 kɑi212
@@ -4121,7 +4121,7 @@ niŋ53(nɛiŋ242) mouʔ5 ŋuai32(ŋo32) ieu32
 pʰi32 - pʰi32 yoŋ44
 hɑŋ242 puoi44(hi44) lɑ242 tʰieŋ44
 pʰi32 tsʰiɑŋ242(siɛŋ242) pʰi32 uoi32
-tsieŋ53 to53 y53 yoŋ 44
+tsieŋ53 to53 y53 yoŋ44
 saŋ44 ieu32(ou242) kuɔʔ23 uoi44
 sɛiʔ23 ieu32(ou242) ki32 -
 kuŋ44 tsi32(tsy32) tsɔuʔ23 ko44
@@ -4278,7 +4278,7 @@ køyŋ44(kouŋ44) tsøyʔ23 tɛi212 kɔ212
 tsy32 tsɛ44 hɑ212(hɑu212) souŋ44
 - huŋ44 hɑ212(hɑu212) søy242
 siŋ53 siɛ242 aŋ32(iŋ32) siʔ5
-puʔ5(puɔʔ 23) i32 pɑʔ23(pɑiʔ23) houʔ23
+puʔ5(puɔʔ23) i32 pɑʔ23(pɑiʔ23) houʔ23
 y53 ki44(ki32,kuoi32) y53 sɛiʔ23
 kɛi212 tsɛ53 kɛi212 kɛi212
 kɛi212 kʰuoŋ44 kɛi212 tʰɛiʔ23
@@ -4465,7 +4465,7 @@ ieu32(ou242) ɛiŋ44 ki44(ki53) y32
 kuŋ44 tsi32(tsy32) louʔ5(ŋouʔ5) sy44
 siɛu242 tʰieŋ44 tsi44 hou242
 kau44 kau44 souŋ44 hou242
-ieu32(ou242) ɛiŋ44 ki44(ki53) liaŋ32(liŋ 32)
+ieu32(ou242) ɛiŋ44 ki44(ki53) liŋ32
 kuŋ44 tsi32(tsy32) louʔ5(ŋouʔ5) sy44
 uɑŋ242(muʔ5) paŋ44 tsi44 piŋ53
 tsi44 piŋ53(piŋ32) tsi44 hɑŋ242
@@ -4976,7 +4976,7 @@ tsʰuɔŋ242(suɔŋ242) tɑ212 kɛi212 mɛiŋ242
 hɑu242(hɛu53) y53 - huʔ5
 hɑu242(hɛu53) houʔ23(huʔ5) y53 -
 tʰieŋ44 miɑŋ242(mɛiŋ242) mi53 suoŋ53
-yŋ 44 søy242 hu44 miŋ32
+yŋ44 søy242 hu44 miŋ32
 kuɑŋ212 tsuoŋ44(tsuɔŋ212) y53 kiŋ44
 kʰuɔʔ23 tsɔuʔ23 kuɑŋ212 tsuoŋ44
 suoŋ53 houʔ23(huʔ5) hu32 -
@@ -4986,14 +4986,14 @@ mo44(mo53,u53) nɑiŋ242(niɛŋ242,nɑiŋ242) i32 tsu32
 yʔ5 sieu44(sieu44) kʰuɔʔ23 tɑiʔ23
 iŋ32 ŋyoŋ53 pʰuɔi212 mɛiŋ242
 tsøy242 kieu53 to44 houʔ23
-yŋ 44 tsi44 muɔi242(uɔi242) souŋ44(sɑuŋ212) sy44
+yŋ44 tsi44 muɔi242(uɔi242) souŋ44(sɑuŋ212) sy44
 kʰɑiʔ23 pʰuɔi212 tsʰuɔŋ242(suɔŋ242) tɑ212
-ŋi53 kɑŋ212(kiɑŋ212) y53 yŋ 44
+ŋi53 kɑŋ212(kiɑŋ212) y53 yŋ44
 tsouŋ212 miɑŋ242(mɛiŋ242) pouʔ23 ɛi242
 miɑŋ242(mɛiŋ242) tsi44 pouʔ23 iʔ5
 mo44(mo53,u53) ɑʔ23 i32 kuŋ44
 souŋ44 tsieu44 ŋiɛ242 ouŋ242
-ieu32(ou242) ŋy53 yŋ 44 tsøy242 tʰieŋ44
+ieu32(ou242) ŋy53 yŋ44 tsøy242 tʰieŋ44
 tsʰuɔŋ242(suɔŋ242) tʰieŋ44 tsi44 tsai32
 mo44(mo53,u53) siaŋ44(siŋ44) mo44(mo53,u53) tsʰiɛu212
 ŋi53 hiŋ53 uŋ53 uoŋ53
@@ -5002,10 +5002,10 @@ maŋ53(miŋ53) maŋ53(miŋ53) tsɑi242 kiɑ242
 hɛiʔ23 hɛiʔ23 tsɑi242 suɔŋ242
 tʰieŋ44 naŋ53(nɑŋ242) tʰiŋ53 sy44
 pouʔ23 kiɛ242(ɛi242,iʔ5) mi53 uoŋ53
-tʰieŋ44 uɔi242 yŋ 44 sɛiʔ23
+tʰieŋ44 uɔi242 yŋ44 sɛiʔ23
 sai32(sɑi212,sy32,søy212) pouʔ23 hieʔ5 sɛi212(søy212) huoŋ44
 tsɛi212 tøyŋ242 sɛi242(tsy44) ɛiŋ242
-tsøy242 pi32 yŋ 44 suoŋ44
+tsøy242 pi32 yŋ44 suoŋ44
 lai53(li53) kɑ212 y53 -
 uaʔ5 piŋ53 y53 kiŋ44
 nai32 kiʔ5 uoŋ53 kiɛ212
@@ -5040,7 +5040,7 @@ touŋ53(tuoŋ53,tuoŋ32,tuɔŋ242) tsi32(tsy32) mi53 hɛiŋ53
 touʔ23 tsʰaŋ44(saŋ44,sɛiŋ44) u32 uoŋ53
 po32 iɛu242 miɑŋ242(mɛiŋ242) i32
 siɛʔ23 huaʔ5(pʰuaʔ5) tɑi242(tuɑi242) suoŋ44
-yŋ 44 suoŋ44 tsi44 ly32
+yŋ44 suoŋ44 tsi44 ly32
 ki44(ki53) ɑ242(huɔi242,kuɔi212) y53 liŋ53
 tsʰi32 y53 muʔ5(muoʔ5) ia32
 mi53 y53(y32) hɑu242(hɛu53) hiŋ44
@@ -5137,7 +5137,7 @@ uoŋ53 lau53(lieu53) tsɑi242 tyŋ44
 ki44(ki53) tɑ242(tiɛ242) kuŋ44 tsi32
 houʔ23 lyʔ5 ieu53 kɔuŋ212
 yoŋ44 puoi44(hi44) lɑ242 tʰieŋ44
-ŋy53 yoʔ5 y53 yoŋ 44
+ŋy53 yoʔ5 y53 yoŋ44
 kʰi32 tɑ242(tiɛ242) kuŋ44 tsi32
 ha53 pouʔ23 tsɔuʔ23 iŋ53
 tsʰiaŋ44(tsʰiŋ44) tsieu32 kɛi212 tsai32
@@ -5346,7 +5346,7 @@ tsøy242 sɛ44 tsøy242 tuŋ44
 tsøy242 na44(naŋ53) tsøy242 pɔyʔ23
 mo44(mo53,u53) sy44 pouʔ23 huʔ5
 huoŋ53 uoŋ53 - tsai44
-kʰo32 puʔ5(puɔʔ 23) mi53 uoŋ53
+kʰo32 puʔ5(puɔʔ23) mi53 uoŋ53
 thaʔ5(theiʔ5) sɛi242 ko32(hɔ242) kiŋ44
 mi53 kuoi44(kuŋ44,kʰieu44) tsiɑŋ212 tsi44
 u32 uoŋ53 tsʰiaŋ53(siaŋ53,siŋ53) tsi44
@@ -5798,7 +5798,7 @@ ki44(ki53) miɑŋ242(mɛiŋ242) pʰi32 -
 mi53 pouʔ23 ieu32(ou242) tsʰu44
 tsʰieŋ44(sieŋ44,sieŋ32) kʰɑiʔ23 ieu32(ou242) tsyŋ44
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 tsɛiŋ44(tsɛiŋ53) sɛi242 kyoŋ53(kyoŋ32) ŋøy32
 tsɛiŋ44(tsɛiŋ53) sɛi242 - kʰɑiʔ23
 tsɛiŋ44(tsɛiŋ53) sɛi242 tsɑi242 uɔi242
@@ -5806,7 +5806,7 @@ tsɛiŋ44(tsɛiŋ53) sɛi242 tsɑi242 huʔ5
 tʰieŋ44 kɔuŋ212(houŋ53) - tɑiʔ23
 ny32 hiŋ44(hɛiŋ212) sɛi242 liʔ5
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 i53 piŋ32 ŋiɛ242 luɔi242
 kyoŋ53(kyoŋ32) ŋøy32(ŋøy32) to44 tɔy212
 lau53(lieu53) ŋyoŋ53 i32 tɔy212
@@ -5814,7 +5814,7 @@ kʰɑu212 yoŋ242 sɛiʔ23 nɔy242
 hɑu242(hɛu53) tsɔuʔ23 hɑu242(hɛu53) tsøyʔ23
 mi53 kɑi212 mi53 kiɛu212
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 ny32 - - y53 touŋ44(tyŋ44,tøyŋ212) kuɔʔ23
 lieŋ242 uɔŋ212 i32 uoi53(uɔi242) tɑiʔ23
 pouʔ23 maŋ53(miŋ53) i32 tɑiʔ23
@@ -5822,7 +5822,7 @@ si53 mo44(mo53,u53) mai242 mo44(mo53,u53) tsʰɑiʔ23
 i32 tɑiʔ23 pouʔ23 miŋ53
 i32 mo44(mo53,u53) puoi53(pʰuɔi242) mo44(mo53,u53) kʰiŋ44
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 tʰieŋ44 pouʔ23 - i32 i32 tsieu32
 pouʔ23 ŋiɛ242 tsyŋ53 sɛiʔ23
 kɛi212 kʰieŋ44 i32 tsi32
@@ -5830,7 +5830,7 @@ mi53 maŋ53(miŋ53) mi53 huɔi212
 sɛiʔ23 ho53(hɔ242) sɛiʔ23 hu44
 pɛ44(pi44) tɑu212(tieu212) tsɔuʔ23 iɑ242
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 y53 tieu44 y53 -
 y53 hiɛ212 y53 keiŋ44
 sieu32 tɑi242(tuɑi242) køyŋ242 souŋ44
@@ -5838,20 +5838,20 @@ iŋ53 suɔŋ242 hu44 ieu53 hɛiŋ53
 nɔy242 - y53 touŋ44(tyŋ44,tøyŋ212) kuɔʔ23
 tʰaŋ53(tsiŋ53) kiʔ5 kuoi32 puŋ44
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 pʰi32 tsʰuɔŋ242(suɔŋ242) tɑ212 pouʔ23 si53
-yŋ 44 pouʔ23 øyŋ242 kiɛu242
+yŋ44 pouʔ23 øyŋ242 kiɛu242
 tsʰuoi44 mo44(mo53,u53) lɑu242(lo32) tsʰiaŋ53(siaŋ53,siŋ53) iŋ53
 suɔŋ242 ieu32(ou242) tɛiŋ32(tieŋ32) hiŋ53
 tsɛiŋ44(tsɛiŋ53) sɛi242 mouʔ5 tʰiŋ44
 tɑi242(tuɑi242) miɑŋ242(mɛiŋ242) i32 kʰiŋ44
 uŋ53 uoŋ53 uaʔ5 tsy44
-tsy44 ny32 yŋ 44 suoŋ44
+tsy44 ny32 yŋ44 suoŋ44
 iŋ53 iʔ5 ieu32(ou242) ŋyoŋ53
 tieŋ44 pʰuɔi212 tsi44 kiɛʔ23
 tsie44 ieʔ5 muɔi242(uɔi242) ieu32(ou242) hɑi242
 puoŋ32 siʔ5 sɛiŋ44(sieŋ44) puɑʔ23
-yŋ 44 kɑŋ212(kiɑŋ212) pouʔ23 uoŋ32
+yŋ44 kɑŋ212(kiɑŋ212) pouʔ23 uoŋ32
 tsɑi242 hɑ242 ɑu242(hɑu242,hɑu242) tsi44 siɛ212
 ɛiʔ23 ɛiʔ23 uoi44 ŋi53
 mi53 tɑiʔ23 tsi44 ŋy53
@@ -5991,7 +5991,7 @@ kuŋ44 tsi32(tsy32) siʔ5 mi53
 piŋ32 siŋ44 mo44(mo53,u53) kɛiŋ212
 suoi53 tsʰaŋ44(saŋ44,sɛiŋ44) lɑ242 kie44
 tsɛi212 kiŋ44 uoi53(uɔi242) keiŋ32
-ieu44 siŋ44 yŋ 44 yŋ 44
+ieu44 siŋ44 yŋ44 yŋ44
 nɑiŋ242(niɛŋ242,nɑiŋ242) ŋuai32(ŋo32) tʰu53(tʰu32) y32
 ŋuai32(ŋo32) tsʰaŋ44(saŋ44,sɛiŋ44) pouʔ23 siŋ53
 huŋ53 tʰieŋ44 - nou242
@@ -6757,7 +6757,7 @@ mo44(mo53,u53) kɛiŋ212 mi53 lieʔ5
 yŋ32 uŋ53 uŋ53 uoŋ53
 kʰɑiʔ23 kʰai44(kʰuoi44,kʰe44) kʰuɔʔ23 hɑu242
 søy242 u32 siɛu242 tsi44
-sɛiŋ212 yŋ 44 ɑʔ23 lau53
+sɛiŋ212 yŋ44 ɑʔ23 lau53
 ki53 tiɑŋ242(tɛiŋ242) i32 kuŋ44
 miŋ32 y53(y32) sieu32 tsi32
 tsau44 ka44(ka44) pouʔ23 tsɔ242
@@ -7144,7 +7144,7 @@ tsɑu212 ku32 kaŋ32 kaŋ32
 - ŋuai32(ŋo32) lieʔ5 tsu32
 - souŋ44 tsɑu212 ka32
 tsʰuoi53 ŋuai32(ŋo32) sy44 siŋ53
-- ku32 yoŋ 44 yoŋ 44
+- ku32 yoŋ44 yoŋ44
 - - kuaŋ32(kuoŋ32) siŋ44
 kɛi212 huɔ242 tsʰia32 piŋ53
 i44 ŋuai32(ŋo32) kʰɛiŋ212 siŋ44
@@ -7157,7 +7157,7 @@ iʔ5 pouʔ23 i53 iʔ5
 tsøy242 ku32 tsɑi242 sɛiʔ23
 sɛiŋ44(sieŋ44) miŋ53 ieu32(ou242) tsɔuʔ23
 uŋ44 kyŋ44 tieu44(tieu53) siʔ5
-tsɛiʔ23 tɑi242(søy242) ieu32(ou242) kʰɑuʔ 23
+tsɛiʔ23 tɑi242(søy242) ieu32(ou242) kʰɑuʔ23
 kou212 y53(y32) - suoŋ53
 - souŋ44 tsi44 tsuoŋ44
 tsia44 tsia44 lieʔ5 tsu32
@@ -7184,7 +7184,7 @@ kou212 y53(y32) - suoŋ53
 - souŋ44 tsi44 tsuoŋ44
 tʰieŋ44 miɑŋ242(mɛiŋ242) hieŋ53(ŋuoŋ53) niɛu32
 kɔuŋ212(houŋ53) i53 tsʰaŋ44(saŋ44,sɛiŋ44) suoŋ44
-thaʔ5(theiʔ5) yŋ 44 tʰu53(tʰu32) mouŋ53 mouŋ53
+thaʔ5(theiʔ5) yŋ44 tʰu53(tʰu32) mouŋ53 mouŋ53
 ku32 tɑ212 miɑŋ242(mɛiŋ242) u32 -
 tsiɑŋ212 iʔ5 pi32 sɛi212(søy212) puŋ44
 puŋ44(huoŋ44) miɑŋ242(mɛiŋ242) kʰuɔʔ23 hɑu242
@@ -7202,7 +7202,7 @@ tiɛu242 iʔ5 pi32 sɛi212(søy212) hai32
 sɛi212(søy212) hai32 lai53(li53) ka32
 lai53(li53) ka32(kɑ212) ki53 ki53
 kiŋ32 uoŋ53 mi53 o53
-yŋ 44 siɛu242 miɑŋ242(mɛiŋ242) keiŋ53(keiŋ53) ŋi53
+yŋ44 siɛu242 miɑŋ242(mɛiŋ242) keiŋ53(keiŋ53) ŋi53
 pɑʔ23(pɑiʔ23) lyʔ5 sɛi242 ho53
 tsouŋ212 tiɛʔ23 mi53 suoŋ44
 touŋ53(tuoŋ53,tuoŋ32,tuɔŋ242) huɑʔ23(huɔʔ23) ki44(ki53) suoŋ53
@@ -7255,7 +7255,7 @@ yŋ32 ia32 tʰieŋ44 tsi32
 kɔuŋ212(houŋ53) y53(y32) kʰiŋ44 søy242
 siʔ5 mi53 a44 hɛiŋ53
 siʔ5 tso32 iɛu242 suoŋ44 uoŋ53
-taʔ5 pi32 yŋ 44 u32
+taʔ5 pi32 yŋ44 u32
 houŋ212 huaʔ5(pʰuaʔ5) kiŋ53 tsʰu32
 - iʔ5 ki44(ki53) tsu32
 pʰɛu53 kiŋ53 tsi44 ly32

@@ -114,7 +114,7 @@ tsʰai31 tsʰai31 - -
 pʰok̚5 ŋien11 - tsɨ24
 nam11 iu24 kʰieu11 muk̚2
 put̚2(put̚5) kʰo31 hiu24 ɕit̚5
-hon55 iu24 iu11ŋ̍31
+hon55 iu24 iu11 ŋ̍31
 put̚2(put̚5) kʰo31 kʰiu11 sɨ24
 hon55 tsɨ24 koŋ31 i31
 put̚2(put̚5) kʰo31 iun31 sɨ24
@@ -213,7 +213,7 @@ vi11 - kʰip̚5 pʰu11
 - i24 tʰien55 tsɨ24
 tsuŋ24 sɨt̚2 - ha55
 - kʰi11 sɨ24 tsɨ24
-iu24 tsʰe11(tɕʰi11) kui55ŋ̍31
+iu24 tsʰe11(tɕʰi11) kui55 ŋ̍31
 pi55 - kam24 tʰoŋ11
 vut̚5 - vut̚5 fat̚5
 seu55 pak̚2(pak̚5) so31 -
@@ -1472,7 +1472,7 @@ put̚2(put̚5) lau11(liu11) sok̚2(suk̚2) tsʰu31
 tsuŋ24 ɕien24 hiuŋ24 tʰi55
 vi11 i11 i24(i31) ŋ̍31
 mo11(vu11) ɕin55 ŋin11 tsɨ24 ŋien11
-ŋin11 sɨt̚5 -ŋ̍31
+ŋin11 sɨt̚5 - ŋ̍31
 ioŋ11 tsɨ24 sui31
 put̚2(put̚5) lau11(liu11) sok̚2(suk̚2) ɕin24
 tsuŋ24 ɕien24 hiuŋ24 tʰi55
@@ -1779,25 +1779,25 @@ pi31 kiun24 tsɨ31 hi24
 put̚2(put̚5) su55 - hi24
 sak̚5 tsʰu31 sak̚5 tsʰu31
 mo11(vu11) sɨt̚5 ŋo24 -
-sam24 se55(soi55,sui55) kon55ŋ̍31
+sam24 se55(soi55,sui55) kon55 ŋ̍31
 mok̚5 ŋo24 hen31(kʰien31) ku55
-- tɕioŋ24(tɕioŋ55) hi55ŋ̍31
+- tɕioŋ24(tɕioŋ55) hi55 ŋ̍31
 tit̚2(sɨt̚2) pi31 lok̚5(ŋok̚5) tʰu31
 lok̚5(ŋok̚5) tʰu31 lok̚5(ŋok̚5) tʰu31
 - tet̚2(tiet̚2) ŋo24 so31
 sak̚5 tsʰu31 sak̚5 tsʰu31
 mo11(vu11) sɨt̚5 ŋo24 mak̚5
-sam24 se55(soi55,sui55) kon55ŋ̍31
+sam24 se55(soi55,sui55) kon55 ŋ̍31
 mok̚5 ŋo24 hen31(kʰien31) tet̚2
-- tɕioŋ24(tɕioŋ55) hi55ŋ̍31
+- tɕioŋ24(tɕioŋ55) hi55 ŋ̍31
 tit̚2(sɨt̚2) pi31 lok̚5(ŋok̚5) kuet̚2
 lok̚5(ŋok̚5) kuet̚2 lok̚5(ŋok̚5) kuet̚2
 - tet̚2(tiet̚2) ŋo24 tsʰɨt̚5
 sak̚5 tsʰu31 sak̚5 tsʰu31
 mo11(vu11) sɨt̚5 ŋo24 meu11
-sam24 se55(soi55,sui55) kon55ŋ̍31
+sam24 se55(soi55,sui55) kon55 ŋ̍31
 mok̚5 ŋo24 hen31(kʰien31) lo11
-- tɕioŋ24(tɕioŋ55) hi55ŋ̍31
+- tɕioŋ24(tɕioŋ55) hi55 ŋ̍31
 tit̚2(sɨt̚2) pi31 lok̚5(ŋok̚5) kau24
 lok̚5(ŋok̚5) kau24 lok̚5(ŋok̚5) kau24
 - tsɨ24 iun31 ho55
@@ -2213,11 +2213,11 @@ sɨ55 ŋi55 i11 -
 kʰo31 i24 tɕi55(tɕʰi24) tsʰɨ11
 pi55 tsɨ24 ioŋ11 ioŋ11
 kʰo31 i24 lok̚5(ŋok̚5) ki24
-kʰi31 kʰi11 sɨt̚5ŋ̍11
+kʰi31 kʰi11 sɨt̚5 ŋ̍11
 pit̚2 ho11 tsɨ24 -
 kʰi31 kʰi11 tɕʰi31 tɕʰi24
 pit̚2 tsʰe11(tɕʰi11) tsɨ24 -
-kʰi31 kʰi11 sɨt̚5ŋ̍11
+kʰi31 kʰi11 sɨt̚5 ŋ̍11
 pit̚2 ho11 tsɨ24 li24
 kʰi31 kʰi11 tɕʰi31 tɕʰi24
 pit̚2 suŋ55 tsɨ24 tsɨ31
@@ -2595,7 +2595,7 @@ fat̚5 kʰo24 fat̚5 kʰo24
 kʰi11 tset̚2 put̚2(put̚5) ien31
 ŋo24 - tsɨ24 tsɨ31
 - tʰeu55 iu24 tɕʰien55
-kiu31 - tsɨ24ŋ̍11
+kiu31 - tsɨ24 ŋ̍11
 - -
 ŋo24 - tsɨ24 tsɨ31
 - i24 ɕiu55 soŋ11
@@ -2931,11 +2931,11 @@ vut̚5 kʰi11 tsɨ31 i31
 vi11 kʰi11 hai11 i31
 vut̚5 kʰi11 iu24 i31
 vi11 kʰi11 sɨ11 i31
-nam11 iu24 ka24ŋ̍11
+nam11 iu24 ka24 ŋ̍11
 - ien11 tsau55 tsau55
 kiun24 tsɨ31 iu24 tɕiu31
 ka24 pin24 sɨt̚2 ien55 i24 lok̚5
-nam11 iu24 ka24ŋ̍11
+nam11 iu24 ka24 ŋ̍11
 - ien11 - -
 kiun24 tsɨ31 iu24 tɕiu31
 ka24 pin24 sɨt̚2 ien55 i24 -
@@ -3185,7 +3185,7 @@ tʰien11 tsʰa24(ki24) ki55 hau55
 ɕi55 meu31 kʰuŋ31 -
 sɨn24 pi31 tʰai55 -
 tɕʰiuŋ11 kʰi11 kʰiun11 tsʰu31
-kit̚2 ŋit̚2 kaŋ24ŋ̍31
+kit̚2 ŋit̚2 kaŋ24 ŋ̍31
 ki55 tsʰa24(tsʰai24) ŋo24 ma24
 - tsɨ24 so31 tʰuŋ11
 - luk̚5 - -
@@ -4076,7 +4076,7 @@ put̚2(put̚5) i24 kʰi11 tɕioŋ24
 put̚2(put̚5) i24 kʰi11 tsʰoŋ11
 vi11 tʰien24 iu24 hon55
 kam24(kam55) it̚5 iu24 koŋ24
-- pi31 -ŋ̍31
+- pi31 - ŋ̍31
 tsuŋ24 ŋit̚2 tɕʰit̚2 ɕioŋ24
 - tset̚2 tɕʰit̚2 ɕioŋ24
 put̚2(put̚5) saŋ11(sɨn11) po55 tsoŋ24
@@ -4209,7 +4209,7 @@ mo11(vu11) hen11 on24 tsʰu31
 tɕʰin55 kʰiuŋ55 ŋi55 vi55
 tsaŋ24(tsaŋ55,tsɨn55) tsʰɨt̚5 sɨ55 i31
 sɨn11 tsɨ24 tʰaŋ24 tsɨ24
-sɨt̚2 kuk̚2 i24ŋ̍31
+sɨt̚2 kuk̚2 i24 ŋ̍31
 - ŋi55 kiun24 tsɨ31
 mo11(vu11) hen11 on24 ɕit̚5
 tɕʰin55 kʰiuŋ55 ŋi55 vi55
@@ -4536,7 +4536,7 @@ tet̚2 im24 loi11 kuat̚2
 sɨt̚2 ien55 tɕʰia24(tɕʰia31) hi31
 i24 pi31 pʰiaŋ11(pʰin11) lim11
 iu24 ɕip̚5 vi11 -
-sɨn11 pi31 sak̚5ŋ̍31
+sɨn11 pi31 sak̚5 ŋ̍31
 liaŋ55(lin55) tet̚2 loi11 kau55
 sɨt̚2 ien55 tɕʰia24(tɕʰia31) -
 hau55(ho31) ŋi55 mo11(vu11) sa55
@@ -4750,19 +4750,19 @@ haŋ11(hen11,hoŋ11) kui24 i11 tsu24
 van55 min11 so31 moŋ55
 pi31 tu24(tu55) ŋin11 sɨ55
 tʰoi11 lip̚2 - tsʰot̚2
-pi31 kiun24 tsɨ31ŋ̍31
+pi31 kiun24 tsɨ31 ŋ̍31
 tsʰu11 tsʰɨt̚5 i11 fat̚2
 ŋo24 put̚2(put̚5) kien55 hi24
 ŋo24 ɕim24 put̚2(put̚5) sot̚2
 pi31 tu24(tu55) ŋin11 sɨ55
 tsʰuŋ24 ŋi31 - sɨt̚5
-pi31 kiun24 tsɨ31ŋ̍31
+pi31 kiun24 tsɨ31 ŋ̍31
 vi55 tsɨ24 iun31 kit̚2
 ŋo24 put̚2(put̚5) kien55 hi24
 ŋo24 ɕim24 - kiet̚2
 pi31 tu24(tu55) ŋin11 sɨ55
 sui11 tai55 i11 li55
-pi31 kiun24 tsɨ31ŋ̍31
+pi31 kiun24 tsɨ31 ŋ̍31
 kien31 - i11 -
 ŋo24 put̚2(put̚5) kien55 hi24
 ŋien11 tɕʰiuŋ11 tsɨ24 mai55
@@ -5064,7 +5064,7 @@ ku31 kuŋ24 - fu55
 loi11 tsʰeu11(tseu24) tseu31 ma24
 lit̚5(sai55,soi55) ɕi24 sui31 -
 tsɨ55 i11 kʰia24 ha55
-- kʰip̚5 -ŋ̍31
+- kʰip̚5 - ŋ̍31
 - loi11 - i24
 tsu24 ŋien11 - -
 - tsʰa11 i11 i11
@@ -5723,7 +5723,7 @@ mo11(vu11) tɕiuŋ24(tɕiuŋ31) kui31 sui11
 i24 - - -
 sɨt̚2 ot̚2 kʰieu55 ŋiok̚2
 mo11(vu11) - tsaŋ24(tsaŋ55,tsɨn55) fan31
-voŋ11 iuk̚5 ŋiuk̚5ŋ̍31
+voŋ11 iuk̚5 ŋiuk̚5 ŋ̍31
 sɨ55 iuŋ55 tʰai55 kien55
 soŋ24(soŋ31,soŋ55) ti55 pan31 pan31
 ha24(ha31,ha55) min11 tsut̚2 -
@@ -6065,7 +6065,7 @@ fuk̚2(pʰuk̚2) - ŋo24 -
 i11 kʰi31 put̚2(put̚5) ti24(tsɨ55) i11 tsok̚2
 i11 pi31 pi24(fi24) -
 sɨ11 it̚5 - fet̚5
-ki55 tsɨ24 im24ŋ̍31
+ki55 tsɨ24 im24 ŋ̍31
 fan31 i11 loi11 -
 min11 tsɨ24 moŋ31 kʰit̚5
 - lioŋ11 san55 pi55
@@ -6316,7 +6316,7 @@ tsʰut̚2 ɕiu55(ɕiuk̚2) - tʰu11
 - fu55 tɕien55 tsɨ24
 tɕʰiaŋ24(tɕʰin24) tɕiu31 pak̚2 fu11
 kʰi11 hau11 vi11 ho11
-- - ɕien24ŋ̍11
+- - ɕien24 ŋ̍11
 kʰi11 - vi11 ho11
 vi11 sun31 kʰip̚5 pʰu11
 kʰi11 - vi11 ho11
@@ -6705,7 +6705,7 @@ sok̚2(suk̚2,ɕiuk̚2) - fo11(vo11) min11
 ŋo24 hak̚2(kʰiet̚2) - tsɨ31
 iun31 kon24 kia24(kʰiet̚5) saŋ11
 - i24(i31) tɕʰit̚2 -
-ɕiam11 iu24 to24ŋ̍11
+ɕiam11 iu24 to24 ŋ̍11
 iu24 - iu24 -
 - - - li24
 i24 hioŋ31 i24 sɨ55
@@ -6837,7 +6837,7 @@ tsɨn31 ku31 i11 tsɨ24
 - tsai31(tsai55,tsoi55) nam11 meu31
 po24(po55) kia24(kʰiet̚5) pak̚2 hok̚2
 sɨt̚5 ham11 sɨ24(sɨ11) fat̚5
-fet̚5 loi11 -ŋ̍31
+fet̚5 loi11 - ŋ̍31
 tsai31(tsai55,tsoi55) kʰioŋ24 kʰip̚5 -
 kʰi11 hioŋ31 i24(i11) -
 kʰi11 lip̚2 i24(i11) kiu31
@@ -6923,7 +6923,7 @@ sɨ24(ɕi24) ma24 sɨ24(sɨ11) tsok̚2
 tsʰai55(tsʰoi24,ti55,tu55,tui55) - tsɨ24 ia24
 pʰok̚5 ŋien11 - -
 iu24 - iu24 -
-iu24 - iu24ŋ̍11
+iu24 - iu24 ŋ̍11
 i24 tsʰa24(ki24) kʰia55 kʰia55
 sɨ24(ɕi24) mo11(vu11) ɕia11
 sɨ24(ɕi24) ma24 sɨ24(sɨ11) -
@@ -7068,7 +7068,7 @@ hioŋ31 i24 - -
 sɨ55 - sɨ55 ŋi11
 kiuŋ55(koŋ55,hoŋ11) fuk̚2 ki55 to24
 tsu24 kuŋ24 foŋ11 tsu31
-it̚5 kʰi11 fuk̚2ŋ̍31
+it̚5 kʰi11 fuk̚2 ŋ̍31
 tɕʰiu24 i11 tsai31(tsai55,tsoi55) soŋ11
 ha55 i11 - -
 pʰak̚5(pʰet̚5) meu31 - koŋ24
