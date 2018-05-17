@@ -8,9 +8,9 @@ import codecs
 import re
 
 class Reconstructor():
-    f = codecs.open('result_descend.csv', 'r', 'utf-8')
-    out = codecs.open('reconstructed_forms.txt', 'w', 'utf-8')
-    f2 = codecs.open('ending_chars.txt', 'r', 'utf-8')
+    f = codecs.open('csv/result_descend.csv', 'r', 'utf-8')
+    out = codecs.open('txt/reconstructed_forms.txt', 'w', 'utf-8')
+    f2 = codecs.open('txt/ending_chars.txt', 'r', 'utf-8')
     find_all = re.compile(u'(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\r\n')
     initials = []
     finals = []
